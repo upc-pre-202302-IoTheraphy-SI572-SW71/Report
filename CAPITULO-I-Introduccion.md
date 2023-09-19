@@ -105,4 +105,94 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	#### Problem Statement 
 	Nuestro entorno evidencia que las personas con dificultades motoras se ven limitadas a tener una recuperación exitosa al no poder asistir puntualmente a todas las citas del especialista. Además, los fisioterapeutas cuentan con una agenda recargada, lo que a menudo resulta en el incumplimiento de las atenciones a domicilio, afectando la evolución del tratamiento y provocando la pérdida de pacientes. Por otro lado, los pacientes experimentan dificultades para acceder al reporte de avance de su recuperación de manera fácil y rápida, ya que actualmente deben acudir al especialista o ponerse en contacto con él, lo que les genera molestias y pérdida de tiempo.
 	**¿Cómo mejorar la atención a pacientes con dificultades motoras y garantizar el cumplimiento de citas para fisioterapeutas, al mismo tiempo que se facilita el acceso a informes de recuperación sin contacto directo con el especialista?**
+
+ - 1.2.2.2. Lean UX Assumptions.
+
+	 #### Business Outcomes  
+	
+	•	Vistas frecuentes por parte de los pacientes a los videos de rutinas elaborados por los fisioterapeutas.
+	
+	•	10% de reserva de citas médicas inicialmente.
+	
+	•	Visualización constante de las citas programadas para cada fisioterapeuta.
+	  
+	•	Obtener ganancias el 10% cada mes gracias al beneficio que reciben los fisioterapeutas y pacientes con dificultad motora quiénes tienen la oportunidad de conseguir mayor alcance de sus servicios y lograr una recuperación efectiva, respectivamente. 
+	
+	#### Users  
+	
+	•	Pacientes mayores de edad con dificultades motoras que reciben terapias. 
+	
+	•	Fisioterapeutas profesionales. 
+	 
+	#### User Outcomes & Benefits
+	 
+	##### Pacientes:
+	
+	•	Lograr una recuperación exitosa, debido a la efectividad del tratamiento remoto con los videos de rutinas realizados por los fisioterapeutas. 
+	 
+	•	Ahorrar tiempo y dinero para asistir al centro de rehabilitación o consultorio donde recibe la terapia. 
+	 
+	•	Acceder a su reporte de tratamiento las 24 horas sin necesidad de contactarse con el fisioterapeuta. 
+	 
+	##### Fisioterapeutas: 
+	
+	•	Brindar atención remota a sus pacientes a través de videos explicativos que tienen efectividad significativa para la recuperación de sus pacientes. 
+	
+	•	Organizar y tener una visualización de todas las citas pendientes para prepararse con tiempo a próximas terapias de sus pacientes. 
+	
+	•	Lograr que sus pacientes recomienden sus servicios a través de sus comentarios para tener mayor alcance. 
+	
+	##### Features: 
+	
+	•	Rutinas grabadas por los fisioterapeutas para el tratamiento que requiere el paciente con dificultad motora. 
+	
+	•	Información del paciente y diagnóstico del avance de su tratamiento en cada atención disponible las 24 horas. 
+	
+	•	Sección de reseña y calificación de los fisioterapeutas.  
+	
+	•	Calendario de las citas pendientes para los fisioterapeutas. 
+	
+	#### SUPOSICIONES DE NEGOCIO
+	
+	1.	Creo que mis usuarios necesitan, conocer qué ejercicios de rutina son las ideales para su tratamiento y cómo deben hacerlo para lograr una recuperación efectiva sin necesidad de acudir presencialmente con el especialista. Respecto al fisioterapeuta necesita cumplir con todas las atenciones acordadas con los pacientes. 
+	
+	2.	Estas necesidades se pueden resolver con una aplicación que permita a los fisioterapeutas subir videos de rutinas grabadas donde expliquen detalladamente a los pacientes cómo deben realizarlo para que estos tengan un tratamiento remoto igual de efectivo. Además, que los pacientes puedan acceder a su diagnóstico. 
+	
+	3.	Mis clientes iniciales son (o serán) los pacientes con dificultades motoras que tienen complicaciones para acudir presencialmente a un fisioterapeuta con el fin de recibir su tratamiento. Asimismo, los clientes serán los profesionales fisioterapeutas. 
+	
+	4.	El valor #1 que un cliente quiere de mi servicio es para los pacientes efectividad de las rutinas grabadas en la evolución de su tratamiento. En cuanto a los fisioterapeutas, buscan cumplir con las atenciones pactadas, de manera que los pacientes no dejen de contar con sus servicios. 
+	
+	5.	El cliente también puede obtener beneficios adicionales, respecto a los pacientes con el acceso a su diagnóstico del tratamiento que recibe y cómo va evolucionando. Así como de tiempo, ya que no es necesario ir presencialmente al fisioterapeuta para recibir la terapia. Respecto al fisioterapeuta, obtiene beneficio económico, ya que los pacientes no dejarán de contratar sus servicios y podrán recomendarlo con otros pacientes. Asimismo, de tiempo, puesto que dejará de preocuparse por realizar una atención en un día con la agenda recargada. 
+	
+	6.	Voy a adquirir la mayoría de mis clientes a través de publicidad en centros de rehabilitación para personas con dificultades motoras. También, a través de las redes sociales con testimonios de pacientes y fisioterapeutas que hacen uso de la aplicación. 
+	
+	7.	Haremos dinero a través del 10% mensual de la inscripción de cada fisioterapeuta que usa la aplicación. Así como del valor de 1,69 soles por plan premium para acceder a un reporte más detallado de la evolución del tratamiento para los pacientes. 
+	
+	8.	Mi competencia principal en el mercado serán las aplicaciones enfocadas en la salud y que brindan servicios similares. 
+	
+	9.	Los venceremos debido a la propuesta de valor de nuestra aplicación la cual es video de rutina personalizada para cada paciente. De modo que, la terapia que reciben presencialmente con la atención remota sea igual de efectiva. Por el lado de los fisioterapeutas, al grabar videos se ahorrarán tiempo para no saturarse en días con agendas recargadas. 
+	
+	10.	Mi mayor riesgo de producto son las fallas en la aplicación por errores de programación que no permitan el acceso al reporte de evolución del tratamiento de los pacientes durante las 24 horas. Asimismo, la invasión a la seguridad o ataques cibernéticos que violen la privacidad de los pacientes y fisioterapeutas. 
+	
+	11.	Resolveremos esto a través de una revisión y actualización con mejoras o funciones adicionales de la aplicación para brindar mayor eficacia tanto para pacientes y fisioterapeutas. 
+	
+	#### SUPOSICIONES DE USUARIO
+	
+	1.	¿Quién es el usuario? 
+	Pacientes con dificultades motoras y que estén dispuestos a recibir una terapia remota a través de videos grabados por los especialistas. Asimismo, estos usuarios deben estar familiarizados con el uso de dispositivos para una mayor facilidad al momento de hacer uso de la aplicación. Nuestros usuarios también son los fisioterapeutas que requieren de un medio para brindar atención de forma no presencial para evitar la pérdida de pacientes. 
+	
+	2.	¿Dónde encaja nuestro producto en su trabajo o vida?  
+	En cuanto a los pacientes encaja en su vida en el área de la salud, ya que requieren de dichas terapias para volver a recuperar su actividad motora. En el caso de los fisioterapeutas encaja en su trabajo quiénes se encargan de brindar atención por medio de rutinas o terapias. 
+	
+	3.	¿Cómo y cuándo es usado nuestro producto? 
+	Los pacientes usarán el producto cuando les corresponda realizar una rutina de acuerdo con su tratamiento. Para ello utilizarán nuestra aplicación a través de un dispositivo. En cuanto a los especialistas lo utilizarán al momento de desempeñar su trabajo brindando atención a los pacientes, para ello grabarán videos de rutinas con explicación para posteriormente subirlos a la aplicación. 
+	
+	4.	¿Qué problema tendría nuestro producto y cómo se pueden resolver? 
+	Nuestro producto podría tener problemas respecto al diseño y desarrollo. En el caso del diseño, este puede no cumplir con los patrones o heurísticas. Como consecuencia en lugar de ayudar al paciente este se vería confundido y desinteresado en seguir usando la aplicación. Respecto al desarrollo puede que nuestro producto no realice las funciones correctamente o las funciones sean diferentes a la orientación visual de la aplicación. De modo que, genera una desilusión y frustración en nuestros usuarios tanto en los pacientes como en los fisioterapeutas. Este problema se puede solucionar siguiendo y verificando el cumplimiento de los patrones y heurísticas para el diseño. Así como, siguiendo las convenciones, principios y patrones en la programación. 
+	
+	5.	¿Qué características son importantes? 
+	Entre las características más importantes de nuestra aplicación se encuentran: visualización de videos de rutinas grabados por fisioterapeutas de acuerdo con el tratamiento del paciente. Asimismo, es importante que los pacientes accedan al reporte de su evolución en cualquier momento. Por último, debe ser seguro para proteger los datos de los fisioterapeutas y pacientes evitando invadir su privacidad. 
+	
+	6.	¿Cómo debe verse nuestro servicio y cómo debe comportarse?  
+	Nuestro producto debe verse amigable, funcional y confiable de modo que no resulte tedioso para el usuario en su primera interacción. Asimismo, se deben elegir los colores de acuerdo con la psicología de los pacientes para que genere un impacto positivo en ellos.
 	 
