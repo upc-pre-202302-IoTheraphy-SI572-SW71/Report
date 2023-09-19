@@ -98,3 +98,11 @@ Cuando una familia cuenta con un integrante que requiere de supervisión constan
 ##### How much - ¿Cuál es la magnitud del problema? 
 	
 Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros. 
+
+- 1.2.2 Lean UX Process.
+  - 1.2.2.1. Lean UX Problem Statements.
+  
+	#### Problem Statement 
+	Nuestro entorno evidencia que las personas con dificultades motoras se ven limitadas a tener una recuperación exitosa al no poder asistir puntualmente a todas las citas del especialista. Además, los fisioterapeutas cuentan con una agenda recargada, lo que a menudo resulta en el incumplimiento de las atenciones a domicilio, afectando la evolución del tratamiento y provocando la pérdida de pacientes. Por otro lado, los pacientes experimentan dificultades para acceder al reporte de avance de su recuperación de manera fácil y rápida, ya que actualmente deben acudir al especialista o ponerse en contacto con él, lo que les genera molestias y pérdida de tiempo.
+	**¿Cómo mejorar la atención a pacientes con dificultades motoras y garantizar el cumplimiento de citas para fisioterapeutas, al mismo tiempo que se facilita el acceso a informes de recuperación sin contacto directo con el especialista?**
+	 
