@@ -70,32 +70,31 @@ Este es el segmento que generará los ingresos para el equipo de DigitAlholics. 
 	Sin embargo, una de las diferencias que existe entre Theraphy y MediQuo es que, mientras en MediQuo solo se hacen consultas digitales, en Theraphy se tiene contacto directo y presencial con el personal de salud. Además, al contrario que la aplicación MediQuo, Theraphy puede generar un historial médico virtual que varía dependiendo de cada contratante.
 
 #### Herramienta 5W y 2H 
-	
-	##### What - ¿Cuál es el problema? 
-	
-	El problema identificado es la cantidad exorbitante de personas de edad avanzada y/o que sufren de limitaciones físicas o de otra índole. Es decir, que no pueden mantener un cuidado autónomo y requieren de la asistencia de otro individuo para mantener una salud estable. 
-	
-	##### When - ¿Cuándo sucede el problema? 
-	
-	Cuando es necesaria la supervisión o tratamiento de un médico para individuos con capacidades limitadas, o simplemente cuando se requiere de personas extras para el cuidado de los pacientes y los familiares que carecen de tiempo o son incapaces de atenderlos sin ayuda. 
-	
-	##### Where - ¿Dónde surge el problema? 
-	
-	El problema surge en los distintos hogares de la capital, pues día a día las personas deben salir a ejercer sus obligaciones laborales y no cuentan con el tiempo suficiente y la ayuda necesaria para mantener la calidad de vida y cuidado de sus familiares con limitaciones físicas o mentales. 
-	
-	##### Who - ¿Quiénes son afectados por el problema? 
-	
-	Los principales afectados son las personas de la tercera edad y aquellas que presentan enfermedades que precisan de atención inmediata. 
-	
-	##### Why - ¿Cuál es la causa del problema? 
-	
-	La causa del problema es principalmente la falta de tiempo por parte de los familiares de personas de edad avanzada y/o con discapacidades físicas o de otra índole para cuidarlos y mantenerlos con un estado de salud estable. 
-	
-	##### How - ¿Cómo se llevan a cabo los hechos? 
-	
-	Cuando una familia cuenta con un integrante que requiere de supervisión constante, los demás miembros tienen que brindar gran parte de su tiempo para su cuidado. Además, el encontrar personas de confianza y que estén capacitadas para la atención del individuo es complicado, lo cual solo genera que la situación sea más difícil, y esto empeora si el paciente requiere de uso de medicina o dispositivos médicos. Por eso, es necesaria una forma fácil y sencilla de contactar con la ayuda necesaria para la atención de los familiares vulnerables. 
-	
-	##### How much - ¿Cuál es la magnitud del problema? 
-	
-	Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros. 
 
+##### What - ¿Cuál es el problema? 
+
+El problema identificado es la cantidad exorbitante de personas de edad avanzada y/o que sufren de limitaciones físicas o de otra índole. Es decir, que no pueden mantener un cuidado autónomo y requieren de la asistencia de otro individuo para mantener una salud estable. 
+	
+##### When - ¿Cuándo sucede el problema? 
+	
+Cuando es necesaria la supervisión o tratamiento de un médico para individuos con capacidades limitadas, o simplemente cuando se requiere de personas extras para el cuidado de los pacientes y los familiares que carecen de tiempo o son incapaces de atenderlos sin ayuda. 
+	
+##### Where - ¿Dónde surge el problema? 
+	
+El problema surge en los distintos hogares de la capital, pues día a día las personas deben salir a ejercer sus obligaciones laborales y no cuentan con el tiempo suficiente y la ayuda necesaria para mantener la calidad de vida y cuidado de sus familiares con limitaciones físicas o mentales. 
+	
+##### Who - ¿Quiénes son afectados por el problema? 
+	
+Los principales afectados son las personas de la tercera edad y aquellas que presentan enfermedades que precisan de atención inmediata. 
+	
+##### Why - ¿Cuál es la causa del problema? 
+	
+La causa del problema es principalmente la falta de tiempo por parte de los familiares de personas de edad avanzada y/o con discapacidades físicas o de otra índole para cuidarlos y mantenerlos con un estado de salud estable. 
+	
+##### How - ¿Cómo se llevan a cabo los hechos? 
+	
+Cuando una familia cuenta con un integrante que requiere de supervisión constante, los demás miembros tienen que brindar gran parte de su tiempo para su cuidado. Además, el encontrar personas de confianza y que estén capacitadas para la atención del individuo es complicado, lo cual solo genera que la situación sea más difícil, y esto empeora si el paciente requiere de uso de medicina o dispositivos médicos. Por eso, es necesaria una forma fácil y sencilla de contactar con la ayuda necesaria para la atención de los familiares vulnerables. 
+	
+##### How much - ¿Cuál es la magnitud del problema? 
+	
+Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros. 
