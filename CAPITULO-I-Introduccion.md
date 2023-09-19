@@ -20,3 +20,25 @@ A continuación, procederemos a informar sobre a lo que se dedica nuestra empres
 | ![Jose Del Carpio](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ProfilePhotos/Jose%20Del%20Carpio.png) | **Jose Fabricio Jared Del Carpio Lopez**: Mi nombre es Jose Fabricio Jared Del Carpio Lopez, tengo 20 años, actualmente estoy en el octavo ciclo de la carrera de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona segura y creativa. Gracias a estas cualidades tengo la capacidad de resolver dificultades del día a día. Estoy seguro de que el proyecto dará opciones innovadoras que ayuden a mejorar la calidad de vida de la población. |
 | ![Maria Ahuanari](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ProfilePhotos/Maria%20Ahuanari.png) | **Maria Alexandra Ahuanari Murayari**: Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). La razón por la cual elegí la carrera es porque me gustaría trabajar en el desarrollo de soluciones tecnológicas para los problemas que aquejan a nuestra sociedad. Por otra parte, tengo interés y ciertos conocimientos en los temas de UX/UI aprendidos en anteriores cursos. Finalmente, me comprometo a cumplir con todas las actividades asignadas para desarrollar y presentar un buen trabajo. |
 | ![Cristhian Gomez ](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ProfilePhotos/Cristhian%20Gomez.png) | **Cristhian Gabriel Gómez De La Cruz**: Mi nombre es Cristhian Gómez, actualmente resido en Lima y tengo 20 años. Hoy por hoy, soy un estudiante de la Universidad Peruana de Ciencias Aplicadas y me encuentro cursando el séptimo ciclo de la carrera de Ingeniería de Software. Elegí esta carrera debido a mi gusto por la lógica detrás de las computadoras y quisiera en el futuro poder desarrollar aplicaciones que marquen un impacto en el mundo. Considero que una de mis habilidades es la persistencia, siempre busco dar todo de mí para lograr mis metas. Me comprometo a aportar soluciones ante los problemas que encontremos en el desarrollo de nuestro trabajo. |
+
+### 1.2. Solution Profile
+En este punto del informe, pasaremos a la explicación detallada de nuestro producto software, tanto su factor innovador y la forma en la cual será monetizado.
+
+#### Product Name
+Se decidió llamar a nuestro producto “IoTheraphy”, ya que, en el lenguaje inglés, “Therapist” es una abreviación de terapeuta y "Physical”, fÍsica. Además, ahora nos enfocaremos más en el desarrollo de diferentes dispositivos como computadoras o celulares, por lo que agregamos “IoT”, por el Internet de las Cosas; por ello, el nombre completo se traduce como “Internet de las Cosas para Fisioterapia”. Del mismo modo, se eligió este idioma porque, además de generar más atractivo hacia el público, es el idioma más hablado del mundo, lo cual vuelve más comercial a nuestra aplicación. 
+
+#### Product Description
+Este software es innovador ya que ofreceremos la posibilidad de contratar
+profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o
+de otra índole. En esta aplicación, los contratantes podrán visualizar una larga lista de
+personal de salud altamente calificado. Asimismo, se presentarán las referencias de
+pacientes o contratantes anteriores junto con la tarifa estándar de consulta y diferentes
+paquetes que se adecuen al área médica correspondiente a cada profesional. Con el
+registro del usuario y la elección del médico o enfermero se podrá dar seguimiento
+continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue
+a la frecuencia de visita elegida por el contratante. Finalmente, la aplicación móvil y sitio
+web, contará con convenios con instituciones públicas y privadas ante la derivación del
+adulto mayor o persona con limitación para un chequeo más inmersivo. Así, al llegar a
+estas instituciones podrán acceder sin necesidad de crear un nuevo historial médico. Ya
+que podrán visualizar todos sus datos y mediciones que se efectuaron en cada visita.
+
