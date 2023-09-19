@@ -42,3 +42,11 @@ adulto mayor o persona con limitación para un chequeo más inmersivo. Así, al 
 estas instituciones podrán acceder sin necesidad de crear un nuevo historial médico. Ya
 que podrán visualizar todos sus datos y mediciones que se efectuaron en cada visita.
 
+#### Monetización
+Las soluciones de software desarrolladas para IoTheraphy generará ingresos de la siguiente forma.
+
+##### Pacientes:
+Este segmento podrá usar las aplicaciones de forma gratuita. La cita médica inicial tendrá un costo definido por el fisioterapeuta y el total del dinero será destinado a él. Del mismo modo, el costo del tratamiento designado por el fisioterapeuta también será establecido por este mismo, recibiendo de igual forma el total del precio pagado por el beneficiado. 
+
+##### Fisioterapeutas: 
+Este es el segmento que generará los ingresos para el equipo de DigitAlholics. Puesto que, la solución propuesto consta con dos planes de pago para que los especialistas puedan acceder a las caracteristicas con las que cuentan nuestros sistemas. El primer plan, “Standard”, permitirá al doctor fisioterapeuta atender hasta a un máximo de 10 pacientes, siendo capaz de agendar citas presenciales, virtuales y brindar tratamientos asíncronos a los pacientes. Por otro lado, el plan “Premium” permitirá realizar las mismas acciones con cualquier número de pacientes; es decir, una cantidad ilimitada. Ambas suscripciones permitirán un monitoreo constante gracias al producto “IoTheraphy”, el cual tendrá un costo único de S/. 2 500. Finalmente, el precio del primer plan es S/. 130.00 mensual y S/. 1300.00 anual. Del segundo, el precio aumenta a S/. 350.00 al mes y S/. 3 500.00 al año.
