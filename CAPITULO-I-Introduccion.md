@@ -10,3 +10,9 @@ A continuación, procederemos a informar sobre a lo que se dedica nuestra empres
 	Nuestra misión actual es encontrar la forma más viable de ayudar a las personas que tienen familiares que padecen limitaciones físicas por nacimiento, causa de un accidente o de otra índole, apoyándolos en su cuidado diario y facilitando esta tarea. Donde desarrollaremos un software que ofrezca la ayuda de distintos fisioterapeutas a través de ejercicios pregrabados, asesoría virtual y contando con la facilidad de agendar citas presenciales, teniendo en cuenta medios como servicios web, dispositivos móviles, SmartWatches, entre otros.
 
 	Nuestra visión es convertirnos en una empresa líder en el desarrollo de tecnologías que ayuden a resolver distintas problemáticas médicas en el Perú y, eventualmente, en el mundo.
+
+- 1.1.2. Perfiles de integrantes del equipo
+
+| Foto | Nombre y Descripción |
+| ---- | --------------------- |
+| ![Luis Pineda](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ProfilePhotos/Luis%20Pineda.png) | **Luis Alberto Pineda Ugas**: Me encuentro estudiando la carrera de Ingeniería de Software, en la que estoy en el séptimo ciclo. Decidí estudiar esta carrera debido a que desde pequeño me he interesado por la tecnología y todo lo que se puede hacer con ella, en especial el software que nos permite realizar acciones que antes se podían considerar imposibles. Me considero alguien honesto, generoso, amable y responsable. Lo que me gusta hacer en mis tiempos libres es jugar videojuegos, ver series o escuchar música. Lo que espero en este curso es aprender a desarrollar software de calidad para diversos tipos de dispositivos y así llegar a todo tipo de usuarios. |
