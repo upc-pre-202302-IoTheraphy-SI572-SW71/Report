@@ -143,16 +143,16 @@ Repositories Implementations (Implementaciones de Repositorios):<br>
 External Services Clients (Clientes de Servicios Externos):<br>
 	Puede incluir clases para interactuar con servicios externos, como sistemas de correo electrónico para notificaciones.
 
- ##### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams. 
+ ##### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams. 
 A continuación, se presenta el diagrama de componentes para este bounded Context:<br> 
 		<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/diagrama%20de%20clases%201.jpg?raw=true" width="400"><br><br>
 
-##### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.
+##### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams.
 En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.<br>
-###### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams. 
+###### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams. 
 A continuación, se presenta el diagrama de clases para este bounded Context:<br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149682699930443796/Z4O3rMJECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAoFuBfwG1J3Oa8vtBsQAAAABJRU5ErkJggg.png?width=866&height=662" width="400"><br><br>
-###### 4.2.1.7.2. Bounded Context Database Design Diagram.
+###### 4.2.1.6.2. Bounded Context Database Design Diagram.
 A continuación, se presenta el modelo de base de datos para este bounded Context:<br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149663856218615889/ER7bKPWnyXgAAAABJRU5ErkJggg.png?width=1305&height=523" width="400"><br><br>
 #### 4.2.2. Bounded Context: Health Records and Expertise Context 
@@ -208,18 +208,18 @@ Repositories Implementations (Implementaciones de Repositorios):<br>
 External Services Clients (Clientes de Servicios Externos):<br>
 	Puede incluir clases para interactuar con servicios externos, como sistemas de correo electrónico para notificaciones o consultas de datos médicos externos.
    
-##### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams. 
+##### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams. 
 A continuación, se presenta el diagrama de componentes para este bounded Context: <br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149655663572688937/image.png?width=667&height=662" width="400"><br><br>
 
-##### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams.
+##### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams.
  En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
 
-###### 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams.  
+###### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams.  
 A continuación, se presenta el diagrama de clases para este bounded Context: <br>
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Clases%202.png" width="400"><br><br>
   
-###### 4.2.2.7.2. Bounded Context Database Design Diagram. 
+###### 4.2.2.6.2. Bounded Context Database Design Diagram. 
 A continuación, se presenta el modelo de base de datos para este bounded Context:<br>
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/image.png" width="400"><br><br>
 
@@ -276,17 +276,17 @@ Repositories Implementations (Implementaciones de Repositorios):<br>
 External Services Clients (Clientes de Servicios Externos):<br>
 	Puede incluir clases para interactuar con servicios externos, como sistemas de notificación de citas o servicios de terceros para verificar la información de fisioterapeutas.
 
-##### 4.2.3.6.  Bounded Context Software Architecture Component Level Diagrams
+##### 4.2.3.5.  Bounded Context Software Architecture Component Level Diagrams
 A continuación, se presenta el diagrama de componentes para este bounded Context:<br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149655704655904861/image.png?width=498&height=662" width="400"><br><br>
 
-##### 4.2.3.7.  Bounded Context Software Architecture Code Level Diagrams. 
+##### 4.2.3.6.  Bounded Context Software Architecture Code Level Diagrams. 
 En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.<br>
-##### 4.2.3.7.1. Bounded Context Domain Layer Class Diagrams. 
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
 A continuación, se presenta el diagrama de clases para este bounded Context:<br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149683624296316938/5BM9vTdyAAAAABJRU5ErkJggg.png?width=790&height=662" width="400"><br><br>
   
-##### 4.2.3.7.2. Bounded Context Database Design Diagram. 
+##### 4.2.3.6.2. Bounded Context Database Design Diagram. 
 A continuación, se presenta el modelo de base de datos para este bounded Context: <br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149672129709756446/wPWzvIdJ50VDQAAAABJRU5ErkJggg.png?width=588&height=662" width="400"><br><br>
 
@@ -316,17 +316,17 @@ En esta capa, se presentan las clases que acceden a servicios externos como base
 	TherapyDatabaseRepository: Implementa la interfaz definida en el Domain Layer para interactuar con la base de datos y acceder a la información de terapia.<br>
 	VideoStorageService: Permite subir y gestionar videos de ejercicios en la plataforma.
 
-##### 4.2.4.6.  Bounded Context Software Architecture Component Level Diagrams 
+##### 4.2.4.5.  Bounded Context Software Architecture Component Level Diagrams 
 A continuación, se presenta el diagrama de componentes para este bounded Context:<br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149655756778516600/image.png?width=876&height=662" width="400"><br><br>
 
-##### 4.2.4.7.  Bounded Context Software Architecture Code Level Diagrams. 
+##### 4.2.4.6.  Bounded Context Software Architecture Code Level Diagrams. 
 En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.<br>
-###### 4.2.4.7.1. Bounded Context Domain Layer Class Diagrams. 
+###### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
 A continuación, se presenta el diagrama de clases para este bounded Context:<br>
 		<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Diagrma-Theaphy.png?raw=true" width="400"><br><br>
 
-###### 4.2.4.7.2. Bounded Context Database Design Diagram. 
+###### 4.2.4.6.2. Bounded Context Database Design Diagram. 
 A continuación, se presenta el modelo de base de datos para este bounded Context: <br>
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Base4.png" width="400"><br><br>
 
@@ -354,16 +354,16 @@ En esta capa, se presentan las clases que interactúan con servicios externos, c
 	StripePaymentService: Implementa la lógica para realizar pagos a través de Stripe.<br>
 	VideoPlanRepository: Interactúa con la base de datos o el sistema de almacenamiento para recuperar y gestionar información sobre planes de suscripción y videos.
    	
-##### 4.2.5.6.  Bounded Context Software Architecture Component Level Diagrams 
+##### 4.2.5.5.  Bounded Context Software Architecture Component Level Diagrams 
 A continuación, se presenta el diagrama de componentes para este bounded Context:<br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149655798587326535/image.png?width=648&height=662" width="400"><br><br>
 
-##### 4.2.5.7.  Bounded Context Software Architecture Code Level Diagrams.
+##### 4.2.5.6.  Bounded Context Software Architecture Code Level Diagrams.
 En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.<br>
-###### 4.2.5.7.1. Bounded Context Domain Layer Class Diagrams.
+###### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams.
 A continuación, se presenta el diagrama de clases para este bounded Context:<br>
 		<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Captura%20de%20pantalla%202023-09-27%20a%20la(s)%2001.24.52.png?raw=true" width="400"><br><br>
   
-###### 4.2.5.7.2. Bounded Context Database Design Diagram. 
+###### 4.2.5.6.2. Bounded Context Database Design Diagram. 
 A continuación, se presenta el modelo de base de datos para este bounded Context: <br>
 		<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/image.png?raw=true" width="400"><br><br>
