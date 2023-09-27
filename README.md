@@ -168,7 +168,7 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 
  	- 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams.<br><br> 
 		A continuación, se presenta el diagrama de componentes para este bounded Context:<br> 
-		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149655617531813989/image.png?width=682&height=662" width="400"><br><br>
+		<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/diagrama%20de%20clases%201.jpg?raw=true" width="400"><br><br>
 
 	- 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams.<br>
 	En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.<br>
