@@ -81,3 +81,73 @@ En esta sección se presentan las historias de usuario pertenecientes a nuestra 
 User Stories en Pivotal Tracker:<br><br>
 ![Pivotal UserStories](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Us%20Pivotal.png)<br><br>
 Link Pivotal Tracker:  https://www.pivotaltracker.com/n/projects/2675508
+
+### 3.3. Impact Mapping 
+La herramienta denominada Impact Mapping consiste en una forma visual de representar las metas que nos plasmamos para llegar a cada sector de nuestro público. Por esta razón, el equipo utilizó este artefacto con el fin de definir nuestro camino para alcanzar a los segmentos objetivos de Theraphy. De este modo, al final del mapa mental identificamos las acciones y funcionalidades que debemos llevar a cabo para formar el proyecto de manera eficiente.
+
+#### User: Paciente con problemas físicos
+A continuación, se presenta el Impact Map en el usuario, paciente con discapacidad u otros problemas físicos; para la cual nos basamos en las User Stories de nuestro proyecto, brindando las alternativas con las que dispone el sitio web para solucionar y satisfacer las necesidades del usuario.<br>
+![ImpactMap Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ImpactMaps/ImpacMap%20Patient.png)
+![ImpactMap Paciente2](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ImpactMaps/ImpacMap%20Patient2.png)<br><br>
+
+#### User: Fisioterapeuta
+En este caso, para los fisioterapeutas, se implementó la meta principal a largo plazo del proyecto, el cual consiste en aumentar nuestra cantidad de usuarios y, al mismo tiempo, nuestros ingresos en un periodo determinado. Gracias a la herramienta Impact Map, diseñamos los impacts y deliverables que nos ayudará a establecer las opciones determinantes que llamen la atención del usuario. Obviamente, también se fijaron las User Stories que están relacionadas a la satisfacción de los médicos. 
+![ImpactMap Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ImpactMaps/ImpacMap%20Fisioterapeuta.png)<br><br>
+Link para visualizar los Impact Mappings: https://uxpressia.com/w/v8FzI/p/ZGwSo 
+
+### 3.4. Product Backlog
+Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product Backlog se encarga de generar un orden de importancia entre todas las historias de usuarios. Adicionalmente, se insertarán los Story Points con las que cuentan cada una de las historias de usuario, estas puntuaciones representan el esfuerzo que se requiere para completar exitosamente la US a la que pertenece.
+
+| Orden | User Story ID | Título                                   | Descripción                                                                                                      | Story Points |
+|-------|--------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------|
+| 01    | HU24         | Información sobre las funciones para los pacientes | Como visitante del segmento paciente, deseo encontrar información clara sobre las funciones que brinda la aplicación para saber si esta me resultará útil. | 1            |
+| 02    | HU25         | Previsualización de la interfaz para los pacientes | Como visitante del segmento paciente, deseo visualizar la interfaz de la aplicación antes de descargarla para conocer previamente cómo son los ejercicios que brindan. | 1            |
+| 03    | HU26         | Información sobre las funciones para los fisioterapeutas | Como visitante del segmento fisioterapeuta, deseo encontrar las principales características de la aplicación para saber si me ayudará a conseguir más clientes. | 3            |
+| 04    | HU27         | Previsualización de la interfaz para los fisioterapeutas | Como visitante del segmento fisioterapeuta, deseo visualizar la interfaz de la aplicación antes de descargarla para conocer previamente cómo me podría realizar consultas médicas. | 3            |
+| 05    | HU28         | Sección comentarios                     | Como visitante, deseo visualizar los comentarios y la valoración que tiene la aplicación para saber si los usuarios están siendo beneficiados por su uso. | 3            |
+| 06    | HU29         | Botón de descarga                       | Como visitante, deseo encontrar un enlace de descarga para que pueda instalar rápidamente la aplicación. | 2            |
+| 07    | HU30         | Traslación en el Landing Page           | Como usuario, deseo contar con opciones para trasladarme rápidamente al sector del Landing Page que deseo. | 3            |
+| 08    | HU31         | Acceso a redes sociales                 | Como usuario, deseo contar con accesos rápidos a las redes de la plataforma para entrar en contacto con ella. | 2            |
+| 09    | HU13         | Reserva de consulta médica              | Como usuario, deseo reservar una consulta médica con un fisioterapeuta seleccionado. | 8            |
+| 10    | HU17         | Registro de consultas médicas            | Como fisioterapeuta, deseo agendar las consultas médicas que realizaré a mis clientes para llevar un control adecuado de estas. | 5            |
+| 11    | HU14         | Control de solicitudes de consultas medicas | Como fisioterapeuta, deseo gestionar las solicitudes de citas médicas para aceptarlas o rechazarlas. | 5            |
+| 12    | HU08         | Visualización de ejercicios             | Como usuario, deseo visualizar los ejercicios del tratamiento para comprender cómo deben ser realizados. | 8            |
+| 13    | HU09         | Publicación de videos de ejercicios      | Como fisioterapeuta, deseo subir videos de rutinas de ejercicios para ayudar a mis pacientes a comprender cómo se deben realizar los ejercicios. | 5            |
+| 14    | HU07         | Búsqueda de tratamientos                 | Como paciente, deseo encontrar tratamientos de terapia física que pueda realizar desde mi casa para mejorar mi condición física. | 3            |
+| 15    | HU18         | Visualización de horario de consultas   | Como fisioterapeuta, deseo visualizar los días y las horas exactas en las que tengo agendadas consultas médicas para llevar un control adecuado. | 2            |
+| 16    | HU19         | Envío de diagnóstico y recomendaciones   | Como fisioterapeuta, deseo enviar un diagnóstico con el resultado de la consulta y las recomendaciones para que el paciente pueda visualizarlo. | 5            |
+| 17    | HU20         | Visualización de los resultados de la consulta | Como usuario, deseo poder ver el diagnóstico y las recomendaciones del fisioterapeuta para recordar fácilmente los resultados de la consulta. | 3            |
+| 18    | HU22         | Registro de progreso                    | Como usuario, deseo registrar los avances en el tratamiento que estoy realizando para tener un historial de mis actividades. | 5            |
+| 19    | HU23         | Visualización del registro de progreso   | Como usuario, deseo observar el registro de mi progreso en el tratamiento para verificar si la aplicación me está siendo útil. | 2            |
+| 20    | HU16         | Comunicación entre fisioterapeutas y pacientes | Como fisioterapeuta, deseo comunicarme con los pacientes que me han solicitado una consulta médica para acordar el horario y el pago de la consulta. | 5            |
+| 21    | HU11         | Búsqueda de fisioterapeutas            | Como usuario, deseo buscar fisioterapeutas ingresando su nombre en el buscador para encontrar al especialista de forma rápida. | 3            |
+| 22    | HU05         | Ingreso de historial médico             | Como paciente, deseo ingresar mi historial médico para que el fisioterapeuta que contacte pueda conocer detalladamente mi condición física. | 3            |
+| 23    | HU06         | Ingreso de perfil profesional            | Como fisioterapeuta, deseo ingresar mi perfil profesional vitae para que los pacientes conozcan mis habilidades y mi experiencia. | 3            |
+| 24    | HU10         | Recomendación de fisioterapeutas         | Como usuario, deseo encontrar a los fisioterapeutas más recomendados por la aplicación para realizar una cita con ellos. | 2            |
+| 25    | HU21         | Calificación del fisioterapeuta        | Como usuario, deseo ingresar una calificación al fisioterapeuta por la consulta realizada para dar a conocer mi nivel de satisfacción con la consulta. | 3            |
+| 26    | HU43         | Agregación de solicitud de consulta médica | Como developer, deseo poder insertar una solicitud de consultas en la tabla solicitudes de la base de datos para que los usuarios fisioterapeutas puedan visualizarlas desde la aplicación. | 5            |
+| 27    | HU40         | Agregación de nuevo video de ejercicio   | Como developer, deseo poder almacenar un archivo de video dentro de la base de datos para que los usuarios tengan acceso a este desde la aplicación. | 5            |
+| 28    | HU39         | Obtención de videos                      | Como developer, deseo poder obtener los archivos de video almacenados en la base de datos para que los usuarios tengan acceso a este desde la aplicación. | 3            |
+| 29    | HU44         | Agregación de diagnóstico                | Como developer, deseo poder insertar un diagnóstico en la tabla diagnósticos de la base de datos para que los usuarios fisioterapeutas puedan visualizarlas desde la aplicación. | 3            |
+| 30    | HU45         | Obtención de datos de consultas          | Como developer, deseo poder obtener los datos de las consultas almacenadas en la base de datos para que los usuarios tengan acceso a estas desde la aplicación. | 3            |
+| 31    | HU46         | Agregación de evidencias de progreso     | Como developer deseo poder almacenar las evidencias de progreso de los pacientes dentro de la base de datos para que los usuarios tengan acceso a estas desde la aplicación. | 3            |
+| 32    | HU38         | Ingreso de consulta de búsqueda de tratamiento | Como developer, deseo poder buscar los tratamientos almacenados en la base de datos que coincidan con un nombre ingresado para que los usuarios tengan acceso a este desde la aplicación. | 3            |
+| 33    | HU41         | Agregación de recomendación              | Como developer, deseo poder insertar un fisioterapeuta en la tabla de Recomendados para presentarlo a los usuarios. | 5            |
+| 34    | HU42         | Ingreso de consulta de búsqueda de fisioterapeuta | Como developer, deseo poder buscar los fisioterapeutas almacenados en la base de datos que coincidan con un nombre ingresado para que los usuarios tengan acceso a este desde la aplicación. | 3            |
+| 35    | HU36         | Almacenamiento de historial médico       | Como developer, deseo poder almacenar el historial médico del usuario en la base de datos para que los usuarios tengan acceso a este desde la aplicación. | 3            |
+| 36    | HU37         | Almacenamiento de Curriculum Vitae        | Como developer, deseo poder almacenar el archivo del curriculum vitae del usuario en la base de datos para que los usuarios tengan acceso a este desde la aplicación. | 3            |
+| 37    | HU12         | Visualización del perfil de los fisioterapeutas | Como usuario, deseo visualizar el perfil del fisioterapeuta que he seleccionado para tener más información acerca de él. | 2            |
+| 38    | HU15         | Visualización del perfil de los pacientes | Como fisioterapeuta, deseo visualizar el perfil del paciente para tener más información acerca de él. | 2            |
+| 39    | HU01         | Registro de cuenta                       | Como usuario, deseo crear una cuenta para registrarme dentro de la aplicación. | 1            |
+| 40    | HU32         | Registro de usuario en la base de datos  | Como developer, deseo poder almacenar un nuevo usuario dentro de la base de datos para registrar su cuenta. | 1            |
+| 41    | HU02         | Inicio de sesión                         | Como usuario, deseo iniciar sesión con mi cuenta previamente creada para ingresar a la aplicación. | 1            |
+| 42    | HU33         | Obtención de las credenciales del usuario | Como developer, deseo poder recuperar las credenciales del usuario desde la base de datos para autenticar el inicio de sesión. | 1            |
+| 43    | HU03         | Visualización del perfil                 | Como usuario, deseo ingresar a mi perfil para visualizar los datos que presento en la aplicación. | 2            |
+| 44    | HU34         | Obtención de datos personales del usuario | Como developer, deseo poder obtener los datos personales del usuario desde la base de datos para presentar en su perfil. | 2            |
+| 45    | HU04         | Selección de foto de perfil              | Como usuario, deseo seleccionar una foto de perfil para que las personas puedan reconocerme dentro de la aplicación. | 2            |
+| 46    | HU35         | Almacenamiento de la foto de perfil      | Como developer, deseo poder almacenar el archivo de la foto de perfil del usuario en la base de datos para presentarla en su perfil. | 2            |
+
+
+Imagen de Product Backlog en Pivotal Tracker:<br><br>
+![Prodcut Backlog](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Product%20Bakclog.png)<br><br> 
+Link del Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2675508 
