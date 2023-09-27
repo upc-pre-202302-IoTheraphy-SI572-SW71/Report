@@ -52,22 +52,20 @@ Este segmento podrá usar las aplicaciones de forma gratuita. La cita médica in
 Este es el segmento que generará los ingresos para el equipo de DigitAlholics. Puesto que, la solución propuesto consta con dos planes de pago para que los especialistas puedan acceder a las caracteristicas con las que cuentan nuestros sistemas. El primer plan, “Standard”, permitirá al doctor fisioterapeuta atender hasta a un máximo de 10 pacientes, siendo capaz de agendar citas presenciales, virtuales y brindar tratamientos asíncronos a los pacientes. Por otro lado, el plan “Premium” permitirá realizar las mismas acciones con cualquier número de pacientes; es decir, una cantidad ilimitada. Ambas suscripciones permitirán un monitoreo constante gracias al producto “IoTheraphy”, el cual tendrá un costo único de S/. 2 500. Finalmente, el precio del primer plan es S/. 130.00 mensual y S/. 1300.00 anual. Del segundo, el precio aumenta a S/. 350.00 al mes y S/. 3 500.00 al año.
 
 #### 1.2.1 Antecedentes y problemática
-	Para este segmento utilizaremos la tecnica de las 5W y 2H
-	
-	#### Descripción de la problemática 
+Para este segmento utilizaremos la tecnica de las 5W y 2H
+
+Descripción de la problemática 
 	Este software se enfoca en el sector de salud, ya que se ha evidenciado que hay leve incremento en pacientes insatisfechos con las citas brindadas por las clínicas.  Es por esta razón que “Theraphy” busca cubrir las necesidades de la comunicación, seguridad y eficacia a la mayor cantidad de personas posibles en su domicilio. 
 	Antecedentes 
 	Como se mencionó anteriormente, nuestro producto software “Theraphy” tiene la capacidad de contratar profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o de otra índole y además dar seguimiento continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue a la frecuencia de visita elegida por el contratante. Es por ello por lo que, teniendo en cuenta el funcionamiento de nuestro producto, realizamos la búsqueda de posibles competidores, obteniendo como resultado dos productos software: 
-	
-	##### MedicApp: 
-	Es una aplicación en la cual una persona puede agendar por medio de llamada o WhatsApp, una cita a domicilio de Médico o Enfermero. Cuenta con un horario limitado de lunes a sábados de 8 am a 8 pm. Asimismo, ofrece tele consultas y pruebas de descarte de la COVID-19. Cuenta con una alianza con una institución dedicada al transporte de pacientes con situaciones graves, ambulancias. 
-	
+
+#### MedicApp: 
+Es una aplicación en la cual una persona puede agendar por medio de llamada o WhatsApp, una cita a domicilio de Médico o Enfermero. Cuenta con un horario limitado de lunes a sábados de 8 am a 8 pm. Asimismo, ofrece tele consultas y pruebas de descarte de la COVID-19. Cuenta con una alianza con una institución dedicada al transporte de pacientes con situaciones graves, ambulancias. 
 	Sin embargo, la principal diferencia que separa a Theraphy de MedicApp es que, en nuestra aplicación, es posible contactar con un doctor específico que le brinde confianza al usuario. Por otro lado, en la aplicación MedicApp, los doctores son brindados según la disponibilidad que tiene la aplicación y el usuario no interactúa de manera constante en el proceso de selección. Asimismo, no mantienen, en la aplicación, un registro virtual de todas las citas que ha tenido el paciente ni de las recomendaciones brindadas. 
 	
-	##### MediQuo: 
-	Es una aplicación donde se puede realizar consultas, gestionar citas mediante el chat que está disponible en su web, además que tiene seguimiento registrado en la aplicación móvil. 
-	
-	Sin embargo, una de las diferencias que existe entre Theraphy y MediQuo es que, mientras en MediQuo solo se hacen consultas digitales, en Theraphy se tiene contacto directo y presencial con el personal de salud. Además, al contrario que la aplicación MediQuo, Theraphy puede generar un historial médico virtual que varía dependiendo de cada contratante.
+#### MediQuo: 
+Es una aplicación donde se puede realizar consultas, gestionar citas mediante el chat que está disponible en su web, además que tiene seguimiento registrado en la aplicación móvil. 
+ 	Sin embargo, una de las diferencias que existe entre Theraphy y MediQuo es que, mientras en MediQuo solo se hacen consultas digitales, en Theraphy se tiene contacto directo y presencial con el personal de salud. Además, al contrario que la aplicación MediQuo, Theraphy puede generar un historial médico virtual que varía dependiendo de cada contratante.
 
 #### Herramienta 5W y 2H 
 
@@ -108,7 +106,7 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 
 ##### 1.2.2.2. Lean UX Assumptions.
 
-	 #### Business Outcomes  
+Business Outcomes  
 	
 	•	Vistas frecuentes por parte de los pacientes a los videos de rutinas elaborados por los fisioterapeutas.
 	
@@ -118,15 +116,15 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	  
 	•	Obtener ganancias el 10% cada mes gracias al beneficio que reciben los fisioterapeutas y pacientes con dificultad motora quiénes tienen la oportunidad de conseguir mayor alcance de sus servicios y lograr una recuperación efectiva, respectivamente. 
 	
-	#### Users  
+##### Users  
 	
 	•	Pacientes mayores de edad con dificultades motoras que reciben terapias. 
 	
 	•	Fisioterapeutas profesionales. 
 	 
-	#### User Outcomes & Benefits
+##### User Outcomes & Benefits
 	 
-	##### Pacientes:
+##### Pacientes:
 	
 	•	Lograr una recuperación exitosa, debido a la efectividad del tratamiento remoto con los videos de rutinas realizados por los fisioterapeutas. 
 	 
@@ -134,7 +132,7 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	 
 	•	Acceder a su reporte de tratamiento las 24 horas sin necesidad de contactarse con el fisioterapeuta. 
 	 
-	##### Fisioterapeutas: 
+##### Fisioterapeutas: 
 	
 	•	Brindar atención remota a sus pacientes a través de videos explicativos que tienen efectividad significativa para la recuperación de sus pacientes. 
 	
@@ -142,7 +140,7 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	
 	•	Lograr que sus pacientes recomienden sus servicios a través de sus comentarios para tener mayor alcance. 
 	
-	##### Features: 
+##### Features: 
 	
 	•	Rutinas grabadas por los fisioterapeutas para el tratamiento que requiere el paciente con dificultad motora. 
 	
@@ -152,7 +150,7 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	
 	•	Calendario de las citas pendientes para los fisioterapeutas. 
 	
-	#### SUPOSICIONES DE NEGOCIO
+#### SUPOSICIONES DE NEGOCIO
 	
 	1.	Creo que mis usuarios necesitan, conocer qué ejercicios de rutina son las ideales para su tratamiento y cómo deben hacerlo para lograr una recuperación efectiva sin necesidad de acudir presencialmente con el especialista. Respecto al fisioterapeuta necesita cumplir con todas las atenciones acordadas con los pacientes. 
 	
@@ -176,7 +174,7 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	
 	11.	Resolveremos esto a través de una revisión y actualización con mejoras o funciones adicionales de la aplicación para brindar mayor eficacia tanto para pacientes y fisioterapeutas. 
 	
-	#### SUPOSICIONES DE USUARIO
+#### SUPOSICIONES DE USUARIO
 	
 	1.	¿Quién es el usuario? 
 	Pacientes con dificultades motoras y que estén dispuestos a recibir una terapia remota a través de videos grabados por los especialistas. Asimismo, estos usuarios deben estar familiarizados con el uso de dispositivos para una mayor facilidad al momento de hacer uso de la aplicación. Nuestros usuarios también son los fisioterapeutas que requieren de un medio para brindar atención de forma no presencial para evitar la pérdida de pacientes. 
@@ -199,19 +197,19 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 	
-	#### 1st Hypothesis Statement 
+#### 1st Hypothesis Statement 
 	
 	Creemos que las rutinas grabadas por los fisioterapeutas y subidas en nuestra aplicación tendrán un impacto positivo en el tratamiento del paciente  
 	Sabremos que hemos tenido éxito, 
 	Cuando veamos que el registro de usuarios pacientes sea incremente de un 20% mensualmente.  
 	
-	#### 2nd Hypothesis Statement 
+#### 2nd Hypothesis Statement 
 	
 	Creemos que un calendario con las citas programadas para los fisioterapeutas creará en ello un hábito de organización y ameno para su trabajo. A la vez que evitará la pérdida de sus pacientes. 
 	Sabremos que hemos tenido éxito, 
 	Cuando veamos que los fisioterapeutas revisan continuamente el calendario para visualizar sus citas pendientes, se sientan más organizados y con entusiasmo de cumplir todas sus actividades a través de los comentarios. 
 	
-	#### 3rd Hypothesis Statement 
+#### 3rd Hypothesis Statement 
 	Creemos que brindar acceso al diagnóstico de la evolución de tratamiento es lo que necesitan los pacientes para no perder tiempo al acudir al especialista por dicha información 
 	Sabremos que hemos tenido éxito, 
 	Cuando veamos que los pacientes accedan en cualquier momento del día a su diagnóstico después de realizar las rutinas, de modo que ya no utilizan parte de su tiempo para contactarse con el fisioterapeuta y solicitar la información.
