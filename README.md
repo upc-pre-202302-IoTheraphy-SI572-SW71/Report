@@ -415,9 +415,7 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 		En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
 		- 4.2.5.7.1. Bounded Context Domain Layer Class Diagrams. <br><br>
 		A continuación, se presenta el diagrama de clases para este bounded Context:
-		<img src="
-			https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Captura%20de%20pantalla%202023-09-27%20a%20la(s)%2001.24.52.png?raw=true
-			" width="400"><br><br>
+		<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Captura%20de%20pantalla%202023-09-27%20a%20la(s)%2001.24.52.png?raw=true" width="400"><br><br>
   
 		- 4.2.5.7.2. Bounded Context Database Design Diagram. <br><br> 
 		A continuación, se presenta el modelo de base de datos para este bounded Context: 
