@@ -215,3 +215,112 @@ En este punto presentaremos los resultados de las entrevistas realizadas a los u
    	<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InterviewsEvidencePhotos/luis2.jpg" alt="Entrevista 6" width="600"><br><br>
 	**Resumen sobre la entrevista:** <br>
 	La entrevista fue realizada a Leidianny Coronel Soto, quién actualmente labora como médico anestesiólogo en el hospital Sergio Bernales. Ella es soltera y suele utilizar dispositivos tecnológicos como el celular y la laptop, estos son generalmente de la marca Apple. Asimismo, sus redes sociales más usadas son Facebook, TikTok e Instagram. De la misma manera, la primera aplicación que se le viene a la mente con el tema de fisioterapia es Goniometro. Lizet nos cuenta que los principales problemas con los que se encuentra al momento de recibir pacientes es la comunicación con ellos y que cuando se trata de adultos mayores o alguna persona con una discapacidad que le dificulta demasiado su movilización, se necesita de más individuos presentes para su atención. Del mismo modo, sus pacientes frecuentemente tienen dudas como la duración del tratamiento y qué tan doloroso será. Para empatizar con ellos, la doctora explica detalladamente el procedimiento a realizar, esta aclaración les genera más seguridad y confianza a los pacientes. Por otro lado, ella considera que el uso del internet para difundir información es de mucha utilidad; sin embargo, piensa que siempre es mejor una cita presencial, y aún más para consultas de su especialidad, pues se requiere obligatoriamente de un especialista para la aplicación de las medicinas. Finalmente, ella manifiesta que su principal objetivo es la salud y recuperación del paciente.
+
+ - 2.2.3. Análisis de entrevistas<br><br>
+	A continuación, se desarrolla una estrategia en conjunto con el equipo para identificar los puntos en común en base a las respuestas de cada entrevistado a cada pregunta. Esto nos ayuda a realizar un análisis más conciso y seguro para desarrollar nuestra aplicación en base a la información recolectada.
+	
+	#### Puntos en común:
+	
+	#### Segmento 1: Personas con dificultad para movilizarse o sus familiares
+	- **¿Cuáles son los principales motivos por los cuales contrataría el servicio de un profesional de la salud a domicilio?** <br><br>
+	El 75% de los entrevistados concuerdan en que el principal motivo por el cual contratan el servicio de un profesional de la salud a domicilio es para que se ocupen de todas las necesidades médicas de su familiar ya que por algunos factores como, por ejemplo, el tiempo no les es posible hacerse cargo completamente.<br><br>
+	- **¿Cuál es la mayor dificultad que ha identificado en el tiempo que lleva cuidando a su familiar?** <br><br> 
+	  El 100% de los entrevistados coinciden en que la mayor dificultad al momento de cuidar de un familiar con limitaciones es la movilidad de este mismo, pues él requiere del apoyo de otras personas y esta no siempre cuentan con el tiempo necesario.<br><br>
+	- **¿Cuánto tiempo le toma el cuidado de su familiar discapacitado diariamente?** <br><br>
+	  En base a las entrevistas, se deduce que el tiempo que se invierte en el cuidado del familiar varía entre 4 a 12 horas dependiendo de las actividades que se tengan que realizar en el día.<br><br>
+	- **¿Su familiar requiere de algún medicamento o tratamiento? y si así fuera ¿Quién es el responsable de administrar su medicina?** <br><br>
+	  El 75% de los entrevistados indica que sus familiares requieren la administración de medicamento constantemente, la cual es brindada por la misma familia.<br><br>
+	- **¿Cuáles son las dificultades que ha encontrado en el servicio de clínica en la atención a su familiar?** <br><br>
+	  El 50% de los entrevistados afirma que el tiempo de espera es muy lento, lo cual no satisface las necesidades del enfermo.<br><br>
+	- **¿Cuáles serían los factores que determinan su confianza en un sistema web de atención a domicilio?** <br><br>
+	  El 50% de mis entrevistados consideran que la seguridad de los datos es uno de los factores que determinarían su confianza en una plataforma digital. Asimismo, otro 50% considera, como otro posible factor, las recomendaciones de esta plataforma dadas por terceros.<br><br>
+	- **¿Qué tan importante es para usted tener el control de elegir (personalizar) a su profesional de la salud?** <br><br> 
+	  El 100% de los entrevistados coinciden en que es de suma importancia poder elegir al profesional de la salud que acudirá a su domicilio, pues debe asegurarse de que sea un médico o enfermero confiable y capaz de generar mejoras en la salud del paciente. <br><br>
+	- **¿Considera una ventaja tener un registro actualizado de cada análisis que se le realiza a su familiar con limitación para un monitoreo más íntegro?** <br><br> 
+	  El 100% de los entrevistados mantiene que el registro actualizado de cada análisis que se le realiza a su familiar es de suma importancia, pues permite acceder a la información sobre la condición actual del paciente.<br><br>
+	- **¿Considera que su trabajo u otras áreas de su vida se ven afectadas por el tiempo que debe dedicar a cuidar a su familiar?** <br><br> 
+	  El 100% de los entrevistados afirma que varios aspectos de su vida se ven afectados por esto ya que reduce el tiempo disponible durante el día para realizar sus labores cotidianas.<br><br>
+
+	
+	#### Análisis General de las entrevistas del Segmento objetivo:
+	
+ 	**Familiares de personas con dificultad para movilizarse o alguna limitación física o mental:** <br><br>
+	Haciendo un análisis general de las entrevistas se puede evidenciar lo siguiente. La totalidad de los entrevistados coincide en que la mayor dificultad que se presenta durante el cuidado de algún familiar es la movilidad (75%), lo cual les consume mucho tiempo, por lo que varios aspectos de su vida se ven afectados debido a esto (labores diarias). Asimismo, consideran que es un aspecto muy importante poder elegir al personal médico y llevar un registro de los análisis de su familiar (100%). Sin embargo, para que esto sea viable es necesario que la seguridad de la aplicación sea alta ya que se estaría trabajando con los datos personales de los clientes. Por otro lado, se identificó que, de los entrevistados, 2 eran hombres y 2 mujeres, y el margen de edades iba desde los 19 hasta los 41 años. Todos ellos vivían en Lima Metropolitana, pero en distintos distritos. La ocupación de cada uno era diferente, 2 de ellos eran casados, 3 de los 4 utilizaban laptop y celular, todos utilizan WhatsApp, 2 de los 4 Facebook y 1 de los 4 Google, cada uno posee distintas habilidades y, para terminar, 2 de los 4 están frustrados por el deterioro de la salud de sus seres queridos. 
+	
+	#### Segmento 2: Fisioterapeutas
+	- **¿Cuál es el factor principal por el cual los adultos mayores optan por no acudir a los centros médicos?** <br><br> 
+	Un 33,3% de los entrevistados asegura que los adultos mayores no tienen a un familiar que los acompañe. Otro 33,3% menciona que los gastos de atención son costosos. El 33,3% restante mantiene que ellos no disponen del tiempo para atenderse en un centro de salud. <br><br> 
+	- **¿Cuánta experiencia tiene usted como cuidador de personas mayores y/o personas con limitaciones físicas o mentales?**  <br><br>  
+	  El 100% de los entrevistados tiene mucha experiencia médica sobre el cuidado de personas con limitaciones físicas y/o mentales.  <br><br> 
+	- **¿Con cuánta frecuencia atiende a personas con alguna discapacidad física, mental o de otra índole?**  <br><br>  
+	  El 66,6% de los entrevistados mencionan que atienden con frecuencia a personas con alguna discapacidad, que en su mayoría presentan limitaciones físicas. <br><br> 
+	- **¿Cuál es el problema más frecuente que se da cuando familiares no capacitados se encargan de administrar el tratamiento médico de algún paciente con limitaciones físicas, mentales o con presencia de enfermedades crónicas?**  <br><br>  
+	  El 100% de los entrevistados asegura que el desconocimiento del familiar, a cargo del cuidado del paciente, perjudica su condición. En otras palabras, no controlar o tratar la enfermedad de forma incorrecta puede agravar la condición del paciente. <br><br> 
+	- **¿Cuáles son las diferencias de ser un médico de casa a uno de clínica?**  <br><br>  
+	  El 100% de entrevistados coincide en que, a diferencia del médico de clínica, el médico de casa genera una mayor conexión con el familiar, por el tiempo que tiene para solo un paciente. <br><br>  
+	- **¿Qué opina acerca de que usted pueda colocar su propia tarifa de servicio?**  <br><br> 
+	  El 100% de los entrevistados está de acuerdo en poder colocar su propia tarifa. Así los clientes tendrán variedad para escoger al profesional de su preferencia. <br><br> 
+	- **¿Considera una ventaja para usted que en una plataforma se le pueda valorar su servicio a través de reseñas o puntuaciones?**  <br><br>
+	  El 100% de los entrevistados creen que es una característica positiva en el servicio, ya que podrán adquirir recomendaciones por el buen trabajo que realicen. <br><br> 
+	- **¿Cómo reacciona ante situaciones de gran estrés o cómo maneja eficazmente el estrés personal en su trabajo como profesional de la salud?**  <br><br> 
+	  El 66,6% de los entrevistados, mencionan que ponen en práctica actividades de control de estrés como por ejemplo reflexionar de lo que debe y puede hacer o acudir a terapia para relajarse y buscar soluciones efectivas.  <br><br> 
+	- **¿Cómo le han ayudado sus habilidades de escucha, a entender y diagnosticar correctamente las necesidades de sus pacientes?**  <br><br> 
+	  El 100% de los entrevistados considera que las habilidades de escuchar les ayudan a comprender mejor a sus pacientes y diagnosticarlos de manera eficaz.  <br><br> 
+	- **¿Cuál sería el porcentaje apropiado que estaría dispuesto a descontar de sus ingresos mensuales por conceptos de captación de pacientes a través de una aplicación?**  <br><br>  
+	  El 66,6% de los entrevistados no está dispuesto a bajar sus ingresos mensuales. <br><br> 
+
+	
+	#### Análisis General de las entrevistas del Segmento objetivo:
+	**Fisioterapeutas:** <br><br> 
+	Haciendo un análisis general de las entrevistas se puede evidenciar lo siguiente. La totalidad de los entrevistados cuenta con bastante experiencia respecto al cuidado de personas con limitaciones físicas y/o mentales. Asimismo, consideran que es peligroso que una persona no experimentada, familiar del paciente en este contexto, aplique los tratamientos o medicamentos al paciente ya que no tienen el conocimiento adecuado. Por otro lado, están de acuerdo en que nuestra plataforma les permita colocar su propia tarifa por concepto de atentación ya que de esta forma los usuarios podrán elegir al profesional de la salud que mejor le convenga y, después de realizado el tratamiento se le pueda calificar a través de reseñas o puntuaciones, esto no solo les permitiría obtener una retroalimentación de su servicio sino también una oportunidad de que los demás usuarios lo conozcan y elijan para tratar a sus familiares. Sin embargo, una gran parte de ellos (66,6%) no está dispuesto a tener una retención del 10% de sus ingresos mensuales. Por otro lado, 2 de los 3 entrevistados fueron mujeres, el margen de edades iba desde los 34 hasta los 50 años, los 3 vivían en Lima, aunque en distintos distritos, los 3 trabajan en alguna rama de la medicina (2 fisioterapeutas y 1 anestesióloga), 2 de los 3 ya se encontraban casados, 2 de los 3 utilizaban laptop y celular, los 3 utilizan WhatsApp, 2 de los 3 saben actuar en momentos de estrés y, para terminar, los 3 tienen distintas frustraciones.
+
+### 2.3. Needfinding
+ - 2.3.1. User Personas
+	- Segmento: Paciente<br> 
+	  ![User Persona Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/User%20Persona/User%20persona%20paciente.png)<br><br>
+   	- Segmento: Fisioterapeuta<br>
+   	  ![User Persona Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/User%20Persona/User%20persona%20fisioterapeuta.png)<br><br>
+ - 2.3.2. User Task Matrix<br><br>
+	![Task Matrix Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TaskMatrix/TaskMatrix%20Pacientes.jpg)<br><br>
+ 	![Task Matrix Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/TaskMatrix/TaskMatrix%20Fisioterapeuta.jpg)<br><br>
+	#### Tareas con mayor frecuencia e importancia:
+	•	**Frecuencia:** respecto al paciente estas tareas están relacionadas con separar citas para sus terapias. Así como de brindarle información al fisioterapeuta respecto a su condición. Entre la más frecuente también está la de realizar los ejercicios con ayuda del especialista y de pedir el reporte de avance de su recuperación. Respecto a los fisioterapeutas, observamos que las tareas con mayor frecuencia son las de programar las citas con los pacientes. También identificar los ejercicios que le corresponden para su rehabilitación. Por otra parte, está la de realizar los ejercicios y de brindarle el reporte después de cada terapia.<br>
+	•	**Importancia:** respecto al paciente las tareas con alta importancia son las de llamar al consultorio, acudir al fisioterapeuta para recibir la terapia, realizar los ejercicios con su ayuda y reservar la próxima cita para no tener que volver a llamar y encontrar citas copadas. Respecto al fisioterapeuta, las tareas con alta importancia son: llamar al paciente para recordarle su cita, revisar el historial médico del paciente antes de atenderlo. Otras tareas de alta importancia son: identificar y realizar los ejercicios que requiere la condición del paciente, así como de mostrarle el reporte de avance de cómo va su recuperación.
+	#### Diferencias y Similitudes:
+	Las diferencias que se pueden encontrar en las tareas con los users personas son: identificar los ejercicios para la terapia. Esta tarea resulta de suma relevancia para el fisioterapeuta, ya que él es el especialista capacitado y con los conocimientos necesarios para determinar qué ejercicios debe realizar el paciente. Mientras que el paciente no puede realizar dicha tarea. Otra de las diferencias es que el fisioterapeuta es el encargado de programar las citas. Si bien es cierto, el paciente es el que hace las reservas, pero no puede asegurar que se realice en el día que dispongan por las limitaciones de las citas disponibles.<br>
+	En las similitudes que podemos encontrar para ambos users personas son: realización de los ejercicios en cada terapia, ya que en esa situación tanto paciente como fisioterapeutas están involucrados totalmente para que la rehabilitación se de forma correcta. A esta similitud se le suma, el reporte de avance del tratamiento, ya que finalizada la terapia corresponde a la fisioterapia brindar la información y al paciente revisarla<br>
+ - 2.3.3. User Journey Mapping<br><br>
+ 	El desarrollo del User Journey Mapping nos permitió reconocer las etapas, canales, problemas y experiencias por las que pasa nuestro usuario durante el ciclo de uso de la aplicación.
+	#### Segmento 1: Paciente con problemas físicos
+	![Journey Map Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/JourneyMaps/JourneyMap%20Pacientes.png)<br><br>
+	Se presenta el User Journey Map para el segmento de pacientes con problemas físicos, en el cual se establecen las distintas etapas por las que pasa este usuario durante el uso de la aplicación.
+
+ 	#### Segmento 2: Fisioterapeutas
+	![Journey Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/JourneyMaps/JourneyMap%20Fisioterapeutas.png)<br><br>
+ 	
+	Se presenta el User Journey Map para el segmento de fisioterapeutas, en el cual se establecen las distintas etapas por las que pasa este usuario durante el uso de la aplicación.<br>
+	Link UXPRESSIA para visualización de los User Journey Map: https://uxpressia.com/w/v8FzI/p/ZGwSo
+
+ - 2.3.4. Empathy Mapping<br><br>
+	En esta sección se realizó el Empathy Map de nuestros usuarios para identificar y comprender el contexto total en el que habitan. Este análisis nos ayudara a profundizar en las necesidades de los clientes para enfocarnos en brindar servicios útiles para ellos.
+	#### Segmento 1: Paciente con problemas físicos
+	![Emphaty Map Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/EmpathyMaps/EmpathyMap%20Pacientes.png)<br><br>
+	Se presenta el Empathy Map del segmento de pacientes con problemas físicos, en el cual se describe las ideas, motivaciones, frustraciones y demandas de los usuarios de este segmento.
+
+	#### Segmento 2: Fisioterapeutas
+	![Emphaty Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/EmpathyMaps/EmpathyMap%20Fisioterapeutas.png)<br><br>
+	Se presenta el Empathy Map del segmento de fisioterapeutas, en el cual se describe las ideas, motivaciones, frustraciones y demandas de los usuarios de este segmento.<br>
+	Link UXPRESSIA para visualización de los Empathy Map: https://uxpressia.com/w/v8FzI/p/ZGwSo
+
+ - 2.3.5. As-Is Scenario Mapping<br><br>
+	En esta sección se identifican los pasos, acciones, pensamientos y sentimientos que los usuarios experimentan al llevar a cabo una tarea. A partir de este análisis, podremos plantear soluciones y mejoras en la experiencia de los usuarios.
+	#### Segmento 1: Paciente con problemas físicos
+	![AsIs Map Paciente](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/AsIs%20Maps/AsIs%20Map%20Pacientes.png)<br><br>
+	Se presenta el As-Is Scenario Map del segmento de pacientes con problemas físicos, en el cual se detalla los pasos que realiza el usuario para llevar acabo un tratamiento de terapia física.
+
+	#### Segmento 2: Fisioterapeutas
+	![AsIs Map Fisioterapeuta](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/AsIs%20Maps/AsIs%20Map%20Fisioterapeutas.jpg)<br><br>
+	Se presenta el As-Is Scenario Map del segmento de fisioterapeutas, en el cual se detalla los pasos que realiza el usuario para lograr contactar con personas interesadas en llevar tratamientos de terapia física.<br>
+	Link Miro para visualización de los As-Is Scenario Maps: https://miro.com/app/board/uXjVPcdPQE0=/?share_link_id=440450890938
+
+
