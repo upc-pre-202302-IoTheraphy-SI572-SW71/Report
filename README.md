@@ -141,6 +141,8 @@ Ciclo:
 		- [4.2.5.6. Bounded Context Software Architecture Code Level Diagrams.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-IV-Solution-Software-Design/README.md#4256--bounded-context-software-architecture-code-level-diagrams)
 			- [4.2.5.6.1. Bounded Context Domain Layer Class Diagrams.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-IV-Solution-Software-Design/README.md#42561-bounded-context-domain-layer-class-diagrams)
 			- [4.2.5.6.2. Bounded Context Database Design Diagram.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-IV-Solution-Software-Design/README.md#42562-bounded-context-database-design-diagram)
+- [Capítulo V: Capítulo-V-Solution-UI/UX-Design](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Capítulo-V-Solution-UI/UX-Design#readme)
+- [Capítulo VI: Product Implementation, Validation & Deployment](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Capítulo-VI-Product-Implementation%2C-Validation-%26-Deployment#readme)
    - [Conclusiones](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Conclusiones#readme)
    - [Bibliografia](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Bibliografía#readme)
    - [Anexos](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Anexos#readme)
