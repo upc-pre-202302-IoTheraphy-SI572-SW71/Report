@@ -3,7 +3,7 @@
 
 A continuación, procederemos a informar sobre a lo que se dedica nuestra empresa “DigitAlholics”, así como la presentación del equipo de desarrollo del producto de software “IoTheraphy”.
 
-- 1.1.1. Descripción de la Startup
+#### 1.1.1. Descripción de la Startup
 
 	En la actualidad existe un número exorbitante de personas que necesitan ayuda para poder mantener o mejorar su calidad de vida. Específicamente en Lima, Perú. Se ha identificado que realizar un buen cuidado de personas discapacitadas, vulnerables o con una enfermedad grave, es una labor demasiado difícil. Asimismo, los familiares de estos individuos son directamente afectados por las condiciones en las que se encuentran, pues su cuidado requiere demasiado tiempo y, del mismo modo, un gran esfuerzo físico. Por esta razón, hemos decidido crear una empresa llamada “DigitAlholics”, que significa “Adictos a la tecnología”. Somos una empresa enfocada al desarrollo de tecnologías que solucionen problemáticas en el ámbito de la salud que estén presentes en nuestra sociedad.
 
@@ -11,7 +11,7 @@ A continuación, procederemos a informar sobre a lo que se dedica nuestra empres
 
 	Nuestra visión es convertirnos en una empresa líder en el desarrollo de tecnologías que ayuden a resolver distintas problemáticas médicas en el Perú y, eventualmente, en el mundo.
 
-- 1.1.2. Perfiles de integrantes del equipo
+#### 1.1.2. Perfiles de integrantes del equipo
 
 | Foto | Nombre y Descripción |
 | ---- | --------------------- |
@@ -51,7 +51,7 @@ Este segmento podrá usar las aplicaciones de forma gratuita. La cita médica in
 ##### Fisioterapeutas: 
 Este es el segmento que generará los ingresos para el equipo de DigitAlholics. Puesto que, la solución propuesto consta con dos planes de pago para que los especialistas puedan acceder a las caracteristicas con las que cuentan nuestros sistemas. El primer plan, “Standard”, permitirá al doctor fisioterapeuta atender hasta a un máximo de 10 pacientes, siendo capaz de agendar citas presenciales, virtuales y brindar tratamientos asíncronos a los pacientes. Por otro lado, el plan “Premium” permitirá realizar las mismas acciones con cualquier número de pacientes; es decir, una cantidad ilimitada. Ambas suscripciones permitirán un monitoreo constante gracias al producto “IoTheraphy”, el cual tendrá un costo único de S/. 2 500. Finalmente, el precio del primer plan es S/. 130.00 mensual y S/. 1300.00 anual. Del segundo, el precio aumenta a S/. 350.00 al mes y S/. 3 500.00 al año.
 
-- 1.2.1 Antecedentes y problemática
+#### 1.2.1 Antecedentes y problemática
 	Para este segmento utilizaremos la tecnica de las 5W y 2H
 	
 	#### Descripción de la problemática 
@@ -99,14 +99,14 @@ Cuando una familia cuenta con un integrante que requiere de supervisión constan
 	
 Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros. 
 
-- 1.2.2 Lean UX Process.
-  - 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2 Lean UX Process.
+##### 1.2.2.1. Lean UX Problem Statements.
   
 	#### Problem Statement 
 	Nuestro entorno evidencia que las personas con dificultades motoras se ven limitadas a tener una recuperación exitosa al no poder asistir puntualmente a todas las citas del especialista. Además, los fisioterapeutas cuentan con una agenda recargada, lo que a menudo resulta en el incumplimiento de las atenciones a domicilio, afectando la evolución del tratamiento y provocando la pérdida de pacientes. Por otro lado, los pacientes experimentan dificultades para acceder al reporte de avance de su recuperación de manera fácil y rápida, ya que actualmente deben acudir al especialista o ponerse en contacto con él, lo que les genera molestias y pérdida de tiempo.
 	**¿Cómo mejorar la atención a pacientes con dificultades motoras y garantizar el cumplimiento de citas para fisioterapeutas, al mismo tiempo que se facilita el acceso a informes de recuperación sin contacto directo con el especialista?**
 
- - 1.2.2.2. Lean UX Assumptions.
+##### 1.2.2.2. Lean UX Assumptions.
 
 	 #### Business Outcomes  
 	
@@ -197,7 +197,7 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	Nuestro producto debe verse amigable, funcional y confiable de modo que no resulte tedioso para el usuario en su primera interacción. Asimismo, se deben elegir los colores de acuerdo con la psicología de los pacientes para que genere un impacto positivo en ellos.
 	 
 
- - 1.2.2.3. Lean UX Hypothesis Statements
+##### 1.2.2.3. Lean UX Hypothesis Statements
 	
 	#### 1st Hypothesis Statement 
 	
@@ -216,7 +216,7 @@ Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% d
 	Sabremos que hemos tenido éxito, 
 	Cuando veamos que los pacientes accedan en cualquier momento del día a su diagnóstico después de realizar las rutinas, de modo que ya no utilizan parte de su tiempo para contactarse con el fisioterapeuta y solicitar la información.
 
- - 1.2.2.4. Lean UX Canvas.
+##### 1.2.2.4. Lean UX Canvas.
 	| Business problema | Solution Ideas | Business Outcomes |
 	| ----------------- | -------------- | ----------------- |
 	| Nuestro entorno evidencia que las personas con dificultades motoras se ven limitadas a tener una recuperación exitosa al no poder asistir puntualmente a todas las citas del especialista.<br> Hemos observado que un factor crítico que afecta a los pacientes que reciben terapia es el desconocimiento sobre qué y cómo deben realizar los ejercicios del tratamiento cuando no pueden acudir con el especialista, lo que afecta su pronta recuperación.<br> **¿Cómo hacer que los pacientes sepan qué y cómo hacer los ejercicios ideales sin acudir al fisioterapeuta y no afectar el tiempo de su recuperación?**	<br><br> Nuestro entorno evidencia que los fisioterapeutas cuentan con una agenda recargada la mayor parte de su día, por lo que en muchas ocasiones no se abastecen para cumplir con las atenciones personalizadas a domicilio de cada paciente. Por consiguiente, dichos pacientes dejan de requerir de sus servicios.<br> Hemos observado que un factor crítico que afecta a los fisioterapeutas es el incumplimiento con las atenciones a domicilio de sus pacientes que a su vez altera la evolución del tratamiento. Por lo que, han dejado de ser contactados por los mismos.<br> **¿Cómo hacer qué los fisioterapeutas cumplan con las citas pactadas para no afectar la evolución del tratamiento y así evitar la pérdida de pacientes?** <br><br> Nuestro entorno evidencia que los pacientes conocen el reporte de avance de su recuperación cuando reciben la atención. No obstante, cuando algún familiar o el mismo paciente desea acceder a ella le resulta complicado.<br> Hemos observado que un factor crítico que afecta a los pacientes es la dificultad para acceder al reporte de avance de su recuperación las 24 horas del día, ya que debe acudir al especialista o contactarse con el mismo. Lo que le genera molestia y pérdida de tiempo.<br> **¿Cómo hacer que los clientes pacientes o empresas accedan fácilmente al reporte de su avance de recuperación sin acudir al especialista o contactarse con este, para evitar su incomodidad y de su tiempo?** | Aplicación que permita a los fisioterapeutas subir videos de rutinas donde expliquen detalladamente a los pacientes cómo deben realizar los ejercicios de terapia.<br><br> Acceso de los pacientes a su diagnóstico las 24 horas del día.<br><br> Reserva de citas.<br><br> Calendario de citas pendientes y/o programadas para contribuir a la organización y cumplimiento de las actividades de los fisioterapeutas. | Vistas frecuentes por parte de los pacientes a los videos de rutinas elaborados por los fisioterapeutas.<br><br> 10% de reserva de citas médicas inicialmente.<br><br> Visualización constante de las citas programadas para cada fisioterapeuta.<br><br> Obtener ganancias el 10% cada mes gracias al beneficio que reciben los fisioterapeutas y pacientes con dificultad motora quienes tienen la oportunidad de conseguir mayor alcance de sus servicios y lograr una recuperación efectiva, respectivamente. |
