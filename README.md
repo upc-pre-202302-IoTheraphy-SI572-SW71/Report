@@ -156,7 +156,7 @@ A continuación, se presenta el diagrama de clases para este bounded Context:<br
 A continuación, se presenta el modelo de base de datos para este bounded Context:<br>
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149663856218615889/ER7bKPWnyXgAAAABJRU5ErkJggg.png?width=1305&height=523" width="400"><br><br>
 #### 4.2.2. Bounded Context: Health Records and Expertise Context 
-#####4.2.2.1. Domain Layer.
+##### 4.2.2.1. Domain Layer.
 **Capa de Dominio (Domain Layer):** <br><br>
 En esta capa, se encuentra el núcleo de la aplicación relacionado con la gestión de registros de salud y la especialización médica, así como las reglas de negocio relacionadas con estos aspectos.<br><br>
 
@@ -223,7 +223,7 @@ A continuación, se presenta el diagrama de clases para este bounded Context: <b
 A continuación, se presenta el modelo de base de datos para este bounded Context:<br>
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/image.png" width="400"><br><br>
 
-####  4.2.3. Bounded Context:  Physiotherapist Selection and Review Management Context 
+####  4.2.3. Bounded Context: Physiotherapist Selection and Review Management Context 
 ##### 4.2.3.1. Domain Layer.
 En esta capa, se encuentra el núcleo de la aplicación relacionado con la selección de fisioterapeutas y la gestión de revisiones, así como las reglas de negocio relacionadas con estos aspectos.<br>
 		
