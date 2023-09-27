@@ -39,12 +39,26 @@ Ciclo:
 
 | Version | Fecha| Autor | Descripción de la Modificación |
 |-----------|-----------|-----------|-----------|
-| 1.0 | 30/08/2023 | Del Carpio, Jose<br>Pineda, Luis<br>Gomez, Cristhian<br>Ahuanari, María<br>Arrieta, Leonardo| Creación de la primera versión del trabajo final del curso de Desarrollo de Soluciones IOT  |
-| 1.1 | 1/09/2023 | Del Carpio, Jose<br>Pineda, Luis | Registro de la description del StartUp Profile y Product Profile |
-| 1.2 | 3/09/2023 | Cristhian<br>Ahuanari, María | Registro de los competidores, entrevistas a los segmentos y needfinding |
-| 1.3 | 4/08/2023 | Del Carpio, Jose<br>Pineda, Luis<br>Gomez, Cristhian<br>Ahuanari, María<br>Arrieta, Leonardo| Revision y actualización del Product Bakclog |
-| 1.4 | 5/09/2023 | Arrieta, Leonardo | Registro del To Be Scenario Map e Impact Map |
-| 1.5 | 7/08/2023 | Del Carpio, Jose<br>Pineda, Luis<br>Gomez, Cristhian<br>Ahuanari, María<br>Arrieta, Leonardo| Registro del Capítulo IV: Solution Software Design |
+| 0.1 | 27/08/2023 | Ahuanari, Maria | Registro de la description del StartUp Profile y Product Profile |
+| 0.2 | 27/08/2023 | Del Carpio, Jose | Identifiación de problem statement e hipótesis |
+| 0.3 | 28/08/2023 | Pineda, Luis | Identifica segemntos objetivos y competidores |
+| 0.4 | 29/08/2023 | Arrieta, Leonardo | Diseña entrevistas a segmentos objetivos |
+| 0.5 | 29/08/2023 | Gomez, Cristhian | Documentacion de EventStorming |
+| 0.6 | 30/08/2023 | Arrieta, Leonardo | Desarrollo de Bounded Context User Management |
+| 0.7 | 1/09/2023 | Ahuanari, Maria | Desarrollo de Bounded Context Physiotherapist Selection and Review Management |
+| 0.8 | 4/09/2023 | Pineda, Luis | Desarrollo de Bounded Context Patient engagement and Therapy Cordination |
+| 0.9 | 5/09/2023 | Gomez, Cristhian | Desarrollo de Bounded Context Health Record and Expertise Context |
+| 1.0 | 7/09/2023 | Del Carpio, Jose | Desarrollo de Bounded Context Payment Management |
+| 1.1 | 10/09/2023 | Ahuanari, Maria | Diseño de Wireframes de Theraphy |
+| 1.2 | 12/09/2023 | Del Carpio, Jose | Diseño de Mock-ups de Theraphy |
+| 1.3 | 14/09/2023 | Pineda, Luis | Diseño de Wireflows de Theraphy |
+| 1.4 | 15/09/2023 | Arrieta, Leonardo | Diseño de User-flows de Thearphy |
+| 1.5 | 16/09/2023 | Gomez, Cristhian | Creación del prototipo |
+| 1.6 | 23/09/2023 | Arrieta, Leonardo | Documentación de sprint backlog 1 |
+| 1.7 | 24/09/2023 | Ahuanari, Maria | Documentación de evidencia de desarrollo |
+| 1.8 | 25/09/2023 | Pineda, Luis | Documentación de evidenacia de despliegue |
+| 1.9 | 26/09/2023 | Gomez, Cristhian | Despliegue de las aplicaciones |
+| 2.0 | 27/09/2023 | Del Carpio, Jose | Documentación de Insigths |
 
 ## Project Report Collaboration Insights
 
