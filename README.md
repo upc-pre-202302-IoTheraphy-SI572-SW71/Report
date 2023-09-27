@@ -334,4 +334,89 @@ El equipo presenta y detalla su enfoque táctico para diseñar la solución de s
 		- 4.2.3.7.2. Bounded Context Database Design Diagram. <br><br> 
 		A continuación, se presenta el modelo de base de datos para este bounded Context: 
 		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149672129709756446/wPWzvIdJ50VDQAAAABJRU5ErkJggg.png?width=588&height=662" width="400"><br><br>
- 
+
+   
+ - 4.2.4. Bounded Context: Patient Engagement and Theraphy coordination Context <br><br>
+ 	- 4.2.4.1. Domain Layer.<br><br>
+		En esta capa, se definen las clases que representan las reglas de negocio y el núcleo del dominio relacionado con la coordinación de terapia y la participación del paciente. Ejemplos de clases podrían incluir:
+		
+			TherapySession (Entity): Representa una sesión de terapia con atributos como fecha, duración, notas, etc.
+			ExerciseVideo (Entity): Representa videos de ejercicios que los fisioterapeutas pueden asignar a los pacientes.
+			Patient (Entity): Representa la entidad del paciente con información relevante como historial médico, avances de terapia, etc.
+			Therapist (Entity): Representa al fisioterapeuta con detalles sobre su experiencia y horarios de disponibilidad.
+	
+ 	- 4.2.4.2. Interface Layer.<br><br>
+		En esta capa, se encuentran las clases relacionadas con la interfaz y la presentación de la coordinación de terapia y la participación del paciente. Ejemplos de clases podrían incluir:
+		
+			TherapyController (Controller): Maneja las solicitudes y acciones relacionadas con las sesiones de terapia.
+			PatientProfileController (Controller): Se encarga de la interacción entre el paciente y su perfil en la plataforma.
+			TherapistDashboardController (Controller): Proporciona herramientas para que los fisioterapeutas puedan coordinar y llevar a cabo las terapias.
+
+ 	- 4.2.4.3. Application Layer.<br><br>
+		Aquí se manejan los flujos de procesos del negocio relacionados con la coordinación de terapia y la participación del paciente. Ejemplos de clases podrían ser:
+		
+			ScheduleTherapySessionCommandHandler: Maneja la programación de sesiones de terapia.
+			RecordTherapyProgressCommandHandler: Gestiona el registro de avances de terapia por parte de los fisioterapeutas.
+			AssignExerciseVideoCommandHandler: Permite a los fisioterapeutas asignar videos de ejercicios a los pacientes.
+
+ 	- 4.2.4.4.  Infrastructure Layer.<br><br>
+		En esta capa, se presentan las clases que acceden a servicios externos como bases de datos o sistemas de almacenamiento de videos. Ejemplo:
+		
+			TherapyDatabaseRepository: Implementa la interfaz definida en el Domain Layer para interactuar con la base de datos y acceder a la información de terapia.
+			VideoStorageService: Permite subir y gestionar videos de ejercicios en la plataforma.
+
+	- 4.2.4.6.  Bounded Context Software Architecture Component Level Diagrams <br><br>
+		A continuación, se presenta el diagrama de componentes para este bounded Context:
+		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149655756778516600/image.png?width=876&height=662" width="400"><br><br>
+
+	- 4.2.4.7.  Bounded Context Software Architecture Code Level Diagrams. <br><br>
+		En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
+		- 4.2.4.7.1. Bounded Context Domain Layer Class Diagrams. <br><br>
+		A continuación, se presenta el diagrama de clases para este bounded Context:
+		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149683822212956160/NrmaqqGgAAAABJRU5ErkJggg.png?width=736&height=662" width="400"><br><br>
+
+		- 4.2.4.7.2. Bounded Context Database Design Diagram. <br><br> 
+		A continuación, se presenta el modelo de base de datos para este bounded Context: 
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Base4.png" width="400"><br><br>
+
+ - 4.2.5. Bounded Context: Payment Management Context <br><br>
+   	- 4.2.5.1. Domain Layer.<br><br>
+		En esta capa, se definen las clases relacionadas con las reglas de negocio y el núcleo del dominio de la gestión de pagos. Ejemplos de clases podrían incluir:
+		
+			Payment (Entity): Representa una transacción de pago con detalles como el monto, la fecha y el estado.
+			Appointment (Entity): Representa una cita médica agendada con información relevante como fecha, hora y detalles del médico.
+			VideoPlan (Entity): Representa los planes de suscripción que permiten a los pacientes acceder a videos subidos.
+
+	- 4.2.5.2. Interface Layer.<br><br>
+		En esta capa, se encuentran las clases relacionadas con la interfaz y la presentación de la gestión de pagos. Ejemplos de clases podrían incluir:
+		
+			PaymentController (Controller): Maneja las solicitudes y acciones relacionadas con el procesamiento de pagos.
+			AppointmentBookingController (Controller): Permite a los pacientes programar citas médicas.
+			VideoPlanController (Controller): Facilita la gestión de planes de suscripción para la visualización de videos.
+   
+   	- 4.2.5.3. Application Layer.<br><br>
+		Aquí se manejan los flujos de procesos del negocio relacionados con la gestión de pagos. Ejemplos de clases podrían ser:
+		
+			ProcessPaymentCommandHandler: Encargado de gestionar el procesamiento de pagos utilizando Stripe.
+			BookAppointmentCommandHandler: Maneja la reserva de citas médicas.
+			SubscribeToVideoPlanCommandHandler: Gestiona la suscripción a planes para la visualización de videos.
+
+	- 4.2.5.4.  Infrastructure Layer.<br><br>	
+		En esta capa, se presentan las clases que interactúan con servicios externos, como Stripe para el procesamiento de pagos y sistemas de almacenamiento para la gestión de planes y videos. Ejemplo:
+		
+			StripePaymentService: Implementa la lógica para realizar pagos a través de Stripe.
+			VideoPlanRepository: Interactúa con la base de datos o el sistema de almacenamiento para recuperar y gestionar información sobre planes de suscripción y videos.
+   	
+   	- 4.2.5.6.  Bounded Context Software Architecture Component Level Diagrams <br><br>
+		A continuación, se presenta el diagrama de componentes para este bounded Context:
+		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149655798587326535/image.png?width=648&height=662" width="400"><br><br>
+
+  	- 4.2.5.7.  Bounded Context Software Architecture Code Level Diagrams. <br><br>
+		En esta sección, el equipo muestra y describe diagramas que proporcionan un nivel de detalle más profundo sobre cómo se implementan los componentes dentro del contexto delimitado.
+		- 4.2.5.7.1. Bounded Context Domain Layer Class Diagrams. <br><br>
+		A continuación, se presenta el diagrama de clases para este bounded Context:
+		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Clases%205.png" width="400"><br><br>
+  
+		- 4.2.5.7.2. Bounded Context Database Design Diagram. <br><br> 
+		A continuación, se presenta el modelo de base de datos para este bounded Context: 
+		<img src="https://media.discordapp.net/attachments/1016712858240823300/1149676597620781156/PT02AAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAIEsYPjOdEICBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAh8AgOEFz6AlaFitwAAAABJRU5ErkJggg.png?width=1305&height=621" width="400"><br><br>
