@@ -6,10 +6,10 @@ El EventStorming es una técnica colaborativa para comprender procesos de negoci
 	Para observar el Eventstorming, ingrese a este link: https://miro.com/app/board/uXjVPEw1bPU=/?share_link_id=127518100018<br>
 ##### 4.1.1.1. Candidate Context Discovery.
 Para el desarrollo del EventStorming, el equipo ha desarrollado los siguientes pasos:<br><br>
+			●	Step 1: Unstructured Exploration<br>
 			En este primer paso, hemos llevado a cabo una lluvia de ideas para identificar los eventos clave de nuestro negocio de reservas de citas médicas, creación de terapias, pago de citas y reseñas para fisioterapeutas, etc. La identificación de estos eventos es un paso fundamental en la comprensión y diseño de nuestro sistema. Estos eventos representan los hitos fundamentales en la experiencia del usuario y en el funcionamiento interno de nuestro servicio.
 
-A continuación, presentamos la imagen que refleja los eventos de dominio identificados en esta etapa inicial de Event Storming:<br>
-			●	Step 1: Unstructured Exploration<br>
+A continuación, presentamos la imagen que refleja los eventos de dominio identificados en esta etapa inicial de Event Storming:<br>			
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%201.jpg" width="600"><br><br>
    			En el segundo paso de nuestro proceso de Event Storming, hemos revisado los eventos de dominio que identificamos en el primer paso y ahora proceden a organizarlos en el orden en que ocurren en nuestro dominio empresarial. Esta etapa es crucial para establecer la secuencia lógica de eventos y comprender cómo se desarrolla la experiencia del usuario en nuestro sistema.
 
