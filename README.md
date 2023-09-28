@@ -177,3 +177,252 @@ Link para la visualización de los Wireframes en Figma:  https://www.figma.com/f
 El Wireframe de la landing page se diseñó aplicando los elementos y principios de diseño. En la parte de elementos, se utilizaron para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para diferenciar los componentes e imágenes que conforman el landing page.<br><br> 
 Se puede observar la aplicación de diferentes elementos de diseño como el tamaño y forma, esto lo usamos para crear la primera pantalla que verá nuestro usuario. El color que utilizamos para su elaboración va de colores en escala de grises, ya que es un wireframe y su representación es de un boceto de nuestro producto. <br>
 Para constrastar los fondos oscuros, usamos colores más claros como el blanco y en los botones son similares, ya que los botones usan un color oscuro para constratar de todo lo que ve el usuario.<br>
+
+
+### 5.3.2. Landing Page Mock-up
+
+Para la elaboración del Mock-up de la Landing page tanto para móvil como para escritorio. Utilizamos los principios, elementos de diseño, diseño inclusivo y arquitectura de información que hemos planteado en puntos anteriores. También el Design System de nuestro producto.
+
+| ![](<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mockup-landingpage/LandingPage-MockUp-Desktop.png?raw=true" width="600">) | Vista Previa del Mock-up de la Landing Page para Desktop Web Browser | ![](RackMultipart20230928-1-mpbhxp_html_4bbf4d98df7f4360.png) | Vista Previa del Mock-up de la Landing Page para Mobile Web Browser |
+| --- | --- | --- | --- |
+| Link para la visualización de los Mock-ups en Figma: [https://www.figma.com/file/PlH02iVFwPvBvSQ66yRrRa/Styles-Guidelines?node-id=77%3A819](https://www.figma.com/file/PlH02iVFwPvBvSQ66yRrRa/Styles-Guidelines?node-id=77%3A819) |
+
+Para la explicación del diseño de nuestro mock-up, se utilizaron los siguientes elementos de diseño:
+
+| ![](RackMultipart20230928-1-mpbhxp_html_f1bcfc2429acf687.png) **Paleta de colores usadas:**
+
+
+
+
+ |
+| --- |
+| **Peso de fuentes usadas:** Bold
+ Regular
+ Medium
+ | **Tamaño de fuentes:** h1 - 48px
+ h2 – 40px
+ h3 – 32px
+ h4 – 24px
+ body – 24px
+ btn-large – 28px |
+
+Para su diseño se aplicaron los 6 principios del diseño:
+
+- **Balance:** Se equilibraron las imágenes grandes con texto a su costado para una mejor relación para la vista.
+
+- **Contraste:** Para contrastar secciones con fondos de color oscuros que en nuestro caso sería el azul, utilizamos el color blanco para una mejor diferencia entre ellos.
+
+
+- **Alineación:** Para este principio alineamos nuestros elementos a la izquierda y a la derecha así intercalando para que la vista no sea de una misma dirección.
+
+- **Proximidad:** Este principio se aplicó en la creación de botones, ya que estas tienen una cierta elevación para diferenciar que están flotando.
+
+- **Repetición:** Se aplicó en la creación de tarjetas de testimonios y beneficios que brinda nuestro producto
+
+
+- **Espacio:** Los elementos de nuestro diseño no están todos juntos, ellos tienen un espacio establecido para cada sección y no se alborote todos en una sola parte.
+
+  1.
+# Applications UX/UI Design
+
+En esta sección, se presentará los wireframes y mockups de la propuesta visual y de interacción de nuestro producto, Theraphy.
+
+    1.
+### Applications Wireframes
+
+Se presenta el diseño visual y de interacción en formato de wireframes de nuestro producto digital.
+
+Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro.
+
+**WEB APPLICATION WIREFRAMES:**
+
+| ![](RackMultipart20230928-1-mpbhxp_html_ed56eaa04819d181.png) | **Registrar cuenta:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma. Se usaron elementos como formas, textos y colores. |
+| --- | --- |
+| ![](RackMultipart20230928-1-mpbhxp_html_b98b06c35bfa116.png) | **Iniciar sesión:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma, |
+
+**Para el segmento objetivo de pacientes, diseñamos las siguientes pantallas:**
+
+| ![](RackMultipart20230928-1-mpbhxp_html_6e334627c061674.png)
+ | **Pantalla principal(Paciente):**Esta es la primera pantalla que verá nuestro usuario cuando inicie sesión y se encontrará información de su progreso, tratamientos, diagnósticos y citas médicas. |
+| --- | --- |
+| ![](RackMultipart20230928-1-mpbhxp_html_bd1730777058761.png)
+ | **Calendario de Citas Médicas:** En esta pantalla se muestra el calendario de citas de nuestro usuario para que no se olvide que tiene una cita con su fisioterapeuta. Además, se utiliza para reservar citas con su fisioterapeuta. |
+| ![](RackMultipart20230928-1-mpbhxp_html_d70d5481556649e1.png)
+ | **Búsqueda de Fisioterapeutas:** En esta pantalla mostramos una lista de fisioterapeutas con información como su valoración y total de consultas. Además, se podrá visitar su perfil con el botón de" View Profile".
+ |
+| ![](RackMultipart20230928-1-mpbhxp_html_eeed343b8a94ff1.png)
+ | **Realizar Pago:** En esta pantalla mostramos al usuario el método de pago a realizar ya sea por tarjeta de crédito o débito. Se mostrará esta pantalla al realizar un pago, ya sea por consulta o por adquirir videos. |
+| ![](RackMultipart20230928-1-mpbhxp_html_7a9668a6c73c59f7.png)
+ | **Perfil del Fisioterapeuta:** En esta pantalla mostramos al usuario el perfil del fisioterapeuta que desea consultar, se podrá ver información como su nombre, total de pacientes y sus estudios.
+ |
+| ![](RackMultipart20230928-1-mpbhxp_html_7032a6ba9235c900.png)
+ | **Tratamientos:** En esta pantalla mostramos al usuario una lista de tratamientos para que pueda elegir el que más se adecue a su problema, además se muestra la cantidad de videos y botón "Info" para saber de qué trata el tratamiento. |
+| ![](RackMultipart20230928-1-mpbhxp_html_5498c9a11303352a.png)
+ | **Nueva reseña:** En esta pantalla mostramos al usuario que puede realizar una nueva reseña dando su valoración y una pequeña descripción de porqué de su valoración. El botón "Publish" sirve para enviar su reseña. |
+| ![](RackMultipart20230928-1-mpbhxp_html_d632132d7d8b5df0.png)
+ | **Reseñas del Fisioterapeuta:** En esta pantalla mostramos al usuario las reseñas de otros usuarios respecto a la calidad de servicio que brinda el fisioterapeuta. También está la posibilidad de añadir una nueva reseña. |
+| ![](RackMultipart20230928-1-mpbhxp_html_5fb327f56c954269.png)
+ | **Historial médico-vacío:** En esta pantalla el usuario podrá subir su historial médico para que el fisioterapeuta que lo vaya a tratar vea que problemas tiene y ayudarlo mejor. |
+| ![](RackMultipart20230928-1-mpbhxp_html_efb6bee533fab615.png)
+ | **Perfil del paciente:** En esta pantalla le mostramos al usuario(paciente) toda la información necesaria para que el fisioterapeuta que lo vaya a atender sea más eficiente y pueda conocerlo mejor para los tratamientos, |
+| ![](RackMultipart20230928-1-mpbhxp_html_f521115cc9d621e4.png)
+ | **Historial médico-subido:** En esta pantalla mostramos al usuario(paciente) su historial médico para que el fisioterapeuta lo vea y también se le da la posibilidad de descargarlo en formato PDF. |
+| ![](RackMultipart20230928-1-mpbhxp_html_eade9d0f1f319958.png)
+ | **Citas médicas:** En esta pantalla le mostramos al usuario(paciente) sus citas médicas que ya hayan sido realizadas o las que todavía están por venir. Esta se le agrega información del doctor, tipo de terapia y la fecha. Además, si la cita ya fue realizada se podrá ver el diagnóstico de esta |
+| ![](RackMultipart20230928-1-mpbhxp_html_8817138ea6d4a2a.png)
+ | **Diagnósticos:** En esta pantalla le mostramos al usuario el resultado de su sesión con el fisioterapeuta dándole una observación y una prescripción de su tratamiento.
+ |
+| ![](RackMultipart20230928-1-mpbhxp_html_c6b850fa114f6d5e.png)
+ | **Tus Fisioterapeutas:** En esta pantalla le mostramos al usuario(paciente) los fisioterapeutas que tiene asignado después de realizar el pago para adquirir sus servicios de fisioterapia.
+ |
+| ![](RackMultipart20230928-1-mpbhxp_html_d8fcc68054ef71f4.png)
+ | **Tus sesiones:** En esta pantalla le mostramos al usuario(paciente) las sesiones que tiene programado para realizar que están en formatos de videos para que el propio paciente o con ayuda de un familiar pueda realizar los ejercicios de tratamiento.
+ |
+| ![](RackMultipart20230928-1-mpbhxp_html_b0430866fda72d25.png)
+ | **Sesiones de video:** En esta pantalla le mostramos al usuario(paciente) el video de su sesión a realizar, el usuario puede pausar y seguir como todo video, pero no podrá adelantar la otra sesión hasta que cumpla con la sesión actual. |
+| ![](RackMultipart20230928-1-mpbhxp_html_98531f076c4c5774.png)
+ | **Información del tratamiento:** En esta pantalla le mostramos al usuario(paciente) información sobre el problema que va a tratar con el tratamiento que brinda el fisioterapeuta. Si le gusta le dará el botón "Enroll" para adquirir ese tratamiento |
+
+**Para el segmento objetivo de fisioterapeutas, diseñamos las siguientes pantallas:**
+
+| ![](RackMultipart20230928-1-mpbhxp_html_7bdd57ed1ed2c717.png)
+ | **Pantalla principal
+ (Fisioterapeuta):** Esta es la primera pantalla que se mostrará a nuestro usuario(Fisioterapeuta) al iniciar sesión y podrá observar atajos como sus citas con sus pacientes, sus pacientes y sus tratamientos. Además de las solicitudes de sus pacientes |
+| --- | --- |
+| ![](RackMultipart20230928-1-mpbhxp_html_4146fd6d2b62496c.png)
+ | **Calendario de citas
+ (Fisioterapeuta):** Esta pantalla muestra el calendario de citas médicas que tiene nuestro usuario(fisioterapeuta) con sus pacientes |
+| ![](RackMultipart20230928-1-mpbhxp_html_6ea986182e9a4888.png) | **Solicitudes:** Esta pantalla muestra las solicitudes de los pacientes que quieren adquirir el servicio de fisioterapia de nuestro usuario(fisioterapeuta) por lo que el decidirá aceptar o no la solicitud. |
+| ![](RackMultipart20230928-1-mpbhxp_html_2565501887a16307.png)
+ | **Perfil del Fisioterapeuta:** En esta pantalla mostraremos a nuestro usuario sus datos de contacto y alguna información como los historiales médicos, agentar una cita y enviar diagnósticos. |
+| ![](RackMultipart20230928-1-mpbhxp_html_6edca044b021dbe3.png)
+ | **Enviar Diagnostico:** En esta pantalla mostraremos a nuestro usuario el diagnostico que acaba de realizar para su paciente y poder enviárselo mediante la plataforma con el botón "Send". |
+| ![](RackMultipart20230928-1-mpbhxp_html_6731d7ab58cad6e6.png)
+ | **Estudios:** En esta pantalla mostraremos a nuestro usuario administrar la información de sus estudios, ya que puede subir sus títulos para que se vea más profesional. |
+| ![](RackMultipart20230928-1-mpbhxp_html_b2d5acab85816b09.png)
+ | **Añadir Licenciatura:** En esta pantalla mostraremos a nuestro usuario(fisioterapeuta) la opción de subir el titulo de su carrera para hacer más confiable su servicio de fisioterapia. |
+| ![](RackMultipart20230928-1-mpbhxp_html_f17fbae6b7952787.png)
+ | **Nuevo Tratamiento:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la opción de crear un nuevo tratamiento para cierto problema y agregarlo en su lista de tratamientos. |
+| ![](RackMultipart20230928-1-mpbhxp_html_1b994e569cb306c0.png)
+ | **Asignar Tramiento:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la opción asignar el tratamiento que el paciente elija siempre que haya realizado el pago del tratamiento. |
+| ![](RackMultipart20230928-1-mpbhxp_html_57906f945618f131.png)
+ | **Tus Pacientes:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la lista de pacientes que tiene y la información de ellos . |
+| ![](RackMultipart20230928-1-mpbhxp_html_39b5781abbfc35f4.png)
+ | **Tus sesiones:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la lista de videos programados para cada tratamiento que haya creado, para subir se tiene que cumplir requisitos y darle al botón "Upload Session" |
+| ![](RackMultipart20230928-1-mpbhxp_html_b40530a33cebd5d2.png)
+ | **Tus Tratamientos:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la lista de tratamientos que el ha creado para sus pacientes. Se puede agregar uno nuevo con el botón "New treatment" |
+
+**MOBILE APPLICATION WIREFRAMES:**
+
+Se presenta el diseño visual y de interacción en formato de wireframes de nuestro producto digital.
+
+Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro.
+
+![](RackMultipart20230928-1-mpbhxp_html_8b966dbe365dce89.png)
+
+**Registrar cuenta:**
+
+En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma. Se usaron elementos como formas, textos y colores.
+
+![](RackMultipart20230928-1-mpbhxp_html_2019c81c701ac53b.png)
+
+**Iniciar sesión:**
+
+En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma.
+
+**Para el segmento objetivo de pacientes, diseñamos las siguientes pantallas:**
+
+![](RackMultipart20230928-1-mpbhxp_html_6df7b9e5a345458c.png)
+
+**Iniciar sesión:**
+
+En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma.
+
+![](RackMultipart20230928-1-mpbhxp_html_d4ca11279836fb9d.png)
+
+**Citas médicas:**
+
+En esta pantalla le mostramos al usuario(paciente) sus citas médicas que ya hayan sido realizadas o las que todavía están por venir. Esta se le agrega información del doctor, tipo de terapia y la fecha. Además, si la cita ya fue realizada se podrá ver el diagnóstico de esta
+
+![](RackMultipart20230928-1-mpbhxp_html_1012b42a4b81d1c.png)
+
+**Búsqueda de Fisioterapeutas:**
+
+En esta pantalla mostramos una lista de fisioterapeutas con información como su valoración y total de consultas. Además, se podrá visitar su perfil al presionar en la card.
+
+![](RackMultipart20230928-1-mpbhxp_html_762d42726c1660a9.png)
+
+![](RackMultipart20230928-1-mpbhxp_html_9d8b395be4c9e18b.png) **Perfil del Fisioterapeuta:**
+
+En esta pantalla mostramos al usuario el perfil del fisioterapeuta que desea consultar, se podrá ver información como su nombre, total de pacientes y las valoraciones en estrella.
+
+![](RackMultipart20230928-1-mpbhxp_html_829313e5bb0b194f.png)
+
+**Historial médico-vacío:**
+
+En esta pantalla el usuario podrá subir su historial médico para que el fisioterapeuta que lo vaya a tratar vea que problemas tiene y ayudarlo mejor.
+
+![](RackMultipart20230928-1-mpbhxp_html_ddfe9d6af89c4376.png)
+
+**Tratamientos:**
+
+En esta pantalla mostramos al usuario una lista de tratamientos para que pueda elegir el que más se adecue a su problema, además se muestra la cantidad de videos y botón "Info" para saber de qué trata el tratamiento.
+
+![](RackMultipart20230928-1-mpbhxp_html_221408ddcb172603.png)
+
+**Nueva reseña:**
+
+En esta pantalla mostramos al usuario que puede realizar una nueva reseña dando su valoración y una pequeña descripción de porqué de su valoración. El botón "Save" sirve para enviar su reseña.
+
+![](RackMultipart20230928-1-mpbhxp_html_e52e75332698e5d1.png)
+
+**Realizar Pago:**
+
+En esta pantalla mostramos al usuario el método de pago a realizar ya sea por tarjeta de crédito o débito. Se mostrará esta pantalla al realizar un pago, ya sea por consulta o por adquirir videos.
+
+![](RackMultipart20230928-1-mpbhxp_html_6f15060a535cd370.png)
+
+**Perfil del paciente:**
+
+En esta pantalla le mostramos al usuario(paciente) toda la información necesaria para que el fisioterapeuta que lo vaya a atender sea más eficiente y pueda conocerlo mejor para los tratamientos.
+
+![](RackMultipart20230928-1-mpbhxp_html_929ec717851024be.png)
+
+**Agendar cita médica:**
+
+En esta pantalla el paciente después de haber elegido con que fisioterapista reservar cita, procede a llenar los campos del tema, día y hora de la cita que va a agendar.
+
+**Para el segmento objetivo de fisioterapeutas, diseñamos las siguientes pantallas:**
+
+![](RackMultipart20230928-1-mpbhxp_html_309fb3e90e13a8c4.png)
+
+**Pantalla principal (Fisioterapeuta):**
+
+Esta es la primera pantalla que se mostrará a nuestro usuario (Fisioterapeuta) al iniciar sesión y podrá observar atajos como sus citas con sus pacientes, sus pacientes y sus tratamientos. Además de las solicitudes de sus pacientes
+
+![](RackMultipart20230928-1-mpbhxp_html_ab80bede0d60789a.png)
+
+**Perfil del Fisioterapeuta:**
+
+En esta pantalla mostraremos a nuestro usuario sus datos de contacto y alguna información como los historiales médicos, agentar una cita y enviar diagnósticos.
+
+![](RackMultipart20230928-1-mpbhxp_html_4ca677916c152c07.png)
+
+**Nuevo Tratamiento:**
+
+En esta pantalla le mostramos al usuario(Fisioterapeuta) la opción de crear un nuevo tratamiento para cierto problema y agregarlo en su lista de tratamientos.
+
+![](RackMultipart20230928-1-mpbhxp_html_7d4512f93aded4b.png)
+
+**Tus Pacientes:**
+
+En esta pantalla le mostramos al usuario (Fisioterapeuta) la lista de pacientes que tiene y la información de ellos.
+
+![](RackMultipart20230928-1-mpbhxp_html_a2ad400367cf1a25.png)
+
+    1.
+### Applications Wireflow Diagrams.
+
+En esta sección se presentará los flujos de navegación entre pantallas de nuestra aplicación que visualizará el usuario y la interacción que tendrá con los elementos que presenta cada sección.
+
+
