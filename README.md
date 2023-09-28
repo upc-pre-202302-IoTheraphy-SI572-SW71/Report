@@ -461,5 +461,97 @@ Segmento objetivo de Fisioterapuetas
 
 ### Link para visualizar los Mobile Applications Wireflow Diagrams: [https://lucid.app/lucidchart/82743e0e-4e0e-4bf0-afbc-c6203f36b768/edit?invitationId=inv\_4216373d-493e-43b1-8aea-44f18c2f6fdb&page=0\_0#](https://lucid.app/lucidchart/82743e0e-4e0e-4bf0-afbc-c6203f36b768/edit?invitationId=inv_4216373d-493e-43b1-8aea-44f18c2f6fdb&page=0_0)
 
+### Applications Mock-ups
 
+Se presenta el diseño visual y de interacción en formato de mockups de nuestro producto digital.
+
+**WEB APPLICATION MOCKUPS:**
+
+Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro.
+
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/iniciar%20sesion.jpg?raw=true" width="600">| **Iniciar sesión:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma,Se aplicaron los colores azules y azul oscuro para contrastar los botones y títulos del fondo blanco. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/registrar%20cuenta.jpg?raw=true" width="600"> | **Registrar cuenta:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma,Se aplicaron los colores azules y azul oscuro para contrastar los botones y títulos del fondo blanco. |
+
+**Para el segmento objetivo de pacientes, diseñamos las siguientes pantallas:**
+
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/home.jpg?raw=true" width="600"> | **Pantalla principal(Paciente):**Esta es la primera pantalla que verá nuestro usuario cuando inicie sesión y se encontrará información de su progreso, tratamientos, diagnósticos y citas médicas. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/calendario%20de%20citas%20m%C3%A9dicas.jpg?raw=true" width="600"> | **Calendario de citas médicas:** En esta pantalla se muestra el calendario de citas de nuestro usuario para que no se olvide que tiene una cita con su fisioterapeuta. Además, se utiliza para reservar citas con su fisioterapeuta. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/citas%20m%C3%A9dicas.jpg?raw=true" width="600"> | **Citas médicas:** En esta pantalla le mostramos al usuario(paciente) sus citas médicas que ya hayan sido realizadas o las que todavía están por venir. Esta se le agrega información del doctor, tipo de terapia y la fecha. Además, si la cita ya fue realizada se podrá ver el diagnóstico de esta |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/diagnosticos.jpg?raw=true" width="600"> | **Diagnósticos:** En esta pantalla le mostramos al usuario el resultado de su sesión con el fisioterapeuta dándole una observación y una prescripción de su tratamiento. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/historial%20medico%20vacio%20.jpg?raw=true" width="600"> | **Historial médico-vacío:** En esta pantalla el usuario podrá subir su historial medico para que el fisioterapeuta que lo vaya a tratar vea que problemas tiene y ayudarlo mejor. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/historial%20medico%20subido.jpg?raw=true" width="600"> | **Historial médico-subido:** En esta pantalla mostramos al usuario(paciente) su historial medico para que el fisioterapeuta lo vea y también se le da la posibilidad de descargarlo en formato PDF. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/realizar%20pago.jpg?raw=true" width="600"> | **Realizar Pago:** En esta pantalla mostramos al usuario el método de pago a realizar ya sea por tarjeta de crédito o débito. Se mostrará esta pantalla al realizar un pago, ya sea por consulta o por adquirir videos. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/rese%C3%B1as%20del%20fisioterapeuta.jpg?raw=true" width="600"> | **Reseñas del Fisioterapeuta:** En esta pantalla mostramos al usuario las reseñas de otros usuarios respecto a la calidad de servicio que brinda el fisioterapeuta. También esta la posibilidad de añadir una nueva reseña. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/perfil%20del%20fisioterapeuta.jpg?raw=true" width="600"> | **Perfil del Fisioterapeuta:** En esta pantalla mostramos al usuario el perfil del fisioterapeuta que desea consultar, se podrá ver información como su nombre, total de pacientes y su estudios. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/perfil%20del%20paciente.jpg?raw=true" width="600"> | **Perfil del paciente:** En esta pantalla le mostramos al usuario(paciente) toda la información necesaria para que el fisioterapeuta que lo vaya a atender sea más eficiente y pueda conocerlo mejor para los tratamientos. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/add%20review.jpg?raw=true" width="600"> | **Nueva reseña:** En esta pantalla mostramos al usuario que puede realizar una nueva reseña dando su valoración y una pequeña descripción de porque de su valoración. El botón "Publish" sirve para enviar su reseña. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/busqueda%20de%20fisioterapeutas.jpg?raw=true" width="600"> | **Búsqueda de Fisioterapeutas:** En esta pantalla mostramos una lista de fisioterapeutas con información como su valoración y total de consultas. Además, se podrá visitar su perfil con el botón de "View Profile". |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/terapia.jpg?raw=true" width="600"> | **Tratamientos:** En esta pantalla mostramos al usuario una lista de tratamientos para que pueda elegir el que más se adecue a su problema, además se muestra la cantidad de videos y botón "Info" para saber de que trata el tratamiento. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/informacion%20de%20la%20terapia.jpg?raw=true" width="600"> | **Información del tratamiento:** En esta pantalla le mostramos al usuario(paciente) información sobre el problema que va a tratar con el tratamiento que brinda el fisioterapeuta. Si le gusta le dará el botón "Enroll" para adquirir ese tratamiento |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/patients/video.jpg?raw=true" width="600">| **Sesiones de video:** En esta pantalla le mostramos al usuario(paciente) el video de su sesión a realizar, el usuario puede pausar y seguir como todo video, pero no podrá adelantar la otra sesión hasta que cumpla con la sesión actual. |
+
+**Para el segmento objetivo de fisioterapeutas, diseñamos las siguientes pantallas:**
+
+|<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/physiotherapists/home.png?raw=true" width="600"> | **Pantalla principal(Fisioterapeuta):** Esta es la primera pantalla que se mostrará a nuestro usuario(Fisioterapeuta) al iniciar sesión y podrá observar atajos como sus citas con sus pacientes, sus pacientes y sus tratamientos. Además de las solicitudes de sus pacientes |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/physiotherapists/calendario%20de%20citas.jpg?raw=true" width="600"> | **Calendario de citas(Fisioterapeuta):** Esta pantalla muestra el calendario de citas médicas que tiene nuestro usuario(fisioterapeuta) con sus pacientes |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/physiotherapists/estudios.jpg?raw=true" width="600">| **Estudios:** En esta pantalla mostraremos a nuestro usuario administrar la información de sus estudios, ya que puede subir sus títulos para que se vea más profesional. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/physiotherapists/nueva%20terapia.jpg?raw=true" width="600"> | **Nuevo Tratamiento:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la opción de crear un nuevo tratamiento para cierto problema y agregarlo en su lista de tratamientos. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/physiotherapists/patients%20list.jpg?raw=true" width="600">| **Tus Pacientes:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la lista de pacientes que tiene y la información de ellos . |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/physiotherapists/perfil%20del%20fisioterapeuta.jpg?raw=true" width="600"> | **Perfil del Fisioterapeuta:** En esta pantalla mostraremos a nuestro usuario sus datos de contacto y alguna información como los historiales médicos, agentar una cita y enviar diagnósticos. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20web/physiotherapists/terapias.jpg?raw=true" width="600"> | **Tus Tratamientos:** En esta pantalla le mostramos al usuario(Fisioterapeuta) la lista de tratamientos que el ha creado para sus pacientes. Se puede agregar uno nuevo con el botón "New treatment" |
+
+**MOBILE APPLICATION MOCKUPS:**
+
+
+Tenemos pantallas generales que vendrían a ser el inicio de sesión y registro.
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/login.jpg?raw=true" width="600"> | **Iniciar sesión:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma,Se aplicaron los colores azules y azul oscuro para contrastar los botones y títulos del fondo blanco. |
+| --- | --- |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/sign%20up.jpg?raw=true" width="600"> | **Registrar cuenta:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma,Se aplicaron los colores azules y azul oscuro para contrastar los botones y títulos del fondo blanco. | 
+
+Sección doctores:
+
+| Pantalla principal doctores: Esta es la primera pantalla que verá el doctor cuando se registre y ingrese sesión se encontrará con información relacionada con sus citas pendientes y nombres de pacientes. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/physiotherapists/home.png?raw=true" width="300"> |
+| --- | --- |
+| Lista de pacientes: En esta pantalla se muestra la lista de pacientes y sus respectivas citas para ser atendidos por el médico. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/physiotherapists/patients%20list.jpg?raw=true" width="600"> |
+| --- | --- |
+| Citas médicas: En esta pantalla le mostramos al médico las sesiones grabadas que ha subido y se le añade un botón por si quiere agregar una sesión grabadas más. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/physiotherapists/appointments.jpg?raw=true" width="300"> |
+| --- | --- |
+| Perfil del médico: En esta pantalla se le muestra al doctor su perfil, vista del doctor, este podrá editar su información proporcionada. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/physiotherapists/profile.jpg?raw=true" width="300"> |
+| --- | --- |
+| Tratamiento: En estas pantallas el medico podrá ingresar nuevos tratamientos para los pacientes(usuario). | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/physiotherapists/therapies.jpg?raw=true" width="300"> |
+
+Sección pacientes:
+
+| Pantalla principal pacientes: Esta es la primera pantalla que verá el paciente cuando se registre e ingrese sesión se encontrará con información relacionada con su cita programada y nombres de su doctor. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/patients/home.jpg?raw=true" width="600"> |
+| --- | --- |
+| Pantalla encuentra tu fisioterapeuta: El paciente puede seleccionar su fitoterapeuta favorito. Además, el usuario paciente podrá ver su perfil del doctor seleccionado para más confianza, en otra pantalla. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/patients/physiotherapists%20list.jpg?raw=true" width="600"> |
+| --- | --- |
+| Pantallas perfil fisioterapeuta: El paciente puede ver el perfil de su fitoterapeuta favorito. Además, el usuario paciente podrá ver su perfil del doctor seleccionado para más confianza, incluso revisar sus experiencias con otros pacientes(review) y reservar una cita. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/patients/physiotherapist%20profile.jpg?raw=true" width="600"> |
+| --- | --- |
+| Pantalla reservar una cita: El usuario paciente tiene la posibilidad de reservar una cita en la app. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/patients/make%20appointment.jpg?raw=true" width="600"> |
+| --- | --- |
+| Pantalla paga su cita reservada: En esta pantalla el paciente podrá pagar su cita ingresando sus datos de su tarjeta. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/patients/pay%20appointment.jpg?raw=true" width="600"> |
+| --- | --- |
+| Pantalla perfil paciente: En esta pantalla el paciente podrá ver y editar su perfil, ver su historial y su información. | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mockups%20moviles/patients/profile.png" width="600"> |
 
