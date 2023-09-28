@@ -667,3 +667,23 @@ Para el despliegue de la API utilizada empleamos el servicio de Railway; sin emb
 
 Link de la API desplegada: [https://api-iotheraphy-production.up.railway.app](https://api-iotheraphy-production.up.railway.app/)
 
+### 6.2.1.8 **Team Collaboration Insights during Sprint**
+
+Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra aplicación web.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/team%20collaboration%20insights.jpg" width="600">
+
+En la imagen se puede visualizar el número de pull requests realizados por todo el equipo. También se presenta en la parte inferior un gráfico con la cantidad de commits realizados por cada integrante.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/pull%20requets.jpg" width="600">
+
+En la imagen se evidencia el número de cambios realizados por cada integrante y el intervalo de fechas en que estos se efectuaron.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/cambios%20realizados%201.jpg" width="600">
+
+En este gráfico se puede visualizar el número de clonaciones que se le ha realizado al repositorio. Además, presenta el tráfico de visitantes que ha tenido el repositorio.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/clonaciones.jpg" width="600">
+
+En la presente imagen se muestran las ramas que se desprenden de nuestra rama principal. Asimismo, se puede visualizar los features realizados en cada respectivo commit.
+
