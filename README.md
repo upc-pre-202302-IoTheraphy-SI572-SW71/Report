@@ -54,16 +54,21 @@ A continuación, presentaremos una imagen que muestra cómo se organizan los con
    			●	Step 10: Bounded Contexts<br>
 			En el paso 10 de Event Storming, identificamos agregados relacionados entre sí, ya sea por funcionalidad o acoplamiento a través de políticas. Estos grupos de agregados se convierten en candidatos para definir límites en los contextos delimitados, lo que ayuda a establecer fronteras claras en nuestro diseño de sistema.
 
-A continuación, presentaremos una imagen que muestra cómo se relacionan los agregados que forman candidatos para definir límites en los contextos delimitados en nuestro modelo de dominio: <br><br>   			
+A continuación, presentaremos las imagenes respectivas de los bounded contexts: <br><br>   			
    				**User Management Context**<br>
+				Maneja los datos de usuario, garantiza su privacidad y extrae solo los datos que les pertenecen. En otras palabras, sirve para el proceso de inicio de sesión dentro de Therapy. <br><br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011.jpg" width="600"><br><br>
 	  			**Health Records and Expertise Context**<br>
+      				Centrado en la gestión de pacientes hacia fisioterapeutas, como su búsqueda y calificación. <br><br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(1).jpg" width="600"><br><br>
 	  			**Physiotherapist Selection and Review Management Context**<br>
+      				Orientado a controlar el tratamiento de un paciente, como videos de terapia y citas médicas, así como el análisis de resultados. <br><br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(4).jpg" width="600"><br><br>
 	  			**Patient Engagement and Therapy Coordination Context**<br>
+      				Diseñado para gestionar la información clave de los usuarios, tanto de pacientes como de fisioterapeutas. <br><br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(2).jpg" width="600"><br><br>
 	  			**Payment Management Context**<br>
+      				Basado en el control de pagos dentro de la aplicación por parte de los pacientes para reservar citas. <br><br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(3).jpg" width="600"><br><br>
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2010.jpg" width="600"><br><br>
 
