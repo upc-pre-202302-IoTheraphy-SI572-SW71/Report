@@ -247,17 +247,17 @@ Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/inicio-patients.png" width="600"> | **Pantalla principal(Paciente):**Esta es la primera pantalla que verá nuestro usuario cuando inicie sesión y se encontrará información de su progreso, tratamientos, diagnósticos y citas médicas. |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/calendario-patient.png" width="600">
- | **Calendario de Citas Médicas:** En esta pantalla se muestra el calendario de citas de nuestro usuario para que no se olvide que tiene una cita con su fisioterapeuta. Además, se utiliza para reservar citas con su fisioterapeuta. |
- | --- | --- |
+| **Calendario de Citas Médicas:** En esta pantalla se muestra el calendario de citas de nuestro usuario para que no se olvide que tiene una cita con su fisioterapeuta. Además, se utiliza para reservar citas con su fisioterapeuta. |
+| --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/physiotherapist.png" width="600">
- | **Búsqueda de Fisioterapeutas:** En esta pantalla mostramos una lista de fisioterapeutas con información como su valoración y total de consultas. Además, se podrá visitar su perfil con el botón de" View Profile".|
- | --- | --- |
+| **Búsqueda de Fisioterapeutas:** En esta pantalla mostramos una lista de fisioterapeutas con información como su valoración y total de consultas. Además, se podrá visitar su perfil con el botón de" View Profile".|
+| --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/pago-cita.png" width="600">
- | **Realizar Pago:** En esta pantalla mostramos al usuario el método de pago a realizar ya sea por tarjeta de crédito o débito. Se mostrará esta pantalla al realizar un pago, ya sea por consulta o por adquirir videos. |
- | --- | --- |
+| **Realizar Pago:** En esta pantalla mostramos al usuario el método de pago a realizar ya sea por tarjeta de crédito o débito. Se mostrará esta pantalla al realizar un pago, ya sea por consulta o por adquirir videos. |
+| --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/Physiotherapist%20profile.png" width="600">
- | **Perfil del Fisioterapeuta:** En esta pantalla mostramos al usuario el perfil del fisioterapeuta que desea consultar, se podrá ver información como su nombre, total de pacientes y sus estudios.|
- | --- | --- |
+| **Perfil del Fisioterapeuta:** En esta pantalla mostramos al usuario el perfil del fisioterapeuta que desea consultar, se podrá ver información como su nombre, total de pacientes y sus estudios.|
+| --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/My%20theraphy.png" width="600">
  | **Tratamientos:** En esta pantalla mostramos al usuario una lista de tratamientos para que pueda elegir el que más se adecue a su problema, además se muestra la cantidad de videos y botón "Info" para saber de qué trata el tratamiento. |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/add%20a%20review.png" width="600">
