@@ -266,8 +266,7 @@ Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/medic-uploaded.png" width="600"> | **Historial médico-subido:** En esta pantalla mostramos al usuario(paciente) su historial médico para que el fisioterapeuta lo vea y también se le da la posibilidad de descargarlo en formato PDF. |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/citas.png" width="600">
-| **Citas médicas:** En esta pantalla le mostramos al usuario(paciente) sus citas médicas que ya hayan sido realizadas o las que todavía están por venir. Esta se le agrega información del doctor, tipo de terapia y la fecha. Además, si la cita ya fue realizada se podrá ver el diagnóstico de esta |
+| <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/citas.png" width="600"> | **Citas médicas:** En esta pantalla le mostramos al usuario(paciente) sus citas médicas que ya hayan sido realizadas o las que todavía están por venir. Esta se le agrega información del doctor, tipo de terapia y la fecha. Además, si la cita ya fue realizada se podrá ver el diagnóstico de esta |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/diagnosis.png" width="600">| **Diagnósticos:** En esta pantalla le mostramos al usuario el resultado de su sesión con el fisioterapeuta dándole una observación y una prescripción de su tratamiento. |
 | --- | --- |
