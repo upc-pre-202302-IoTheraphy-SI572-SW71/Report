@@ -70,6 +70,7 @@ A continuación, presentaremos las imagenes respectivas de los bounded contexts:
 	  			**Payment Management Context**<br>
       				Basado en el control de pagos dentro de la aplicación por parte de los pacientes para reservar citas. <br><br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(3).jpg" width="600"><br><br>
+	  			Esta es la imagen general que muestra a todos nuestros bounded contexts como parte del paso 10 del Event Storming realizado. <br><br>
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2010.jpg" width="600"><br><br>
 
 ##### 4.1.1.2. Domain Message Flows Modeling
