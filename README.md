@@ -299,13 +299,13 @@ Se presenta el diseño visual y de interacción en formato de wireframes de nues
 
 Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/sign%20up.png" width="600">
 
 **Registrar cuenta:**
 
 En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma. Se usaron elementos como formas, textos y colores.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/login.png" width="600">
 
 **Iniciar sesión:**
 
@@ -313,61 +313,68 @@ En esta pantalla le mostramos al usuario los campos a llenar para crearse una cu
 
 **Para el segmento objetivo de pacientes, diseñamos las siguientes pantallas:**
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/homw.png" width="600">
 
 **Iniciar sesión:**
 
 En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/appointments.jpg" width="600">
 
 **Citas médicas:**
 
 En esta pantalla le mostramos al usuario(paciente) sus citas médicas que ya hayan sido realizadas o las que todavía están por venir. Esta se le agrega información del doctor, tipo de terapia y la fecha. Además, si la cita ya fue realizada se podrá ver el diagnóstico de esta
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/find%20physiotherapist.jpg" width="600">
 
 **Búsqueda de Fisioterapeutas:**
 
 En esta pantalla mostramos una lista de fisioterapeutas con información como su valoración y total de consultas. Además, se podrá visitar su perfil al presionar en la card.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/pay%20appointment.jpg" width="600">
 
-<img src="" width="600"> **Perfil del Fisioterapeuta:**
+**Pay Appointment:**
+
+En esta pantalla mostramos al usuario para que pague su cita
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/pay%20appointment.jpg" width="600">
+
+
+**Perfil del Fisioterapeuta:**
 
 En esta pantalla mostramos al usuario el perfil del fisioterapeuta que desea consultar, se podrá ver información como su nombre, total de pacientes y las valoraciones en estrella.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/physiotherapist%20profile.jpg" width="600">
 
 **Historial médico-vacío:**
 
 En esta pantalla el usuario podrá subir su historial médico para que el fisioterapeuta que lo vaya a tratar vea que problemas tiene y ayudarlo mejor.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/medical%20history.jpg" width="600">
 
 **Tratamientos:**
 
 En esta pantalla mostramos al usuario una lista de tratamientos para que pueda elegir el que más se adecue a su problema, además se muestra la cantidad de videos y botón "Info" para saber de qué trata el tratamiento.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/theraphies.jpg" width="600">
 
 **Nueva reseña:**
 
 En esta pantalla mostramos al usuario que puede realizar una nueva reseña dando su valoración y una pequeña descripción de porqué de su valoración. El botón "Save" sirve para enviar su reseña.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/add%20review.jpg" width="600">
 
 **Realizar Pago:**
 
 En esta pantalla mostramos al usuario el método de pago a realizar ya sea por tarjeta de crédito o débito. Se mostrará esta pantalla al realizar un pago, ya sea por consulta o por adquirir videos.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/pay%20appointment.jpg" width="600">
 
 **Perfil del paciente:**
 
 En esta pantalla le mostramos al usuario(paciente) toda la información necesaria para que el fisioterapeuta que lo vaya a atender sea más eficiente y pueda conocerlo mejor para los tratamientos.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/patient%20profile.jpg" width="600">
 
 **Agendar cita médica:**
 
@@ -375,35 +382,40 @@ En esta pantalla el paciente después de haber elegido con que fisioterapista re
 
 **Para el segmento objetivo de fisioterapeutas, diseñamos las siguientes pantallas:**
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/patients/make%20appointment.jpg" width="600">
 
 **Pantalla principal (Fisioterapeuta):**
 
 Esta es la primera pantalla que se mostrará a nuestro usuario (Fisioterapeuta) al iniciar sesión y podrá observar atajos como sus citas con sus pacientes, sus pacientes y sus tratamientos. Además de las solicitudes de sus pacientes
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/physiotherapists/home.jpg" width="600">
 
 **Perfil del Fisioterapeuta:**
 
 En esta pantalla mostraremos a nuestro usuario sus datos de contacto y alguna información como los historiales médicos, agentar una cita y enviar diagnósticos.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/physiotherapists/profile.jpg" width="600">
 
 **Nuevo Tratamiento:**
 
 En esta pantalla le mostramos al usuario(Fisioterapeuta) la opción de crear un nuevo tratamiento para cierto problema y agregarlo en su lista de tratamientos.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/physiotherapists/new%20theraphy.jpg" width="600">
 
 **Tus Pacientes:**
 
 En esta pantalla le mostramos al usuario (Fisioterapeuta) la lista de pacientes que tiene y la información de ellos.
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/physiotherapists/patients%20list.jpg" width="600">
 
-    1.
-### Applications Wireflow Diagrams.
+**Mis sesiones de Tratamientos:**
 
-En esta sección se presentará los flujos de navegación entre pantallas de nuestra aplicación que visualizará el usuario y la interacción que tendrá con los elementos que presenta cada sección.
+En esta pantalla le mostramos al usuario (Fisioterapeuta) sus sesiones que ha subido .
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Wirefrimes%20moviles/physiotherapists/theraphies.jpg" width="600">
+
+
+### 5.4.2 Applications Wireflow Diagrams.
+
 
 
