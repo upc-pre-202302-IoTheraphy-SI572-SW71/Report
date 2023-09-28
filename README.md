@@ -275,9 +275,7 @@ Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro
 
 **Para el segmento objetivo de fisioterapeutas, diseñamos las siguientes pantallas:**
 
-| <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-physioterapist/home-doctor.png" width="600"> | **Pantalla principal
-| --- | --- |
-(Fisioterapeuta):** Esta es la primera pantalla que se mostrará a nuestro usuario(Fisioterapeuta) al iniciar sesión y podrá observar atajos como sus citas con sus pacientes, sus pacientes y sus tratamientos. Además de las solicitudes de sus pacientes |
+| <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-physioterapist/home-doctor.png" width="600"> | **Pantalla principal(Fisioterapeuta):** Esta es la primera pantalla que se mostrará a nuestro usuario(Fisioterapeuta) al iniciar sesión y podrá observar atajos como sus citas con sus pacientes, sus pacientes y sus tratamientos. Además de las solicitudes de sus pacientes |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-physioterapist/calendar-doctor.png" width="600"> | **Calendario de citas (Fisioterapeuta):** Esta pantalla muestra el calendario de citas médicas que tiene nuestro usuario(fisioterapeuta) con sus pacientes |
 | --- | --- |
