@@ -637,4 +637,33 @@ Evidencia:
 
 Link video de demostración: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020341_upc_edu_pe/ERLUTNLJq8FOoLYB8qjQTQUBaU-Nq5QGDWktjQFh8R8oqw?e=1WVrOh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
 
+### 6.2.1.6 **Services Documentation Evidence for Sprint Review**
+
+En este Sprint 1 se ha desarrollado únicamente el Front-end. Por lo tanto, no se han realizado operaciones con la API. Sin embargo, se ha utilizado una fake-API, con la que hemos implementado la aplicación web. Además, utilizamos la plataforma My Json Server para publicar esta fake-API. A continuación, se mostrarán los endpoints desarrollados en este sprint.
+
+| **Endpoint**   | **HTTP Verb**   | **Action**   |
+| --- | --- | --- |
+| [https://api-iotheraphy-production.up.railway.app/api/v1](https://api-iotheraphy-production.up.railway.app/api/v1)/allPatients |  GET  | Obtiene como respuesta a todos los pacientes que se han ingresado en el sistema. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/allPhysiotherapist](https://api-iotheraphy-production.up.railway.app/api/v1/allPhysiotherapist)    | GET  | Obtiene como respuesta a todos los fisioterapeutas que se han ingresado en el sistema. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1](https://api-iotheraphy-production.up.railway.app/api/v1)/allAppointments |  GET  | Obtiene como respuesta a todas las citas médicas que se han ingresado en el sistema. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/allTheraphies](https://api-iotheraphy-production.up.railway.app/api/v1/allTheraphies)    | GET  | Obtiene como respuesta a todas las terapias que se han ingresado en el sistema. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1](https://api-iotheraphy-production.up.railway.app/api/v1)/allTreatment |  GET  | Obtiene como respuesta a todos los tratamientos que se han ingresado en el sistema. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/create-treatment](https://api-iotheraphy-production.up.railway.app/api/v1/create-treatment)    | POST  | Ingresa un nuevo tratamiento a la base de datos de Theraphy |
+| [https://api-iotheraphy-production.up.railway.app/api/v1](https://api-iotheraphy-production.up.railway.app/api/v1)/create\_appointment | POST | Ingresa una nueva cita médica a la base de datos de Theraphy |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/create-theraphy](https://api-iotheraphy-production.up.railway.app/api/v1/create-theraphy)   | POST  | Ingresa una nueva terapia a la base de datos de Theraphy |
+| [https://api-iotheraphy-production.up.railway.app/api/v1](https://api-iotheraphy-production.up.railway.app/api/v1)/registration-physiotherapist | POST | Ingresa un nuevo fisioterapeuta a la base de datos de Theraphy |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/registration-patient](https://api-iotheraphy-production.up.railway.app/api/v1/registration-patient)    | POST  | Ingresa un nuevo paciente a la base de datos de Theraphy |
+| [https://api-iotheraphy-production.up.railway.app/api/v1](https://api-iotheraphy-production.up.railway.app/api/v1)/auth/registration | POST | Ingresa un nuevo usuario a la base de datos de Theraphy y brinda un Token de acceso a permisos |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/auth/authentication](https://api-iotheraphy-production.up.railway.app/api/v1/auth/authentication)    | POST  | Comprueba la existencia de un usuario en la base de datos de Theraphy y brinda un token de acceso |
+
+
+### 6.2.1.7 **Software Deployment Evidence for Sprint Review**
+
+Para el despliegue de la aplicación web utilizamos la plataforma GitHub Pages.
+
+Link de la web application desplegada: [https://digitalholics.github.io/Front-End-Theraphy-Exp/login](https://digitalholics.github.io/Front-End-Theraphy-Exp/login)
+
+Para el despliegue de la API utilizada empleamos el servicio de Railway; sin embargo, como este no soporta SDK 20, tuvimos que cambiarlo a JDK 17 para ente entregable.
+
+Link de la API desplegada: [https://api-iotheraphy-production.up.railway.app](https://api-iotheraphy-production.up.railway.app/)
 
