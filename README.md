@@ -183,7 +183,7 @@ Para constrastar los fondos oscuros, usamos colores más claros como el blanco y
 
 Para la elaboración del Mock-up de la Landing page tanto para móvil como para escritorio. Utilizamos los principios, elementos de diseño, diseño inclusivo y arquitectura de información que hemos planteado en puntos anteriores. También el Design System de nuestro producto.
 
-| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mockup-landingpage/LandingPage-MockUp-Desktop.png?raw=true" width="600"> | Vista Previa del Mock-up de la Landing Page para Desktop Web Browser | ![](RackMultipart20230928-1-mpbhxp_html_4bbf4d98df7f4360.png) | Vista Previa del Mock-up de la Landing Page para Mobile Web Browser |
+| <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mockup-landingpage/LandingPage-MockUp-Desktop.png?raw=true" width="600"> | Vista Previa del Mock-up de la Landing Page para Desktop Web Browser | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mockup-landingpage/LandingPage-MockUp-Mobile.png?raw=true" width="600"> | Vista Previa del Mock-up de la Landing Page para Mobile Web Browser |
 | --- | --- | --- | --- |
 | Link para la visualización de los Mock-ups en Figma: [https://www.figma.com/file/PlH02iVFwPvBvSQ66yRrRa/Styles-Guidelines?node-id=77%3A819](https://www.figma.com/file/PlH02iVFwPvBvSQ66yRrRa/Styles-Guidelines?node-id=77%3A819) |
 
