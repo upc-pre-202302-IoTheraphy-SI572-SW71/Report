@@ -189,13 +189,15 @@ Para la elaboración del Mock-up de la Landing page tanto para móvil como para 
 
 Para la explicación del diseño de nuestro mock-up, se utilizaron los siguientes elementos de diseño:
 
-| <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/mockup-landingpage/Landing-COLOR.png" width="600">  **Paleta de colores usadas:**
+**Paleta de colores usadas:**
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/mockup-landingpage/Landing-COLOR.png" width="600">  
 
 
 
 
- |
-| --- |
+ 
+
 | **Peso de fuentes usadas:** Bold
  Regular
  Medium
