@@ -562,5 +562,79 @@ En está sección presentamos el conjunto de Acceptance Test relacionados con la
 | --- | --- | --- | --- | --- | --- |
 |  [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test)   |  main    | 7763fda7c542dc0a693e619f0873a667c0205737  |    feat(testing)  | Added acceptance criteria: HU07, HU08, HU09,HU13,HU18,HU19,HU20,HU21,HU44  | 27/09/2023  8:50 PM  |
 
+### 6.2.1.5 **Execution Evidence for Sprint Review**
+
+Para este segundo sprint, conseguimos desarrollar y desplegar el Landin Page y las siguientes secciones de nuestra aplicación web:  Treatments, Treatments-info, Treatments-sessions, Physiotherpists, Physiotherpist-profile, Schedule-appointment, Payment y Appointments.
+
+Se presentan screenshots del desarrollo del Landing Page:
+
+Se muestra el Header donde se encuentran los botones de Home, Services, Pricing, Testimonials, About Us y el botón para cambiar de idioma English-Spanish para que puedan desplazarse a la sección que quieran visualizar.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/header.jpg?raw=true" width="600">
+Ilustración 1: Encabezado y botones de desplazamiento
+
+Se muestra la sección de Hero, donde se muestra una breve descripción y frase representativa de Theraphy. Además, de permitir empezar a utilizar el servicio web y brinda una imagen relacionada a ello.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/hero.jpg" width="600">
+Ilustración 2: Sección de Hero
+
+Se muestra la sección testimonials, donde se muestran tarjetas de información que contienen los comentarios de los clientes satisfechos con el servicio otorgado por parte de Theraphy
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/testimonials.jpg" width="600">
+
+Ilustración 3: Sección de Testmonials
+
+Se muestra la sección servicios, donde se integra texto y un fondo coherente para que permita su visualización. Cuando el mouse sobrepase el área del cuadro, se descubrirá la imagen que contiene cada bloque. Asimismo, se presentan COT acordes a cada segmento objetivo para que proceda a la descarga de la aplicación.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/servicios.jpg" width="600">
+lustración 4: Sección de servicios 1
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/servicios%202.png" width="600">
+Ilustración 5: Sección de servicios 2
+
+Finalmente, se muestra la sección footer con nuestras redes sociales y botones que le permitirán volver a las secciones que desee el usuario.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/footer.jpg" width="600">
+Ilustración : Sección de contáctanos
+
+Evidencia:
+
+- **Treatments:** Muestra los tratamientos que se encuentran disponibles en la plataforma a nuestros pacientes.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/treatments.jpg" width="600">
+
+
+
+- **Treatments-info:** Presenta la información detallada de los tratamientos ofrecidos dentro de la aplicación.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/treatments%20info.jpg" width="600">
+
+- **Treatments-session:** Muestra la sesión; es decir, el video de rutina que le toca al paciente en el tratamiento elegido.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/treatment%20secction.jpg?raw=true" width="600">
+
+-   **Physiotherapists:** Muestra los fisioterapeutas que se encuentras registrados en la aplicación.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/physiotherapist.jpg?raw=true" width="600">
+
+- **Physiotherapists-profile:** Muestra la información que el fisioterapeuta ha registrado en su perfil.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/execution%20evidence%20for%20sprint%20review/physiotherapists%20profile.png?raw=true" width="600">
+
+
+
+- **Schedule-Appointment:** Muestra el calendario de días disponibles del fisioterapeuta, estos pueden ser seleccionados por el usuario para reservar una cita médica.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/schedule%20appointment.jpg" width="600">
+
+- **Payment:** Muestra el formulario de pago para financiar la cita médica con el fisioterapeuta.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/payment.jpg" width="600">
+
+- **Appointments:** Muestra las consultas médicas que tiene reservadas el usuario.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/execution%20evidence%20for%20sprint%20review/medical%20appointments.jpg" width="600">
+
+Link video de demostración: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020341_upc_edu_pe/ERLUTNLJq8FOoLYB8qjQTQUBaU-Nq5QGDWktjQFh8R8oqw?e=1WVrOh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
 
 
