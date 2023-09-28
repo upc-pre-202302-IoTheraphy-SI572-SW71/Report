@@ -418,3 +418,149 @@ En el caso del BackEnd, hosteamos una base de datos en RailWay y simplemente sel
 
 
 
+### 6.2.1 **Sprint 1**
+### 6.2.1.2 **Sprint backlog 1**
+
+| Sprint # | Sprint 1 | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story | Work-item/Task | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Id | Tittle | Id | Tittle | Description | Estimation (Hours) | Assigned To | Status (To-do /In-Process /To-Review /Done) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183109786  | HU24: Información sobre las funciones para los pacientes  | TA01  | Añadir títulos  | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento pacientes.  | 2 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir descripción  | Se añadirán párrafos que describan las funciones para los pacientes con más detalles.  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir imágenes  | Se añadirán imágenes representativas por cada función para paciente nombrada  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA04  | Añadir sección hero  | Añadir sección inicial en la que se describa brevemente a la plataforma.  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183109788  | HU26: Información sobre las funciones para los fisioterapeutas  | TA01  | Añadir títulos  | Se añadirán títulos que indiquen las funciones con las que cuenta la aplicación para nuestros usuarios pertenecientes al segmento fisioterapeutas.  | 2 |  Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir descripción  | Se añadirán párrafos que describan las funciones para los fisioterapeutas con más detalles.  | 3 |  Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir imágenes  | Se añadirán imágenes representativas por cada función para fisioterapeuta nombrada  | 3 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA04  | Añadir botón de unirse  | Se añadirá un botón que traslade al fisioterapeuta a la aplicación web.  | 4 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- |
+| #183109794  | HU28: Sección comentarios  | TA01  | Añadir cuadros para los testimonios  | Se añadirán 3 cuadros para mostrar los testimonios dados por pacientes usuarios de la aplicación.  | 2 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir comentarios   | Se añadirán los comentarios como tal en los cuadros correspondiente.  | 2 | Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir fotos de los comentarios  | Se añadirán las fotos de las pacientes que brindaron su comentario.  | 2 |  Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+| #183136085  | HU30: Desplazamiento en el sitio web estático  | TA01  | Añadir lista de etiquetas  | Se añadirán las etiquetas de Home, Services, Pricing, Testimonials y About Us correspondientes a las secciones dentro de la landing page  | 1 |  María Ahuanari | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Aplicar estilo de etiquetactiva  | Se aplicará la pseudo clase hover para mostrar qué etiquetas se encuentran activas.  | 2 |  María Ahuanari | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Vincular etiquetas con secciones   | Se vinculará las etiquetas a través de los id para facilitar el desplazamiento del usuario dentro de la landing page.  | 1 |  María Ahuanari | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183136086  | HU31: Canalesde contacto  | TA01  | Añadir íconos de redes sociales  | Se añadirán los íconos de las diferentes redes sociales utilzadas por Theraphy  | 1 |  María Ahuanari | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir enlace a los íconos  | Se añadirán los enlaces correspondientes a las cuentas de las redes sociales para que los usuarios puedan acceder fácilmente a ellas.  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir correo electrónico  | Se añadirá el correo para contacto con Theraphy  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA04  | Añadir dirección y número de teléfono  | Se añadirá la dirección y número telefónico de Teraphy  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183136087  | HU13: Reserva de consulta médica  | TA01  | Agregar botón de agendamiento de cita en el perfil de doctor  | Se agregará un botón que permita iniciar el proceso de reserva de cita médica  | 1  | Cristhian Gómez   | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir calendario de selección de fecha  | Se añadirá la vista de un calendario donde el usuario podrá seleccionar la fecha en que se realizará la cita médica.  | 2  | Jose Del Carpio | To Do  |
+|     |     | TA03  | Añadir sección de pago de la reserva de cita médica  | Se añadirá una sección que el usuario rellenará con los datos de su tarjeta para realizar el pago de la cita médica   | 2   | María Ahuanari  | Done   |
+| #183136088  | HU08:  Visualización de ejercicios   | TA01  | Agregar sección para la visualización de las sesiones de ejercicios  | Se añadirá una sección que presente los videos de ejercicios a realizar para cada tratamiento.  | 2  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02   | Añadir video de la sesión   | Se añadirá el video que contenga los ejercicios a realizar en la sesión que se ha seleccionado.   | 1  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir botones de cambio de sesión  | Se añadirán los botones que permitan movilizarse a una siguiente sesión o a una anterior.  | 3  | Leonardo Arrieta  | Done  |
+| #183136089 | HU09: Publicación de videos de ejercicios   | TA01  | Añadir sección para la publicación de un nuevo video de ejercicios  | Se agregará una sección que presenta el formulario para la publicación de un video de ejercicios  | 2  | Cristhian Gómez   | To-do  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183136090 | HU07: Búsqueda de tratamientos     | TA01  | Añadir sección de tratamientos  | Se añadirá una sección que presentará la lista de tratamientos publicados en la aplicación   | 2  | Jose Del Carpio  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir caja de búsqueda | Se añadirá un input que permita ingresar el nombre de un tratamiento | 2  | Jose Del Carpio  | Done  |
+|     |     | TA03  | Agregar lista de resultados por coincidencia  | Se enlistarán cada uno de los tratamientos que coincidan con el nombre ingresado en la barra de búsqueda  | 3  | Jose Del Carpio  | Done  |
+| #183136091 | HU18: Visualización de horario de consultas   | TA01  | Agregar lista de citas médicas agendas  | Se agregará una lista que muestre a todas las citas agendadas para el doctor  | 3  | Cristhian Gómez   | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir vista de detalles de cita médica    | Se añadirá una vista que presentará la información de cada cita médica reservada.  | 2  | Maria Ahuanari  | Done  |
+| #183136092 | HU19: Envío de diagnóstico y recomendaciones     | TA01  | Añadir botón de nuevo diagnóstico  | Se añadirá un botón en la vista de una cita médica que permita iniciar el proceso de envío de diagnóstico a un paciente.  | 2  | Luis Pineda  | Done |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02 | Añadir caja de texto | Se añadirá input para ingresar el diagnóstico que se le brindará al paciente | 2  | Luis Pineda  | Done  |
+| #183136093 | HU20: Visualización de los resultados de la consulta   | TA01  | Agregar botón | Se añadirá un botón que permita al usuario direccionarse a la vista de resultados de consultas médicas  | 2  | Leonardo Arrieta  | Done |
+|     |     | TA02  | Añadir vista de los resultados de las consultas médicas  | Se añadirá una sección que presentará los resultados de cada consulta médica realizada.  | 3  | Leonardo Arrieta  | Done |
+| #183136094 | HU21: Calificación de fisioterapeutas  | TA01  | Añadir título de reseñas  | Agregar título que indique que se presentarán las reseñas del profesional  | 1  | Cristhian Gomez  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir lista de reseñas dadas  | Mostrar las reseñas realizadas previamente al fisioterapeuta  | 2  | Cristhian Gomez  | Done  |
+|     |     | TA03  | Añadir botón de nueva reseña  | Añadir botón que lleve al formulario de nueva reseña  | 1  | Cristhian Gomez  | Done  |
+| #183109753  | HU01: Registro de cuenta  | TA01  | Añadir título  | Añadir título que indique que se encuentra en el registro  | 1  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir Input de nombre  | Añadir Input que permita ingresar el nombre con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir Input de apellido  | Añadir Input que permita ingresar el apellido con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA04  | Añadir Input cumpleaños  | Añadir Input que permita ingresar el cumpleaños con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA05  | Añadir Input de rol  | Añadir Input que permita ingresar el rol con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA06  | Añadir Input email  | Añadir Input que permita ingresar el email con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA07  | Añadir Input de contraseña  | Añadir Input que permita ingresar la contraseña con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA08  | Añadir botón de registro  | Añadir botón que permita el registro y vuelva al login  | 1  | Luis Pineda  | Done  |
+| #183136090  | HU32 Registro de usuario en la base de datos  | TA01  | Crear colección de la base de datos  | Crear una colección que contenga los datos de los usuarios  | 2  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Crear consulta  | Generar una consulta POST que añada un elemento a la colección  | 1  | Luis Pineda  | Done  |
+| #183109755  | HU02: Inicio de sesión  | TA01  | Añadir título  | Añadir título que indique en qué vista se encuentra  | 1  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir Input de email  | Añadir un Input para el email y validarlo  | 2  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir Input de contraseña  | Añadir un Input para la contraseña y validarlo  | 2  | Luis Pineda  | Done  |
+|     |     | TA04  | Añadir botón de ingreso  | Añadir botón que ingrese a la plataforma  | 1  | Luis Pineda  | Done  |
+| #183136092  | HU33: Obtención de credenciales de usuario  | TA01  | Realizar consulta  | Agregar una consulta GET que permita obtener las credenciales de los usuarios y comprobarlas en el login  | 3  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183109758  | HU03: Visualización de perfil  | TA01  | Añadir cuadro de datos  | Añadir un cuadro que contenga los datos principales del usuario como nombre, nacimiento, celular y correo  | 1  | Cristhian Gomez  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir foto del usuario  | Añadir la foto del usuario en el cuadro  | 2  | Cristhian Gomez  | Done  |
+|     |     | TA03  | Añadir íconos  | Añadir íconos la información del usuario  | 1  | Cristhian Gomez  | Done  |
+|     |     | TA04  | Añadir lista de opciones rápidas  | Añadir las opciones de visualizar mis sesiones, citas e historial médico.  | 2  | Cristhian Gomez  | Done  |
+|     |     | TA05  | Vincular las opciones  | Vincular las opciones a sus respectivas vistas  | 3  | Cristhian Gomez  | Done  |
+| #183136099  | HU34: Obtención de datos personales del usuario  | TA01  | Realizar consulta  | Realizar consulta GET que obtenga los datos de los usuarios de la base de datos  | 3  | Cristhian Gomez  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Guardar información  | Generar una variable que guarde los datos obtenidos del usuario para mostrarlos de manera ordenada en la vista  | 3  | Cristhian Gomez  | Done  |
+|   |   |   |   |   |   |   |   |   |
+
+
+### 6.2.1.3 **Development Evidence for Sprint Review**
+
+Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes secciones de nuestra aplicación web:  Treatments, Treatments-info, Treatments-sessions, Physiotherpists, Physiotherpist-profile, Schedule-appointment, Payment, Appointments, Log-in y Sign-up
+
+| **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+| --- | --- | --- | --- | --- | --- |
+|    [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy)  | Feature/ physiotherapist-sidenav  | 2c72c073b139b17835797d6263196f7db4decac2  | feat(physiotherapists-sidenav)  | added sidenav to physiotherapists sections   | 20/09/2023 04:30 p.m     |
+|  | --- | --- | --- | --- | --- |
+|     | feature/ profile-Physiotherapist  | 790d7e823f8bd88729dcfa9530b06e377139feeb   |            feat(physiotherapists-profile)       |                                                                                        added physiotherapist profile section  | 20/09/2023 07:20 p.m    |
+|  | --- | --- | --- | --- |
+|     |     | 1f59ba0a92a86b5e3c30f41da6b878c36d5b6254  | feat(physiotherapists-profile-education)  | added education section to physiotherapist profile   | 21/09/2023 09:00 p.m     |
+|  | --- | --- | --- |
+|     | feature/ my-patients  | 4ccfe0f80a86413683f525db09bfd8048b6f968c  | feat(patients)  | added list of patients and filter function for physiotherapists   |  22/09/2023 09:10 p.m     |
+|  | --- | --- | --- | --- |
+|     |     | 203f638f1fd3e7a8b0a89edeb797bad13cbf5a64  | fix  |  routing fixed  |                   24/09/2023 09:40 p.m     |
+|  | --- | --- | --- |
+|     | feature/diagnosis  | 46e84895e7a28b77c05b975f39d4ab484e7dae74  | feat(diagnosis)  |  added diagnosis component  | 25/09/2023 04:40 p.m  |
+|     |     | 087248f3e2a3ce9c53ec905978980f9699b8f6e3  | feat(diagnosis)   | modified diagnosis component  | 25/09/2023 06:10 p.m   |
+|     |     | c2917c76487526295ea8402aba94b6e4dfb28e87  | feat(diagnosis)   | modified diagnosis' html component  | 26/09/2023 06:50 p.m   |
+|     | feature/treatments-physiotherapist  | 08850c8cc59763eb1c3bc8adc23dd8a2f3e31888  | feat(physiotherapists-treatments)  | added section of all uploaded treatments   | 26/09/2023 07:00 p.m   |
+|     | feature/medical-appointments-physiotherapist   | bc0a2e699f5faeef842ed2e98075c17f4b4ee7ac  | feat(physiotherapists-appointments)  | added appointments section for physiotherapists  | 26/09/2023 09:00 p.m  |
+|      | Master  | bab45a3e52b36b0baa08924f3a9b45a42196b799  | [Initial commit](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/bab45a3e52b36b0baa08924f3a9b45a42196b799) | Se creó el proyecto   | 17/09/2023 17:17 PM  |
+|      | Master  | ad863169160ed38ba6c74bdbb88a8a20bb24c692  | feat(project): add project folders | Se agregaron las carpetas del proyecto  | 17/09/202317:20 PM  |
+|      | Develop  | 26ac6d3171a92ee3d5e08656b824cacb1835ea16  | [feat(head): add meta tags and link styles](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/26ac6d3171a92ee3d5e08656b824cacb1835ea16) | Se agregaron los meta tags y se enlazó el html con el css  | 15/09/2023 18:21 PM  |
+|      | Develop  | 5c9d3d3ec4522e9d6223c21eafaea4b1b06bf8f4  | [feat(hero): add styles for hero](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/5c9d3d3ec4522e9d6223c21eafaea4b1b06bf8f4) | Se añadieron los estilos para el hero  | 15/09/2023 18:28 PM  |
+|      | Develop  | a2f210fc8df313228420902318ef4ad9150e5431  | [feat(hero): add html](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/a2f210fc8df313228420902318ef4ad9150e5431) | Se añadieron los textos e imágenes para el hero  | 16/09/2023 18:25 PM  |
+|      | Develop  | a7e110deb6b77b0577efc45efc0240a14eb5ceba  | [feat(patient-services): add section of patient services](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/a7e110deb6b77b0577efc45efc0240a14eb5ceba) | Se añadió la sección para el paciente y su contenido  | 16/09/2023 18:35 PM  |
+|      | Develop  | b8cafcb227fb13697f77a9401cbd34078ad8bce2  | [feat(patient-services): add styles to patient services](https://github.com/DigitAlholics-2-0/LandingPage-Theraphy/commit/b8cafcb227fb13697f77a9401cbd34078ad8bce2) | Se agregaron los estilos para la sección de servicios para pacientes  | 16/09/2023 18:50 PM  |
+|      | Develop   | 09b67dca96a15d559c27dfaaccb8111090cb2a5c  | feat(about-product): add section about the product | Se agregó el contenido  de la sección About The Product  | 16/09/2023 20:04 PM  |
+|      | Develop   | 6365f2264ae44ca6b6d096e54cf2797abfa7e22a  | feat(about-product): add styles for about the product section | Se agregaron los estilos para la sección About The Product  | 16/09/2023 20:14 PM   |
+|      | Develop   | db665ba536f875ae0a0897d5d0bdb0e48170a08a  | feat(physiotherapist): add section physiotherapist | Se agregó el contenido para la sección Physiotherapist   | 16/09/2023 20:40 PM   |
+|      | Develop  | 7be6ae84fdfb04d547eca4bc21d1ddd0511a0996  | feat(physiotherapist): add styles to physiotherapist section | Se agregaron los estilos para la sección Physiotherapist  | 16/09/2023 20:48 PM   |
+
+
+### 6.2.1.4 **Testing Suite Evidence for Sprint Review**
+
+En está sección presentamos el conjunto de Acceptance Test relacionados con las User Stories seleccionadas para el desarrollo del Sprint 1. Para dichos criterios de aceptación se utilizó el lenguaje Gherkin bajo el enfoque BDD.
+
+| **Repository**    | **Branch**    | **Commit ID**    | **Commit Message**    | **Commit Message Body**    | **Commited on (Date)**   |
+| --- | --- | --- | --- | --- | --- |
+|  [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test)   |  main    | 7763fda7c542dc0a693e619f0873a667c0205737  |    feat(testing)  | Added acceptance criteria: HU07, HU08, HU09,HU13,HU18,HU19,HU20,HU21,HU44  | 27/09/2023  8:50 PM  |
+
+
+
