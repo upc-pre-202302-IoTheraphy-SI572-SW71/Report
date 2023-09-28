@@ -242,8 +242,9 @@ Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/regiter-web.png" width="600"> | **Iniciar sesión:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma, |
 | --- | --- |
+
 **Para el segmento objetivo de pacientes, diseñamos las siguientes pantallas:**
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/inicio-patients.png" width="600"> | **Pantalla principal(Paciente):**Esta es la primera pantalla que verá nuestro usuario cuando inicie sesión y se encontrará información de su progreso, tratamientos, diagnósticos y citas médicas. |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/calendario-patient.png" width="600"> | **Calendario de Citas Médicas:** En esta pantalla se muestra el calendario de citas de nuestro usuario para que no se olvide que tiene una cita con su fisioterapeuta. Además, se utiliza para reservar citas con su fisioterapeuta. |
