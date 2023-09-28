@@ -11,50 +11,50 @@ Para el desarrollo del EventStorming, el equipo ha desarrollado los siguientes p
 
 A continuación, presentamos la imagen que refleja los eventos de dominio identificados en esta etapa inicial de Event Storming:<br><br>		
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%201.jpg" width="600"><br><br>
+   			●	Step 2: Timelines<br>
    			En el segundo paso de nuestro proceso de Event Storming, hemos revisado los eventos de dominio que identificamos en el primer paso y ahora proceden a organizarlos en el orden en que ocurren en nuestro dominio empresarial. Esta etapa es crucial para establecer la secuencia lógica de eventos y comprender cómo se desarrolla la experiencia del usuario en nuestro sistema.
 
-A continuación, presentaremos una imagen que representa la secuencia organizada de eventos de dominio:<br>
- 			●	Step 2: Timelines<br>
+A continuación, presentaremos una imagen que representa la secuencia organizada de eventos de dominio:<br><br>
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%202.jpg" width="600"><br><br>
+   			●	Step 3: Paint Points<br>
 			En el tercer paso de nuestro proceso de Event Storming, una vez que hemos organizado los eventos en una línea de tiempo coherente, aprovechamos esta vista amplia para identificar puntos críticos en nuestro proceso. La visualización de eventos en una línea de tiempo nos permite evaluar la eficiencia de nuestro flujo de trabajo y detectar áreas donde el proceso puede ser optimizado. 
 
-A continuación, presentaremos una imagen que muestra la línea de tiempo organizada de eventos de dominio:<br>
-   			●	Step 3: Paint Points<br>
+A continuación, presentaremos una imagen que muestra la línea de tiempo organizada de eventos de dominio:<br><br>   			
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%203.jpg" width="600"><br><br>
+   			●	Step 4: Pivotal Points<br>
 			En el cuarto paso de nuestro proceso de Event Storming, hemos enriquecido nuestra línea de tiempo de eventos con 'pain points' o puntos problemáticos que identificamos previamente. Ahora, nos enfocamos en la identificación de eventos comerciales importantes que marquen un cambio significativo en el contexto o la fase de nuestro negocio.
 
-A continuación, presentaremos una imagen que muestra nuestra línea de tiempo de eventos, con las barras verticales resaltando los eventos fundamentales identificados:<br>
-   			●	Step 4: Pivotal Points<br>
+A continuación, presentaremos una imagen que muestra nuestra línea de tiempo de eventos, con las barras verticales resaltando los eventos fundamentales identificados:<br><br>  	
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%204.jpg" width="600"><br><br>
+   			●	Step 5: Commands<br>
 			En el quinto paso de nuestro proceso de Event Storming, nos centramos en la identificación de comandos que describen las operaciones del sistema y qué desencadenan eventos o flujos de eventos. A diferencia de los eventos de dominio, que describen algo que ya ha sucedido, los comandos se formulan en imperativo y representan acciones que el sistema debe realizar para cambiar su estado o responder a una solicitud del usuario.
 
-A continuación, presentaremos una imagen que muestra nuestra línea de tiempo de eventos de dominio junto con los comandos identificados y su relación con los eventos: <br>
-   			●	Step 5: Commands<br>
+A continuación, presentaremos una imagen que muestra nuestra línea de tiempo de eventos de dominio junto con los comandos identificados y su relación con los eventos: <br><br>	
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%205.jpg" width="600"><br><br>
+   			●	Step 6: Policies<br>
 			En el paso 6 de Event Storming, identificamos comandos sin actores específicos y buscamos políticas de automatización que ejecuten estos comandos. Las políticas de automatización son escenarios donde un evento de dominio específico desencadena automáticamente la ejecución de un comando. 
 
-A continuación, presentaremos una imagen que muestra cómo se relacionan los comandos y las políticas de automatización en nuestro sistema: <br>
-   			●	Step 6: Policies<br>
+A continuación, presentaremos una imagen que muestra cómo se relacionan los comandos y las políticas de automatización en nuestro sistema: <br><br>
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%206.jpg" width="600"><br><br>
+   			●	Step 7: Read Models<br>
 			En el paso 7 de Event Storming, creamos modelos de lectura que representan las vistas de datos usadas por los actores para tomar decisiones. Estos modelos pueden ser pantallas, informes u otros elementos visuales.
 
-A continuación, presentaremos una imagen que muestra cómo se relacionan los modelos de lectura con el proceso de toma de decisiones en nuestro sistema: <br>
-   			●	Step 7: Read Models<br>
+A continuación, presentaremos una imagen que muestra cómo se relacionan los modelos de lectura con el proceso de toma de decisiones en nuestro sistema: <br><br>
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%207.jpg" width="600"><br><br>
+   			●	Step 8: External Systems<br>
    			En el paso 8 de Event Storming, extendemos nuestro modelo incorporando sistemas externos, que pueden ejecutar comandos (entrada) o ser notificados sobre eventos (salida). Esto nos permite comprender las interacciones críticas con sistemas externos que influyen en nuestro dominio empresarial.
 
-A continuación, presentaremos una imagen que muestra cómo se relacionan los sistemas externos con nuestro modelo de dominio: <br>
-●	Step 8: External Systems<br>
+A continuación, presentaremos una imagen que muestra cómo se relacionan los sistemas externos con nuestro modelo de dominio: <br><br>
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%208.jpg" width="600"><br><br>
+   			 ●	Step 9: Aggregates<br>
    			 En el paso 9 de Event Storming, organizamos conceptos relacionados en agregados. Estos agregados actúan como unidades cohesivas que reciben comandos y producen eventos, simplificando así la estructura y el diseño de nuestro sistema.
 
-A continuación, presentaremos una imagen que muestra cómo se organizan los conceptos relacionados en agregados en nuestro modelo de dominio: <br>
-   			●	Step 9: Aggregates<br>
+A continuación, presentaremos una imagen que muestra cómo se organizan los conceptos relacionados en agregados en nuestro modelo de dominio: <br><br>	
 			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%209.jpg" width="600"><br><br>
+   			●	Step 10: Bounded Contexts<br>
 			En el paso 10 de Event Storming, identificamos agregados relacionados entre sí, ya sea por funcionalidad o acoplamiento a través de políticas. Estos grupos de agregados se convierten en candidatos para definir límites en los contextos delimitados, lo que ayuda a establecer fronteras claras en nuestro diseño de sistema.
 
-A continuación, presentaremos una imagen que muestra cómo se relacionan los agregados que forman candidatos para definir límites en los contextos delimitados en nuestro modelo de dominio: <br>
-   			●	Step 10: Bounded Contexts<br>
+A continuación, presentaremos una imagen que muestra cómo se relacionan los agregados que forman candidatos para definir límites en los contextos delimitados en nuestro modelo de dominio: <br><br>   			
    				**User Management Context**<br>
        			<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011.jpg" width="600"><br><br>
 	  			**Health Records and Expertise Context**<br>
