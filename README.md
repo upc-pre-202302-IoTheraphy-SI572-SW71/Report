@@ -239,39 +239,39 @@ Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro
 **WEB APPLICATION WIREFRAMES:**
 
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/inicio%20de%20sesion.png" width="600"> | **Registrar cuenta:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma. Se usaron elementos como formas, textos y colores. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/regiter-web.png" width="600"> | **Iniciar sesión:** En esta pantalla le mostramos al usuario los campos a llenar para crearse una cuenta en nuestra plataforma, |
 
 **Para el segmento objetivo de pacientes, diseñamos las siguientes pantallas:**
 
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/inicio-patients.png" width="600"> | **Pantalla principal(Paciente):**Esta es la primera pantalla que verá nuestro usuario cuando inicie sesión y se encontrará información de su progreso, tratamientos, diagnósticos y citas médicas. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/calendario-patient.png" width="600"> | **Calendario de Citas Médicas:** En esta pantalla se muestra el calendario de citas de nuestro usuario para que no se olvide que tiene una cita con su fisioterapeuta. Además, se utiliza para reservar citas con su fisioterapeuta. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/physiotherapist.png" width="600"> | **Búsqueda de Fisioterapeutas:** En esta pantalla mostramos una lista de fisioterapeutas con información como su valoración y total de consultas. Además, se podrá visitar su perfil con el botón de" View Profile".|
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/pago-cita.png" width="600"> | **Realizar Pago:** En esta pantalla mostramos al usuario el método de pago a realizar ya sea por tarjeta de crédito o débito. Se mostrará esta pantalla al realizar un pago, ya sea por consulta o por adquirir videos. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/Physiotherapist%20profile.png" width="600"> | **Perfil del Fisioterapeuta:** En esta pantalla mostramos al usuario el perfil del fisioterapeuta que desea consultar, se podrá ver información como su nombre, total de pacientes y sus estudios.|
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/My%20theraphy.png" width="600"> | **Tratamientos:** En esta pantalla mostramos al usuario una lista de tratamientos para que pueda elegir el que más se adecue a su problema, además se muestra la cantidad de videos y botón "Info" para saber de qué trata el tratamiento. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/add%20a%20review.png" width="600"> | **Nueva reseña:** En esta pantalla mostramos al usuario que puede realizar una nueva reseña dando su valoración y una pequeña descripción de porqué de su valoración. El botón "Publish" sirve para enviar su reseña. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/reviews.png" width="600">  | **Reseñas del Fisioterapeuta:** En esta pantalla mostramos al usuario las reseñas de otros usuarios respecto a la calidad de servicio que brinda el fisioterapeuta. También está la posibilidad de añadir una nueva reseña. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/medical-his.png" width="600">  | **Historial médico-vacío:** En esta pantalla el usuario podrá subir su historial médico para que el fisioterapeuta que lo vaya a tratar vea que problemas tiene y ayudarlo mejor. |
-| --- | --- |
+
 | <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/wireframes-patients/Imagen9.png?raw=true" width="600"> | **Perfil del paciente:** En esta pantalla le mostramos al usuario(paciente) toda la información necesaria para que el  fisioterapeuta que lo vaya a atender sea más eficiente y pueda conocerlo mejor para los tratamientos. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/medic-uploaded.png" width="600"> | **Historial médico-subido:** En esta pantalla mostramos al usuario(paciente) su historial médico para que el fisioterapeuta lo vea y también se le da la posibilidad de descargarlo en formato PDF. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/citas.png" width="600"> | **Citas médicas:** En esta pantalla le mostramos al usuario(paciente) sus citas médicas que ya hayan sido realizadas o las que todavía están por venir. Esta se le agrega información del doctor, tipo de terapia y la fecha. Además, si la cita ya fue realizada se podrá ver el diagnóstico de esta |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/diagnosis.png" width="600">| **Diagnósticos:** En esta pantalla le mostramos al usuario el resultado de su sesión con el fisioterapeuta dándole una observación y una prescripción de su tratamiento. |
-| --- | --- |
+
 | <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/wireframes-patients/your-physio.png" width="600"> | **Tus Fisioterapeutas:** En esta pantalla le mostramos al usuario(paciente) los fisioterapeutas que tiene asignado después de realizar el pago para adquirir sus servicios de fisioterapia. |
-| --- | --- |
+
 
 **Para el segmento objetivo de fisioterapeutas, diseñamos las siguientes pantallas:**
 
