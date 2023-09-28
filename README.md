@@ -345,5 +345,224 @@ Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro
 
 ### 5.4.2 Applications Wireflow Diagrams.
 
+En esta sección se presentará los flujos de navegación entre pantallas de nuestra aplicación que visualizará el usuario y la interacción que tendrá con los elementos que presenta cada sección.
+
+**WEB APPLICATION WIREFLOWS:**
+
+Segmento objetivo de Pacientes
+
+**User Goal:** #Como usuario, deseo crear una cuenta para registrarme dentro de la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_registrarse%20en%20la%20app.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Sign In", en esta el usuario rellena el formulario para la creación de una cuenta con los siguientes datos: nombre, apellido paterno, apellido materno, contraseña, correo electrónico, fecha de nacimiento y rol de usuario Paciente. Seguidamente, cuando el usuario selecciona la opción "Sign Up" entonces el sistema registra la cuenta y presenta la sección "Home".
+
+**User Goal:** #Como usuario, deseo iniciar sesión con mi cuenta previamente creada para ingresar a la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_Pagina_1_inicio_sesion.png?raw=true" width="600">
+
+El usuario inicia la interacción en la sección "Log In", en esta el usuario rellena el formulario para iniciar sesión con los siguientes datos: nombre de usuario y contraseña. Seguidamente, cuando el usuario selecciona la opción "Get Into" entonces inicia sesión e ingresa a la sección "Home".
+
+**User Goal:** #Como usuario, deseo ingresar a mi perfil para visualizar los datos que presento en la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_visualizarPerfil.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My profile", ubicada en el menú lateral, para direccionarse a dicha sección. Seguidamente, se presentan los datos registrados el usuario, su foto de perfil en la parte superior izquierda y en la parte inferior las opciones: "Treatment Sessions", "Medical Appointments" y "Medical History".
+
+**User Goal:** #Como usuario, deseo ingresar mi historial médico para que el fisioterapeuta que contacte pueda conocer detalladamente mi condición física.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_agreagarHistorialMedico.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My profile", ubicada en el menú lateral, para direccionarse a dicha sección. Seguidamente, se presentan los datos registrados el usuario, su foto de perfil en la parte superior izquierda y en la parte inferior las opciones: "Treatment Sessions", "Medical Appointments" y "Medical History". Luego el usuario selecciona la opción "Medical History" y se presenta la sección junto con el botón "Upload". Para finalizar el proceso, el usuario selecciona el botón "Upload", adjunta el archivo PDF de su historial médico y este se registra en su perfil.
+
+**User Goal:** #Como usuario, deseo encontrar tratamientos de terapia física que pueda realizar desde mi casa para mejorar mi condición física.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_Buscar_tratamientos_de_Fisioterapia.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "Treatments", ubicada en el menú lateral, para ingresar a dicha sección. Seguidamente, se presenta en pantalla la lista de tratamientos ofrecidos por la aplicación. Cuando el usuario selecciona un tratamiento de la lista, se presenta la descripción junto con un video de presentación y la opción "Enroll" para comenzar el tratamiento.
+
+**User Goal:** #Como usuario, deseo registrar los avances en el tratamiento que estoy realizando para tener un historial de mis actividades.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_registroProgreso.png?raw=true" width="600">
+
+El usuario inicia la interacción en la sección "Home", donde selecciona la opción "Treatments" y elige un tratamiento de la lista presentada. Seguidamente, se muestra en pantalla la descripción del tratamiento junto con un video de presentación y la opción "Enroll". Luego el usuario selecciona la opción "Enroll" y se muestra el primer video de ejercicios del tratamiento. Para finalizar el proceso, cuando el usuario termina de visualizar el video, el progreso del tratamiento es actualizado.
+
+**User Goal:** #Como usuario, deseo buscar fisioterapeutas ingresando su nombre en el buscador para encontrar al especialista de forma rápida.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_Busqueda_de_fisioterapeuta.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Home", donde selecciona la opción "Physioterapists", ubicada en el menú lateral, para ingresar a dicha sección. Seguidamente, se presentan en pantalla los fisioterapeutas registrados en la aplicación. Luego el usuario ingresa el nombre del profesional que desea encontrar en el buscador. Para concluir el flujo, el sistema presenta los resultados que coincidan con la entrada en la lista.
+
+**User Goal:** #Como usuario, deseo visualizar el perfil del fisioterapeuta que he seleccionado para tener más información acerca él.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_Visualizar_perfil_de_fisioterapeuta.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "Physioterapists". Seguidamente, se presentan en pantalla los fisioterapeutas registrados en la aplicación. Luego el usuario selecciona la opción "View profile" de un fisioterapeuta de la lista y el sistema presenta el perfil del profesional.
+
+**User Goal:** #Como usuario, deseo reservar una consulta médica con un fisioterapeuta para que pueda evaluar mi condición física.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_agendar_cita_con_fisioterapeuta.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Home", donde selecciona la opción "Physioterapists". Seguidamente, selecciona la opción "View profile" de uno de los fisioterapeutas presentados y se muestra el perfil del profesional. Luego el usuario selecciona la opción "Schedule an appointment" y se presenta en pantalla la sección "Book Appointment", en esta el usuario selecciona un día del calendario de días disponibles del fisioterapeuta y se presenta el formulario para la realización del pago. Para finalizar, el usuario ingresa los siguientes datos solicitados: Nombre del titular de la tarjeta, número de tarjeta, fecha de expiración y código CVV. Entonces el sistema registra la consulta reservada. Para visualizar la consulta reservada, el usuario se dirige a la sección "Medical appointments".
+
+**User Goal:** #Como usuario, deseo visualizar las reseñas que tiene un fisioterapeuta para saber que opinan las personas sobre los servicios que brinda.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_ver_rese%C3%B1as_de_fisioterapeuta.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Home", donde selecciona la opción "Physioterapists". Seguidamente, selecciona la opción "View profile" de uno de los fisioterapeutas presentados y se muestra el perfil del profesional. Para finalizar el proceso, el usuario selecciona la opción "Reviews" y se presenta en pantalla las reseñas que ha obtenido el fisioterapeuta seleccionado.
+
+**User Goal:** #Como usuario, deseo ingresar una reseña al fisioterapeuta por la consulta realizada para dar a conocer mi nivel de satisfacción con la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_publicar_nueva_rese%C3%B1a_de_fisioterapeuta.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Home", donde selecciona la opción "Physioterapists". Seguidamente, selecciona la opción "View profile" de uno de los fisioterapeutas presentados y presiona el botón "Reviews" para visualizar las reseñas del profesional. Luego el usuario selecciona la opción "New review" y el sistema presenta el formulario para la redacción de una reseña. Para finalizar el proceso, cuando el usuario rellena el formulario y selecciona la opción "Publish", entonces se publica la nueva reseña.
+
+**User Goal:** #Como usuario, deseo poder ver el diagnóstico y las recomendaciones del fisioterapeuta para recordar fácilmente los resultados de la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_visualizar_resultados_de_citas_medicas.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Home", donde selecciona la opción "Medical Appointments", ubicada en el menú lateral, para ingresar a dicha sección. Seguidamente, se presentan en pantalla las consultas médicas realizadas con el nombre del profesional encargado y la fecha de la consulta. Para finalizar el proceso, el usuario selecciona la opción "Diagnostic" de una de las consultas y se presentan las observaciones y el diagnóstico prescrito por el fisioterapeuta.
+
+**Uer Goal:** #Como usuario, deseo visualizar las consultas médicas que he reservado para poder recordar fácilmente la fecha y hora de la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_visualizar_consultas_medicas_reservadas.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Home", donde selecciona la opción "My Appointments", ubicada en el centro de la pantalla, para ingresar a dicha sección. Seguidamente, se presentan en pantalla las consultas médicas reservadas con el nombre del profesional encargado, junto con la fecha y hora de la consulta reservada.
+
+**User Goal:** #Como usuario, deseo poder visualizar el historial de mis consultas realizadas para llevar un registro de mis consultas.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-patients/Web_Application_Wireflows_Diagrams_visualizar_historial_de_conosultas_medicas.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Home", donde selecciona la opción "Medical Appointments", ubicada en el menú lateral, para ingresar a dicha sección. Seguidamente, se presentan en pantalla las consultas médicas realizadas con el nombre del profesional encargado y la fecha de la consulta.
+
+Segmento objetivo de Fisioterapuetas
+
+**User Goal:** #Como fisioterapeuta, deseo crear una cuenta para registrarme dentro de la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/registrarse_en_app.png?raw=true" width="600">
+
+El usuario comienza la interacción en la sección "Sign In", en esta el usuario rellena el formulario para la creación de una cuenta con los siguientes datos: nombre, apellido paterno, apellido materno, contraseña, correo electrónico, fecha de nacimiento y rol de usuario Fisioterapeuta. Seguidamente, cuando el usuario selecciona la opción "Sign Up" entonces el sistema registra la cuenta y presenta la sección "Home".
+
+**User Goal:** #Como fisioterapeuta, deseo iniciar sesión con mi cuenta previamente creada para ingresar a la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/inicio_de_sesion.png?raw=true" width="600">
+
+El usuario inicia la interacción en la sección "Log In", en esta el usuario rellena el formulario para iniciar sesión con los siguientes datos: nombre de usuario y contraseña. Seguidamente, cuando el usuario selecciona la opción "Get Into" entonces inicia sesión e ingresa a la sección "Home".
+
+**User Goal:** #Como fisioterapeuta, deseo ingresar a mi perfil para visualizar los datos que presento en la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/visualizar_perfil.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My profile", ubicada en el menú lateral, para direccionarse a dicha sección. Seguidamente, se presentan los datos registrados el usuario, su foto de perfil en la parte superior izquierda y en la parte inferior las opciones: "Treatment Sessions", "Medical Appointments" y "Education".
+
+**User Goal:** #Como fisioterapeuta, deseo ingresar los detalles de mi formación profesional para que los usuarios conozcan mis habilidades y mi experiencia.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/ingreso_de_perfil_academico.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My profile", ubicada en el menú lateral, para direccionarse a dicha sección. Seguidamente, se presentan los datos registrados el usuario, su foto de perfil en la parte superior izquierda y en la parte inferior las opciones: "Treatment Sessions", "Medical Appointments" y "Education". Luego el usuario selecciona la opción "Education" y se presenta formulario para el ingreso del perfil profesional. Luego, el usuario completa el formulario con los siguientes datos: Tipo de especialización, grados obtenidos e instituciones de estudio. Para finalizar, selecciona la opción "Confirm" y el sistema registra los datos de su perfil profesional.
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar el perfil profesional que registre en la aplicación para saber qué información profesional mía estoy presentando a los usuarios.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/visualizar_perfil_profesional.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My profile", ubicada en el menú lateral, para direccionarse a dicha sección. Seguidamente, se presentan los datos registrados el usuario, su foto de perfil en la parte superior izquierda y en la parte inferior las opciones: "Treatment Sessions", "Medical Appointments" y "Education". Para finalizar el proceso, el usuario selecciona la opción "Education" y se presenta los datos del perfil profesional que registró en la aplicación.
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar los tratamientos que he subido a la aplicación para tener un control de los tratamientos que he creado.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/visualizar_tratamientos_subidos.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My treatments" para direccionarse a dicha sección. Seguidamente, se presentan todos los tratamientos creados por el usuario y el botón "New Treatment".
+
+**User Goal:** #Como fisioterapeuta, deseo crear tratamientos en la aplicación para ayudar a mis pacientes a comprender como se deben realizar los ejercicios.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/subir_tratamientos.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My treatments" para direccionarse a dicha sección. Seguidamente, se presentan todos los tratamientos creados por el usuario y el botón "New treatment". Luego, el usuario selecciona el botón "New Treatment" y se presenta el formulario para la creación de un nuevo tratamiento. Para finalizar, el usuario rellena el formulario con los datos: Nombre del tratamiento y descripción. Entonces, se registra el nuevo tratamiento y se almacena en la lista de "My treatments" del usuario.
+
+**User Goal:** #Como fisioterapeuta, deseo subir videos de rutinas de ejercicios para ayudar a mis pacientes a comprender como se deben realizar los ejercicios.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/a%C3%B1adir_videos_a_los_tratamientos.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My treatments" para direccionarse a dicha sección. Seguidamente, se presentan todos los tratamientos creados por el usuario y el botón "New treatment". Luego el usuario selecciona un tratamiento de la lista y se presenta el formulario para crear una sesión dentro del tratamiento. Para finalizar el proceso, el usuario adjunta un archivo de video y presiona el botón "Upload", y seguidamente se registra el video como una sesión dentro del tratamiento previamente seleccionado.
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar el perfil del paciente para tener más información acerca de él.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/visualizar_perfil_de_pacientes.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My Patients" para direccionarse a dicha sección. Seguidamente, se presentan todos los pacientes que tiene el usuario. Para finalizar, cuando el usuario selecciona un paciente, entonces se presenta el perfil del paciente y las siguientes opciones en la parte inferior: "Medical History", "Schedule Appointment" y "Send Diagnostic".
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar las consultas reservadas para poder recordar fácilmente la fecha y hora de la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/visualizar_historial_de_citas_medicas_reservadas.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My Appointments" para direccionarse a dicha sección. Seguidamente, se presentan todas las consultas reservadas que tiene el usuario, por cada consulta se muestra el nombre del paciente, el tipo de terapia, la fecha y hora en que se va a realizar.
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar el historial de consultas medicas que he realizado para tener un registro de mis actividades dentro de la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/visualizar_historial_de_citas_medicas_realizadas.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My profile", ubicada en el menú lateral, para direccionarse a dicha sección. Seguidamente, se presentan los datos registrados el usuario, su foto de perfil en la parte superior izquierda y en la parte inferior las opciones: "Treatment Sessions", "Medical Appointments" y "Education". Cuando el usuario selecciona la opción "Medical Appointments", se presentan todas las consultas médicas que el usuario ha realizado.
+
+**User Goal:** #Como fisioterapeuta, deseo enviar un diagnóstico con el resultado de la consulta y las recomendaciones para que el paciente pueda visualizarlo.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/enviar_diagnostico_a_paciente.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona la opción "My Patients" y elige un paciente de la lista presentada. Luego se presenta el perfil del paciente junto con las siguientes opciones en la parte inferior: "Medical History", "Schedule Appointment" y "Send Diagnostic". Cuando el usuario selecciona la opción "Send Diagnostic" entonces se presenta la lista de consulta médicas que se han realizado con el paciente, en cada una se muestra el botón "Diagnostic". Seguidamente, el usuario presiona el botón "Diagnostic" de una consulta y se presenta el formulario para la redacción del diagnóstico. Para finalizar, el usuario ingresa la fecha, las observaciones y el diagnóstico de la consulta. Cuando presiona la opción "Send", entonces se envía el diagnóstico al paciente.
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar los diagnósticos enviados a mis pacientes para poder recordar fácilmente los resultados de las consultas.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/user-goals-physioterapist/visualizar_diagnostico_enviado_a_paciente.png?raw=true" width="600">
+
+El usuario empieza la interacción en la sección "Home", donde selecciona a la opción "Medical Appointments", ubicada en el menú lateral, para direccionarse a dicha sección. Seguidamente, se presenta todas las consultas médicas realizadas que tiene el usuario, por cada consulta se muestra el nombre del paciente, el tipo de terapia, la fecha en que se realizó y la opción "Diagnostic". Cuando el usuario selecciona la opción "Diagnostic" se muestra la información detallada de los resultados de la consulta seleccionada.
+
+Link para visualizar los Web Applications Wireflow Diagrams: [https://lucid.app/lucidchart/045ccbdb-3dfe-46d3-b541-f2770fb142c6/edit?viewport\_loc=-3290%2C-6133%2C14373%2C6429%2C0\_0&invitationId=inv\_a0b1eb4c-d0a4-46da-9ff3-fefd6cd1ca02#](https://lucid.app/lucidchart/045ccbdb-3dfe-46d3-b541-f2770fb142c6/edit?viewport_loc=-3290%2C-6133%2C14373%2C6429%2C0_0&invitationId=inv_a0b1eb4c-d0a4-46da-9ff3-fefd6cd1ca02)
+
+**MOBILE APPLICATION WIREFLOES:**
+
+Segmento objetivo de Pacientes
+
+**User Goal:** #Como usuario, deseo crear una cuenta para registrarme dentro de la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/registrar%20cuenta.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo iniciar sesión con mi cuenta previamente creada para ingresar a la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/iniciar%20sesion.png?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo ingresar a mi perfil para visualizar los datos que presento en la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/ingresar%20a%20perfil.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo ingresar mi historial médico para que el fisioterapeuta que contacte pueda conocer detalladamente mi condición física.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/ingresar%20a%20historial%20medico.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo encontrar tratamientos de terapia física que pueda realizar desde mi casa para mejorar mi condición física.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/encontrar%20tratamientos.png?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo registrar los avances en el tratamiento que estoy realizando para tener un historial de mis actividades.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/registrar%20avances%20de%20tratamientos.png?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo buscar fisioterapeutas ingresando su nombre en el buscador para encontrar al especialista de forma rápida.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/ver%20lista%20de%20fisioterapeutas.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo visualizar el perfil del fisioterapeuta que he seleccionado para tener más información acerca él.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/visualizar%20perfil%20de%20fisioterapeuta.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo reservar una consulta médica con un fisioterapeuta para que pueda evaluar mi condición física.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/reservar%20consulta%20m%C3%A9dica.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo ingresar una calificación al fisioterapeuta por la consulta realizada para dar a conocer mi nivel de satisfacción con la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/ingresar%20calificaci%C3%B3n%20a%20fisioterapeuta.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo visualizar las consultas médicas que he reservado para poder recordar fácilmente la fecha y hora de la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/visualizar%20consultas%20m%C3%A9dicas%20que%20reserv%C3%B3.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo poder visualizar el historial de mis consultas realizadas para llevar un registro de mis consultas.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/visualizar%20historial%20de%20consultas.jpg?raw=true" width="600">
+
+**User Goal:** #Como usuario, deseo poder ver el diagnóstico y las recomendaciones del fisioterapeuta para recordar fácilmente los resultados de la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Patients/visualizar%20diagnostico.jpg?raw=true" width="600">
+
+Segmento objetivo de Fisioterapuetas
+
+**User Goal:** #Como fisioterapeuta, deseo crear una cuenta para registrarme dentro de la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/crear%20cuenta.jpg?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo iniciar sesión con mi cuenta previamente creada para ingresar a la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/iniciar%20sesion.png?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo ingresar a mi perfil para visualizar los datos que presento en la aplicación.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/ingresar%20a%20su%20perfil.jpg?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar los tratamientos que he subido a la aplicación para tener un control de los tratamientos que he creado.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/visualizar%20tratamientos%20que%20subi%C3%B3.jpg?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo crear tratamientos en la aplicación para ayudar a mis pacientes a comprender como se deben realizar los ejercicios.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/crear%20tratamientos.jpg?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar el perfil del paciente para tener más información acerca de él.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/visualizar%20perfil%20de%20paciente.jpg?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar las consultas reservadas para poder recordar fácilmente la fecha y hora de la consulta.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/visualizar%20historial%20de%20consultas%20m%C3%A9dicas.jpg?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo visualizar el historial de consultas médicas que he realizado para tener un registro de mis actividades dentro de la aplicación .
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/visualizar%20historial%20de%20consultas%20m%C3%A9dicas.jpg?raw=true" width="600">
+
+**User Goal:** #Como fisioterapeuta, deseo enviar un diagnóstico con el resultado de la consulta y las recomendaciones para que el paciente pueda visualizarlo.
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Wireflows%20moviles/Physiotherapists/enviar%20diagnostico.jpg?raw=true" width="600">
+
+### Link para visualizar los Mobile Applications Wireflow Diagrams: [https://lucid.app/lucidchart/82743e0e-4e0e-4bf0-afbc-c6203f36b768/edit?invitationId=inv\_4216373d-493e-43b1-8aea-44f18c2f6fdb&page=0\_0#](https://lucid.app/lucidchart/82743e0e-4e0e-4bf0-afbc-c6203f36b768/edit?invitationId=inv_4216373d-493e-43b1-8aea-44f18c2f6fdb&page=0_0)
+
 
 
