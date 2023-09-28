@@ -75,6 +75,7 @@ A continuación, presentaremos las imagenes respectivas de los bounded contexts:
 
 ##### 4.1.1.2. Domain Message Flows Modeling
 <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(5).jpg" width="600"><br><br>
+		En este escenario crítico, donde los pacientes desean reservar citas médicas, el Domain Message Flow Diagram se vuelve esencial. Permite mapear cómo los actores, como pacientes y fisioterapeutas, interactúan dentro de los bounded contexts y sistemas relacionados. <br><br>
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(6).jpg" width="600"><br><br>
   		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(7).jpg" width="600"><br><br>
     		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(8).jpg" width="600"><br><br>
