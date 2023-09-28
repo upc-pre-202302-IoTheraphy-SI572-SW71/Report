@@ -76,14 +76,17 @@ A continuación, presentaremos las imagenes respectivas de los bounded contexts:
 ##### 4.1.1.2. Domain Message Flows Modeling
 Un Domain Message Flow Diagram es una visualización simple mostrando
 el flujo de mensajes (commands, events, queries) entre actors, bounded 
-contexts y systems, para un scenario. <br><br><br>
-		En este escenario crítico, donde los pacientes desean reservar citas médicas, el Domain Message Flow Diagram se vuelve esencial. Permite mapear cómo los actores, como pacientes y fisioterapeutas, interactúan dentro de los bounded contexts y sistemas relacionados. <br><br>
+contexts y systems, para un scenario. <br><br>
+A continuación, presentaremos las imagenes que contienen nuestro Message Flow Diagramas<br><br>
+		En este escenario crítico, donde los pacientes desean reservar citas médicas, el Domain Message Flow Diagram se vuelve esencial. Permite mapear cómo los actores, como pacientes y fisioterapeutas, interactúan dentro de los bounded contexts y sistemas relacionados. En el formato 1 y 2 separando los mensajes y contenidos, respectivamente. <br><br>
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(5).jpg" width="600"><br><br>
-		
+		En el escenario de crear una terapia para un paciente, la construcción de un Domain Message Flow Diagram se vuelve fundamental. Este diagrama visualiza de manera clara cómo interactúan los actores involucrados, como los fisioterapeutas y los pacientes, dentro de nuestros contextos definidos. En el formato 1 y 2 separando los mensajes y contenidos, respectivamente. <br><br>		
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(6).jpg" width="600"><br><br>
   		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(7).jpg" width="600"><br><br>
+    		Dentro del escenario de crear una reseña para un fisioterapeuta, es esencial desarrollar un Domain Message Flow Diagram. Este diagrama proporciona una representación visual de cómo interactúan los actores involucrados, como los pacientes y los fisioterapeutas, dentro de nuestros contextos definidos. En el formato 1 y 2 separando los mensajes y contenidos, respectivamente. <br><br>
     		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(8).jpg" width="600"><br><br>
       		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(9).jpg" width="600"><br><br>
+	        En el escenario de cargar información educativa, la creación de un Domain Message Flow Diagram adquiere gran relevancia. Este diagrama proporciona una representación visual de cómo interactúan los actores involucrados, como los fisioterapeutas y el sistema, en nuestros contextos definidos. <br><br>
 		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(10).jpg" width="600"><br><br>
   		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(11).jpg" width="600"><br><br>
     		<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Bound%20Contexts/EventStorming%20-%20Frame%2011%20(12).jpg" width="600"><br><br>
