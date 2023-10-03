@@ -224,13 +224,13 @@ Para su diseño se aplicaron los 6 principios del diseño:
 
 - **Espacio:** Los elementos de nuestro diseño no están todos juntos, ellos tienen un espacio establecido para cada sección y no se alborote todos en una sola parte.
 
-  1.
-# Applications UX/UI Design
+
+### 5.4 Applications UX/UI Design
 
 En esta sección, se presentará los wireframes y mockups de la propuesta visual y de interacción de nuestro producto, Theraphy.
 
-    1.
-### Applications Wireframes
+
+#### 5.4.1 Applications Wireframes
 
 Se presenta el diseño visual y de interacción en formato de wireframes de nuestro producto digital.
 
@@ -343,7 +343,7 @@ Tenemos las pantallas generales que vendrían a ser el inicio sesión y registro
 
 
 
-### 5.4.2 Applications Wireflow Diagrams.
+#### 5.4.2 Applications Wireflow Diagrams.
 
 En esta sección se presentará los flujos de navegación entre pantallas de nuestra aplicación que visualizará el usuario y la interacción que tendrá con los elementos que presenta cada sección.
 
@@ -461,7 +461,7 @@ Segmento objetivo de Fisioterapuetas
 
 Link para visualizar los Mobile Applications Wireflow Diagrams: [https://lucid.app/lucidchart/82743e0e-4e0e-4bf0-afbc-c6203f36b768/edit?invitationId=inv\_4216373d-493e-43b1-8aea-44f18c2f6fdb&page=0\_0#](https://lucid.app/lucidchart/82743e0e-4e0e-4bf0-afbc-c6203f36b768/edit?invitationId=inv_4216373d-493e-43b1-8aea-44f18c2f6fdb&page=0_0)
 
-### 5.4.3 Applications Mock-ups
+#### 5.4.3 Applications Mock-ups
 
 Se presenta el diseño visual y de interacción en formato de mockups de nuestro producto digital.
 
