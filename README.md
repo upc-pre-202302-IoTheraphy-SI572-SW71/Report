@@ -419,6 +419,28 @@ En el caso del BackEnd, hosteamos una base de datos en RailWay y simplemente sel
 
 ### 6.2 Landing Page, Services & Applications Implementation.
 #### 6.2.1 Sprint 1
+##### 6.2.1.1 Sprint Planning 1.
+A continuación se presenta el Sprint Planning realizado para esta iteración.<br><br>
+
+| Sprint #                              | Sprint 1                           |
+|---------------------------------------|-----------------------------------|
+| Sprint Planning Background             |                                   |
+| Date                                  | 2023-08-26                        |
+| Time                                  | 11:30 am                          |
+| Location                              | Reunión virtual por Discord       |
+| Prepared By                           | Luis Pineda, Cristhian Gómez      |
+| Attendees (to planning meeting)       |                                   |
+| - Arrieta Huaman Leonardo Santos      | - Pineda Ugás, Luis Alberto       |
+| - Gómez De la Cruz, Cristhian Gabriel | - Ahuanari Murayari, Maria Alexandra |
+| - Del Carpio Lopez, José Fabricio Jared  |    |
+| Sprint 0 Review Summary               | No aplica                         |
+| Sprint 0 Retrospective Summary        | No aplica                         |
+| Sprint Goal & User Stories            |                                   |
+| Sprint 1 Goal                         | Durante este sprint el equipo se encargará de desarrollar las User Stories establecidas para la Langin Page y el Web Application |
+| Sprint 1 Velocity                     | 20 story points                    |
+| Sum of Story Points                   | 19 story points                    |
+
+<br><br>
 ##### 6.2.1.2 Sprint backlog 1
 
 | Sprint # | Sprint 1 | --- | --- | --- | --- | --- | --- |
