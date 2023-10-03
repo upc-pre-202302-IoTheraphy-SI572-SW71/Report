@@ -59,6 +59,7 @@ Ciclo:
 | 1.8 | 25/09/2023 | Pineda, Luis | Documentación de evidenacia de despliegue |
 | 1.9 | 26/09/2023 | Gomez, Cristhian | Despliegue de las aplicaciones |
 | 2.0 | 27/09/2023 | Del Carpio, Jose | Documentación de Insigths |
+| 2.1 | 3/10/2023  | Gomez, Cristhian | Actualización de la Tabla de Contenidos |
 
 ## Project Report Collaboration Insights
 **Enlace del Project Report: [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report]**<br><br>
