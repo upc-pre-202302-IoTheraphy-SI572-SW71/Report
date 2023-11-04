@@ -66,7 +66,7 @@ Ciclo:
 | 2.5 | 16/10/2023  | Arrieta, Leonardo | Registro de Software Deployment Evidence and Team Collaboration Insights. |
 | 2.6 | 25/10/2023  | Gomez, Cristhian | Registro de secciones Validation Interviews, Diseño de Entrevistas, Registro de Entrevistas |
 | 2.7 | 30/10/2023  | Ahuanari, Maria | Registro de secciones Evaluaciones según heurísticas, Video About-the-Product |
-| 3.0 | 3/10/2023  | Gomez, Cristhian | Actualización del índice |
+| 3.0 | 3/11/2023  | Gomez, Cristhian | Actualización del índice |
 
 ## Project Report Collaboration Insights
 **Enlace del Project Report: [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report]**<br><br>
