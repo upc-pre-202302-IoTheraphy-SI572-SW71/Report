@@ -956,40 +956,251 @@ En esta sección mostraremos las entrevistas realizadas a los usuarios objetivos
 #### 6.3.1. Diseño de Entrevistas.
 Las entrevistas se realizaron para todos los segmentos objetivos de Theraphy; es decir, tanto para pacientes como para fisioterapeutas. A continuación, se presentará los flujos que se mostraron a los entrevistados: 
 
+#### Theraph Web App
+
 •	Pacientes: 
-  -  Como usuario, deseo crear una cuenta para registrarme en la aplicación 
-  - Como usuario, deseo iniciar sesión con mi cuenta previamente creada 
-  - Como usuario, deseo ingresar a mi perfil 
-  - Como paciente, deseo ingresar a mi historial médico 
-  - Como paciente, deseo encontrar tratamientos de terapia física 
-  - Como paciente, deseo visualizar los avances que he conseguido 
-  - Como paciente, deseo buscar fisioterapeutas por su nombre 
-  - Como paciente, deseo visualizar el perfil de los fisioterapeutas
-  - Como paciente, deseo separar una cita médica
-  - Como paciente, deseo visualizar las reseñas de un fisioterapeuta 
-  - Como paciente, deseo crear una nueva reseña al fisioterapeuta 
-  - Como paciente, deseo tener un historial de citas médicas 
-  - Como paciente, deseo visualizar mis propias citas médicas 
+  -  Como usuario, deseo crear una cuenta para registrarme en la aplicación<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/registrar%20cuenta.jpg" width="600"><br><br> 
+  - Como usuario, deseo iniciar sesión con mi cuenta previamente creada <br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/iniciar%20sesion.jpg" width="600"><br><br> 
+  - Como usuario, deseo ingresar a mi perfil<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/ingresar%20a%20perfil.jpg" width="600"><br><br> 
+  - Como paciente, deseo ingresar a mi historial médico<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/ingresar%20a%20historial%20medico.jpg" width="600"><br><br> 
+  - Como paciente, deseo encontrar mi terapia física<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/encontrar%20terapia.jpg" width="600"><br><br> 
+  - Como paciente, deseo visualizar los avances que he conseguido<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/registrar%20avances%20de%20la%20terapia.jpg" width="600"><br><br> 
+  - Como paciente, deseo buscar fisioterapeutas por su nombre<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/buscar%20fisioterapeutas.jpg" width="600"><br><br> 
+  - Como paciente, deseo visualizar el perfil de los fisioterapeutas<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/visualizar%20perfil%20de%20fisioterapeuta.jpg" width="600"><br><br> 
+  - Como paciente, deseo separar una cita médica<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/reservar%20cita.jpg" width="600"><br><br> 
+  - Como paciente, deseo visualizar las reseñas de un fisioterapeuta<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/visualizar%20reseñas.jpg" width="600"><br><br> 
+  - Como paciente, deseo crear una nueva reseña al fisioterapeuta<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/ingresar%20calificacion.jpg" width="600"><br><br>  
+  - Como paciente, deseo visualizar mis propias citas médicas<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/visualizar%20citas%20medicas.jpg" width="600"><br><br><br> 
 
- 
+#### Theraph Mobile App
 
-
- 
 •	Fisioterapeutas: 
-  - Como usuario, deseo crear una cuenta para registrarme en la aplicación 
-  - Como usuario, deseo iniciar sesión con mi cuenta previamente creada
-  - Como fisioterapeuta, deseo buscar pacientes por su nombre 
-  - Como fisioterapeuta, deseo visualizar los tratamientos de terapia físicade la apliacación.
-  - Como fisioterapeuta, deseo visualizar mis reseñas 
-  -	Como fisioterapeuta, deseo publicar un nuevo tratamiento 
-  - Como fisioterapeuta, deseo ver el historial médico de mi paciente 
-  - Como fisioterapeuta, deseo visualizar mis proximas citas médicas 
+  - Como usuario, deseo crear una cuenta para registrarme en la aplicación<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20moviles/crear%20cuenta.png" width="600"><br><br> 
+  - Como usuario, deseo iniciar sesión con mi cuenta previamente creada<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20moviles/iniciar%20sesion.jpg" width="600"><br><br> 
+  - Como fisioterapeuta, deseo buscar pacientes por su nombre <br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20moviles/physiotherapists/lista%20de%20pacientes.jpg" width="600"><br><br> 
+  - Como fisioterapeuta, deseo visualizar los tratamientos de terapia físicade la apliacación.<br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20moviles/physiotherapists/visualizar%20terapias%20subidas.jpg" width="600"><br><br> 
+  -	Como fisioterapeuta, deseo publicar un nuevo tratamiento <br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20moviles/physiotherapists/subir%20nueva%20terapia.jpg" width="600"><br><br> 
+  - Como fisioterapeuta, deseo ver el historial médico de mi paciente <br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20moviles/patients/ingreso%20perfil%20paciente.jpg" width="600"><br><br> 
+  - Como fisioterapeuta, deseo visualizar mis proximas citas médicas <br>
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20moviles/physiotherapists/lista%20citas.jpg" width="600"><br><br> <br>
 
   
-
 #### 6.3.2. Registro de Entrevistas.
+
+Segmento 1: Pacientes  
+
+Entrevistada 1:<br><br>
+Nombres y Apellidos: Mireya Mercedes Oyarce Bustamante <br> 
+Edad: 34 años <br>
+Distrito: San Miguel - Lima <br>
+URL: https://web.microsoftstream.com/video/aa495125-98ad-4172-99c1-dc78da57e6ab <br>
+Timing:  8:30 min<br>
+Duración: 6:53 min <br><br>
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem7.png" width="600"><br>
+
+
+Resumen sobre la entrevista:  <br>
+La entrevista fue realizada a Mireya Oyarce. En el proceso de interacción con el Landing Page y la aplicación web, ella se sintió conforme con todo lo que ofrece el producto. Mireya señaló que cada una de las funciones son muy intuitivas y brindan un gran beneficio al usuario, en este caso ella habla del paciente. No obstante, hay un punto que no le agradó, este es que una vez que ingresas con tu cuenta al servicio, no puedes cambiar de a otra porque no existe un botón de cerrar sesión. Ella comentó que los demás apartados son perfectos. <br><br><br>
+
+
+
+Entrevistado 2:<br> <br>
+
+Nombres y Apellidos: Flavia Bravo Estrada  <br>
+Edad: 67 años<br> 
+Distrito: Madre de Dios <br>
+URL:  https://upcedupe-my.sharepoint.com/:v:/r/personal/u202020239_upc_edu_pe/Documents/Patient.mp4?csf=1&web=1&e=2GS04S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 <br>
+Duración: 5:21 min <br><br>
+
+ <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/vd5.png" width="600"><br> 	 
+
+Resumen sobre la entrevista: <br> 
+ 
+Esta entrevista fue realizada a Flavia Bravo. Actualmente, está pasando por un proceso de recuperación debido a una lesión en la rodilla.Cuando se le presentó la plataforma, lo que más le llamó la atención fue la sección dedicada a los fisioterapeutas. Apreció la posibilidad de conocer las especialidades de cada profesional, lo que le ayudó a tomar decisiones informadas sobre su atención médica. También se sintió intrigada por la sección de tratamientos, ya que le gustaría mejorar su recuperación incluso cuando está en casa. Por último, Flavia expresó su deseo de que la comunicación con su fisioterapeuta fuera más directa. Para ella, es de vital importancia poder resolver sus dudas o preocupaciones de inmediato, especialmente cuando siente molestias o dolor debido a su lesión. Esta comunicación efectiva es fundamental en su proceso de recuperación. <br><br><br>
+
+
+
+Entrevistada 3: <br><br>
+
+Nombres y Apellidos: Ceciel Gomez Rengifo <br>
+Edad: 20 años <br>
+Distrito: Villa <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a836_upc_edu_pe/EQvXk01Gjm5KkB1MEV7lrGsBOBdNCYif7_I9biX01ih0NQ?e=DTH0Oe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19<br>
+Duración: 5:73 min <br><br>
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/vd3.png" width="600"><br>
+
+Resumen sobre la entrevista: <br>
+La entrevista fue Ceciel Gómez Rengifo quien tiene 20 años y corresponde al segmento objetivo de pacientes. Ceciel manifiesta que la aplicación le parece muy útil y cumple con el funcionamiento de ayudar a la pronta recuperación física desde casa. La reserva de citas les parece interesante. Asimismo, considera que la información está muy bien organizada, ya que puede encontrar lo que busca de forma fácil. <br><br><br>
+
+
+
+Segmento 2: Profesionales de salud <br><br><br>
+
+Entrevistada 1: <br><br>
+
+Nombres y Apellidos: Alexandra Flores Farro <br> 
+Edad: 34 años <br>
+Distrito: San Isidro - Lima <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a836_upc_edu_pe/EdM77BJH8bBEmfSurAFEEhsBgUs6TJjAEhThZWrIWS-QCg?e=DS8s7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 <br>
+Duración: 5:33 min<br><br>
+
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/vd1.png" width="600"><br>
+
+Resumen sobre la entrevista:  <br>
+La entrevista fue realizada a Alexandra Flores Farro, quien actualmente labora como Médico Rehabilitador en el MINSA. Con respecto al Landing Page de Theraphy, la doctora aclama que no hay una pisca de desperfectos en la página, por lo que podemos concluir que este sitio estático cumple su finción a la perfección. Por otro lado, al momento de mostrar el FrontEnd de nuestro producto, la especialista se mostró conforme con la mayotía de procesos y utilidades con las que cuenta. Sin embargo, existen ciertos criterios que añadió para mejorar el servicio que se le ofrece al usuario, en este caso al perteciente a su segmento objetivo, los fisioterapeutas. El primer punto a tomar en cuenta que ella mencionó, es que hace falta que se indique el tipo de fisioterapia que se está aplicando en los tratamientos subidos a la plataforma, el otro es que en el apartado de historial médico, es importante añadir los antecedentes patológicos que son de suma importancia para los doctores.<br><br><br>  
+
+
+ 
+Entrevistada 2: <br><br>
+
+Nombres y Apellidos: Valery Giovanna Gómez De la Cruz <br>
+Edad: 26 años <br>
+Distrito: San Miguel - Lima <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a836_upc_edu_pe/EdRQSerGTkVMuTGNif4BLEYB_BUWNDg3stKJUWpQIM0RbA?e=WQbFIx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19<br>
+Duración: 6:35 min<br><br>
+ <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/vd2.png" width="600"><br>
+    
+Resumen sobre la entrevista:  <br>
+La entrevistada afirma que, a primera vista, la aplicación le resulta muy util e intuitiva. Asimismo, señala que estaría dispuesta a pagar por el uso de esta aplicación ya que podria solucionar muchos de los problemas que actualmente tiene en relación con el control de los avances terapeuticos de sus pacientes. Por otro lado, indica que se deberian realizar algunas correcciones. En primer lugar, nos señala que el nombre elegido para el campo de Diagnosticos no es el correcto, puesto que la información que contiene esta más relacionada con las prescripciones terapeuticas que son entregadas comumente a los pacientes. Del mismo modo, comunica que la creación de tratamientos podria ser más personalizada, ya que estos ejercicios siguen distintas características dependiendo de la condición física del paciente. Por ultimo, señala que podría ser de mucha ayuda implementar un campo que muestre al fisioterapeuta. <br><br><br>
+ 
+
+
+Entrevistada 3: <br><br>
+
+Nombres y Apellidos: Leidianny Lizet Coronel Soto  <br>
+Edad: 33 años <br>
+Distrito: Jesús María- Lima <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/r/personal/u202020239_upc_edu_pe/Documents/Physiotherapy.mp4?csf=1&web=1&e=LAmaSr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 <br>
+Duración:   3:04 min<br><br>
+
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/vd4.png" width="600"><br>	 
+Resumen sobre la entrevista:  La entrevista fue realizada a Leidianny Coronel Soto, quién actualmente labora como médico anestesiólogo en el hospital Sergio Bernales. Ella indicó que el sitio estático le parece bien, y le gusta que muestre los beneficios de la aplicación de manera explícita. Asimismo, le encanta que se pueda acceder desde un botón al servicio en sí. De este último, tuvo algunos comentarios, tales como que la presencia del botón llamado “Download” es innesaria, puest oque este no lleva a nada. El resto de procesos le parecieron interesantes y adecuados para las tareas a las que van efocados, <br><br><br>
+
+
 #### 6.3.3. Evaluaciones según heurísticas.
+A continuación, se mostrará el proceso de validación en base a heurísticas de nuestra aplicación, Theraphy. 
+ 
+TABLA RESUMEN: 
+
+| #   | Problema                                               | Escala de severidad | Heurística/Principio violada(o) |
+| --- | ------------------------------------------------------ | ------------------- | ------------------------------ |
+| 1   | No hay un botón que permita regresar al inicio de sesión | 3                   | Usability: Libertad y control de uso |
+| 2   | Se repiten constantemente algunas opciones           | 1                   | Usability: Consistencia y estándares |
+| 3   | Incluye un botón “Download”, pero no cumple ni una función | 3                   | Information Architecture: Is it usable? |
+| 4   | No incluye información de los ingresos exactos que se pueden obtener | 2                   | Information Architecture: Is it findable? |
+| 5   | La opción Diagnósticos tiene un nombre inadecuado    | 1                   | Information Architecture: Is it findable? |
+| 6   | No hay mensaje que confirme tu proceso de separación de cita | 2                   | Usability: Libertad y control de uso |
+| 7   | El botón “English - Spanish” no realiza ninguna función | 1                   | Information Architecture: Is it usable? |
+
+
+
+DESCRIPCIÓN DE PROBLEMAS: 
+  
+**PROBLEMA #1:** No hay un botón que permita regresar al inicio de sesión <br>
+**Severidad:** 3<br> 
+
+**Heurística violada:** Usability: Libertad y control de uso <br>
+
+**Problema:** <br>
+Al momento de ingresar a la aplicación y entrar con tu cuenta, esta te lleva al home de Theraphy y te dispone de las múltiples opciones con las que cuenta la aplicación. Sin embargo, se es incapaz de volver al login porque no se encuentra un botón que permita cerras sesión. <br>
+
+ <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem3.png" width="600"><br><br>
+  
+ 
+**PROBLEMA #2:** Se repiten constantemente algunas opciones <br>
+
+**Severidad:** 1 <br>
+
+**Heurística violada:** Usability: Consistencia y estándares <br> 
+
+**Problema:** <br> 
+Algunas opciones que se encuentran en el menú lateral, tales como mis tratamientos y mis citas médicas, también se encuentran como botones en el perfil de usuario. Esto genera que se encuentren múltiples diversas formas de realizar una acción en la misma vista, lo que puede confundir al usuario. <br> 
+
+ <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem2.png" width="600"><br><br>
+  
+**PROBLEMA #3:** Incluye un botón “Download”, pero no cumple ni una función <br>
+
+**Severidad:** 3  <br>
+
+**Heurística violada:** Information Architecture: Is it usable? <br>
+
+**Problema:** <br> 
+En la sección de perfil de fisioterapeuta, se encuentran diversos botones “Download”; sin embargo, estos no tienen una función en específica, ya que toda la información de lo muestra el producto Theraphy.<br> 
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem3.1.png" width="600"><br><br>  
+ 
+**PROBLEMA #4:** No incluye información de los ingresos exactos que se pueden obtener <br> 
+
+**Severidad:** 2<br>  
+
+**Heurística violada:** Information Architecture: Is it findable? <br> 
+
+**Problema:** <br> 
+En el Landing Page, se menciona el plan para fisioterapeutas donde se muestra que este puede generar ingresos a través de la aplicación. No obstante, no se indica cuánto es el monto exacto o aproximado que se pude obtener. <br> 
+  
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem4.png" width="600"><br><br>
+ 
+**PROBLEMA #5:** La opción Diagnósticos tiene un nombre inadecuado <br> 
+
+**Severidad:** 1<br>  
+
+**Heurística violada:** Information Architecture: Is it findable?<br>  
+
+**Problema:** <br> 
+El nombre otorgado a la vista Diagnósticos no es del todo correcto. El término que encaja a la perfección es “Prescripciones”. Por ello, el usuario puede confundir la función de esta pestaña o incluso no encontrar la vista que está buscando por la confusión del nombre. <br> 
+
+ <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem5.png" width="600"><br><br>
+
+
+**PROBLEMA #6:** No hay mensaje que confirme tu proceso de separación de cita<br>  
+
+**Severidad:** 2<br>  
+
+**Heurística violada:** Usability: Libertad y control de uso<br>  
+
+**Problema:** <br>  
+Al momento de finalizar una separación de cita médica, no se confirma si el proceso fue exitoso o no, lo que genera confusión en el usuario. Puesto que, Theraphy lo redirecciona automáticamente a las citas médicas generales, por lo que el paciente no sabe si finalizó el proceso o no, lo que le quita el control total de la aplicación.<br>  
+
+  <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem6.png" width="600"><br><br>
+ 
+**PROBLEMA #7:** El botón “English - Spanish” no realiza ninguna función<br>  
+
+**Severidad:** 1 <br> 
+
+**Heurística violada:** Information Architecture: Is it usable?<br>  
+
+**Problema:** <br>  
+En el Landing Page de Theraphy, exista el botón de cambio de lenguaje. Sin embargo, este no realiza ninguna función actualmente, por lo que su existencia no tiene un significado en la actual versión de la plataforma.<br>  
+  
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ValidateInterviews/Problem7.png" width="600"><br><br>
+
+
+
 ### 6.4. Video About-the-Product.
+A continuación, se presenta el video About The Product. Este tiene como objetivo presentar nuestro producto al público, por lo que en él se mostrarán las principales características con las que cuenta Theraphy. Asimismo, se añadió la experiencia de un usuario con su interacción con el software desarrollado. 
+Imagen del video: 
 
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ATP.png" width="600"><br><br>
 
+Link: https://upcedupe-my.sharepoint.com/personal/u20201a836_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201a836_upc_edu_pe%2FDocuments%2Fabout%20the%20product%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
