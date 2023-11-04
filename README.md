@@ -951,6 +951,8 @@ Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics e
 <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/colaborationTB2/mobileColaboration.png?raw=true" width="600">
 
 ### 6.3. Validation Interviews.
+
+
 #### 6.3.1. Diseño de Entrevistas.
 #### 6.3.2. Registro de Entrevistas.
 #### 6.3.3. Evaluaciones según heurísticas.
