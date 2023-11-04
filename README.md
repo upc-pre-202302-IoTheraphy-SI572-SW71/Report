@@ -951,9 +951,73 @@ Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics e
 <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/colaborationTB2/mobileColaboration.png?raw=true" width="600">
 
 ### 6.3. Validation Interviews.
-
+En esta sección mostraremos las entrevistas realizadas a los usuarios objetivos de Theraphy, estas tuvieron como objetivo el generar una interacción entra la aplicación y el público al que va dirigida para realizar su respectiva validación. 
 
 #### 6.3.1. Diseño de Entrevistas.
+Las entrevistas se realizaron para todos los segmentos objetivos de Theraphy; es decir, tanto para pacientes como para fisioterapeutas. A continuación, se presentará los flujos que se mostraron a los entrevistados: 
+
+•	Pacientes: 
+  -  Como usuario, deseo crear una cuenta para registrarme en la aplicación 
+  
+  - Como usuario, deseo iniciar sesión con mi cuenta previamente creada 
+ 
+
+ 
+  - Como usuario, deseo ingresar a mi perfil 
+
+ 
+
+ 
+  - Como paciente, deseo ingresar a mi historial médico 
+
+  - Como paciente, deseo encontrar tratamientos de terapia física 
+  
+  - Como paciente, deseo visualizar los avances que he conseguido 
+
+  
+  - Como paciente, deseo buscar fisioterapeutas por su nombre 
+
+ 
+
+
+
+
+ 
+  - Como paciente, deseo visualizar el perfil de los fisioterapeutas 
+
+  - Como paciente, deseo separar una cita médica
+    
+  - Como paciente, deseo visualizar las reseñas de un fisioterapeuta 
+
+  
+  - Como paciente, deseo crear una nueva reseña al fisioterapeuta 
+
+  
+  - Como paciente, deseo tener un historial de citas médicas 
+
+  
+  - Como paciente, deseo visualizar mis propias citas médicas 
+
+ 
+
+
+ 
+•	Fisioterapeutas: 
+  - Como usuario, deseo crear una cuenta para registrarme en la aplicación 
+  - Como usuario, deseo iniciar sesión con mi cuenta previamente creada
+  - Como fisioterapeuta, deseo buscar pacientes por su nombre 
+  - Como fisioterapeuta, deseo visualizar los tratamientos de terapia físicade la apliacación.
+  - Como fisioterapeuta, deseo visualizar mis reseñas 
+  -	Como fisioterapeuta, deseo publicar un nuevo tratamiento 
+
+  
+  - Como fisioterapeuta, deseo ver el historial médico de mi paciente 
+
+  
+  - Como fisioterapeuta, deseo visualizar mis proximas citas médicas 
+
+  
+
 #### 6.3.2. Registro de Entrevistas.
 #### 6.3.3. Evaluaciones según heurísticas.
 ### 6.4. Video About-the-Product.
