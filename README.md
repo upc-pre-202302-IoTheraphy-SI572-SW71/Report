@@ -1,5 +1,5 @@
 # ReportIot
-  ![Universidad Aplicada de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
+  ![Universidad Aplicada de Ciencias Aplicadas](https://www.indecopi.gob.pe/documents/474320/8237432/Intranet-UPC.png)
 
 Carrera: 
 Ingeniería de Software
