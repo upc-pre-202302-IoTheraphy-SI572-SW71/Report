@@ -205,7 +205,7 @@ Seguidamente presentamos las estadísticas de la sección Contributors, que evid
 			- [6.2.2.6. Services Documentation Evidence for Sprint Review.]()
 			- [6.2.2.7. Software Deployment Evidence for Sprint Review.]()
 			- [6.2.2.8. Team Collaboration Insights during Sprint.]()
-      		- [6.2.3. Sprint 3]()
+		- [6.2.3. Sprint 3]()
 			- [6.2.3.1. Sprint Planning 3.]()
 			- [6.2.3.2. Sprint Backlog 3.]()
 			- [6.2.3.3. Development Evidence for Sprint Review.]()
