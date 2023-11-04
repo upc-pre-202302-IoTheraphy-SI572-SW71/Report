@@ -70,11 +70,20 @@ Ciclo:
 
 ## Project Report Collaboration Insights
 **Enlace del Project Report: [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report]**<br><br>
+
+### TB2
+A continuación presentamos las estadísticas dentro de la sección Pulse de los Insights del presente repositorio. Estas estadísticas presentan la cantidad de commits que los integrantes han realizado al reporte del trabajo final<br>
+![Insight Pulse](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InsightsTB2/PulseTB2.png)<br><br>
+
+Seguidamente presentamos las estadísticas de la sección Contributors, que evidencia la cantidad de adiciones y eliminaciones realizadas al reporte situado en nuestra rama main.<br>
+![Insight Contributors](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InsightsTB2/ContibutorsTB2.png)<br><br>
+
+### TP
 A continuación presentamos las estadísticas dentro de la sección Pulse de los Insights del presente repositorio. Estas estadísticas presentan la cantidad de commits que los integrantes han realizado al reporte del trabajo final<br>
 ![Insight Pulse](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InsightsTP/Insights_pulse.jpg)<br><br>
 
 Seguidamente presentamos las estadísticas de la sección Contributors, que evidencia la cantidad de adiciones y eliminaciones realizadas al reporte situado en nuestra rama main.<br>
-![Insight Contributors](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InsightsTP/Insights_pulse.jpg)<br><br>
+![Insight Contributors](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InsightsTP/Insights_contributors.jpg)<br><br>
 
 ## Contenido
 - [Tabla de contenidos](#tabla-de-contenidos)
@@ -219,6 +228,6 @@ Seguidamente presentamos las estadísticas de la sección Contributors, que evid
 	- [6.4. Video About-the-Product.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#64-video-about-the-product)
 - [Conclusiones](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Conclusiones#readme)
 	- [Conclusiones y recomendaciones.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Conclusiones#conclusiones-y-recomendaciones)
-	- [Video About-the-Team.]()
+	- [Video About-the-Team.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Video-About-The-Team#readme)
 - [Bibliografia](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Bibliografía#readme)
 - [Anexos](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Anexos#readme)
