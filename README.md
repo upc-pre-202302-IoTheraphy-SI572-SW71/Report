@@ -60,6 +60,13 @@ Ciclo:
 | 1.9 | 26/09/2023 | Gomez, Cristhian | Despliegue de las aplicaciones |
 | 2.0 | 27/09/2023 | Del Carpio, Jose | Documentación de Insigths |
 | 2.1 | 3/10/2023  | Gomez, Cristhian | Actualización de la Tabla de Contenidos |
+| 2.2 | 7/10/2023  | Pineda, Luis | Registro del Sprint Planning 2 |
+| 2.3 | 9/10/2023  | Pineda, Luis | Registro del Delevopment Evidence Sprint 2 |
+| 2.4 | 12/10/2023  | Del Carpio, Jose | Registro de secciones Testing Suite Evidence, Execution Evidence and Services Documentation Evidence for Sprint Review 2 |
+| 2.5 | 16/10/2023  | Arrieta, Leonardo | Registro de Software Deployment Evidence and Team Collaboration Insights. |
+| 2.6 | 25/10/2023  | Gomez, Cristhian | Registro de secciones Validation Interviews, Diseño de Entrevistas, Registro de Entrevistas |
+| 2.7 | 30/10/2023  | Ahuanari, Maria | Registro de secciones Evaluaciones según heurísticas, Video About-the-Product |
+| 3.0 | 3/10/2023  | Gomez, Cristhian | Actualización del índice |
 
 ## Project Report Collaboration Insights
 **Enlace del Project Report: [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report]**<br><br>
@@ -196,29 +203,20 @@ Seguidamente presentamos las estadísticas de la sección Contributors, que evid
 			- [6.2.1.6. Services Documentation Evidence for Sprint Review.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6216-services-documentation-evidence-for-sprint-review)
 			- [6.2.1.7. Software Deployment Evidence for Sprint Review.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6217-software-deployment-evidence-for-sprint-review)
 			- [6.2.1.8. Team Collaboration Insights during Sprint.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6218-team-collaboration-insights-during-sprint)
-  		- [6.2.2. Sprint 2]()
-			- [6.2.2.1. Sprint Planning 2.]()
-			- [6.2.2.2. Sprint Backlog 2.]()
-			- [6.2.2.3. Development Evidence for Sprint Review.]()
-			- [6.2.2.4. Testing Suite Evidence for Sprint Review.]()
-			- [6.2.2.5. Execution Evidence for Sprint Review.]()
-			- [6.2.2.6. Services Documentation Evidence for Sprint Review.]()
-			- [6.2.2.7. Software Deployment Evidence for Sprint Review.]()
-			- [6.2.2.8. Team Collaboration Insights during Sprint.]()
-		- [6.2.3. Sprint 3]()
-			- [6.2.3.1. Sprint Planning 3.]()
-			- [6.2.3.2. Sprint Backlog 3.]()
-			- [6.2.3.3. Development Evidence for Sprint Review.]()
-			- [6.2.3.4. Testing Suite Evidence for Sprint Review.]()
-			- [6.2.3.5. Execution Evidence for Sprint Review.]()
-			- [6.2.3.6. Services Documentation Evidence for Sprint Review.]()
-			- [6.2.3.7. Software Deployment Evidence for Sprint Review.]()
-			- [6.2.3.8. Team Collaboration Insights during Sprint.]()
-	- [6.3. Validation Interviews.]()
-		- [6.3.1. Diseño de Entrevistas.]()
-		- [6.3.2. Registro de Entrevistas.]()
-		- [6.3.3. Evaluaciones según heurísticas.]()
-	- [6.4. Video About-the-Product.]()
+  		- [6.2.2. Sprint 2](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#622-sprint-2)
+			- [6.2.2.1. Sprint Planning 2.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6221-sprint-planning-2)
+			- [6.2.2.2. Sprint Backlog 2.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6222-sprint-backlog-2)
+			- [6.2.2.3. Development Evidence for Sprint Review.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6223-development-evidence-for-sprint-review)
+			- [6.2.2.4. Testing Suite Evidence for Sprint Review.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6224-testing-suite-evidence-for-sprint-review)
+			- [6.2.2.5. Execution Evidence for Sprint Review.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6235-execution-evidence-for-sprint-review)
+			- [6.2.2.6. Services Documentation Evidence for Sprint Review.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6226-services-documentation-evidence-for-sprint-review)
+			- [6.2.2.7. Software Deployment Evidence for Sprint Review.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6227-software-deployment-evidence-for-sprint-review)
+			- [6.2.2.8. Team Collaboration Insights during Sprint.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#6228-team-collaboration-insights-during-sprint)
+	- [6.3. Validation Interviews.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#63-validation-interviews)
+		- [6.3.1. Diseño de Entrevistas.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#631-diseño-de-entrevistas)
+		- [6.3.2. Registro de Entrevistas.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#632-registro-de-entrevistas)
+		- [6.3.3. Evaluaciones según heurísticas.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#633-evaluaciones-según-heurísticas)
+	- [6.4. Video About-the-Product.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/blob/Capítulo-VI-Product-Implementation,-Validation-&-Deployment/README.md#64-video-about-the-product)
 - [Conclusiones](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Conclusiones#readme)
 	- [Conclusiones y recomendaciones.](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Conclusiones#conclusiones-y-recomendaciones)
 	- [Video About-the-Team.]()
