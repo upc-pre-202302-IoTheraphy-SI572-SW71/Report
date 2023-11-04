@@ -832,3 +832,96 @@ Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes sec
 |      |    | db665ba536f875ae0a0897d5d0bdb0e48170a08a  |  feat(Update and Added) |  Update creation of Patient and Registered   | 16/10/2023 20:40 PM   |
 |      |    | 7be6ae84fdfb04d547eca4bc21d1ddd0511a0996  |  feat(therapy) | added method to get all appointments of a therapy  | 16/10/2023 20:48 PM   |
 | --- | --- | --- | --- | --- | --- |
+
+##### 6.2.2.4 Testing Suite Evidence for Sprint Review
+
+En está sección presentamos el conjunto de Acceptance Test relacionados con las User Stories seleccionadas para el desarrollo del Sprint 2. Para dichos criterios de aceptación se utilizó el lenguaje Gherkin bajo el enfoque BDD.
+
+| **Repository**    | **Branch**    | **Commit ID**    | **Commit Message**    | **Commit Message Body**    | **Commited on (Date)**   |
+| --- | --- | --- | --- | --- | --- |
+|  [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test)   |  main    | 7763fda7c542dc0a693e619f0873a667c0205737  |    feat(testing)  | Added acceptance criteria: HU15, HU14, HU13,HU18,HU12,HU08,HU07,HU20,HU01  | 27/09/2023  8:50 PM  |
+
+##### 6.2.3.5 **Execution Evidence for Sprint Review**
+
+Para este segundo sprint, conseguimos desarrollar y desplegar la aplicación web, como también se desarrolló la aplicación móvil:
+
+Se presentan screenshots del desarrollo de la aplicacion Web:
+
+- **Patient Profile:** Podrás acceder a tu perfil de paciente en la plataforma. Aquí encontrarás información personal y detalles relevantes, como tu historial médico.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/PatientProfile.png?raw=true" width="600">
+
+- **My consultations:** La sección donde podrás ver y gestionar tus consultas médicas. Aquí encontrarás información detallada sobre tus próximas y pasadas consultas.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/Myconsultations.png?raw=true" width="600">
+
+- **Book Consultation:**  Podrás acceder a la sección de reservas de consultas médicas. Aquí podrás programar una cita médica con el fisioterapeuta de tu elección, eligiendo la fecha y hora que mejor te convenga.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/bookConsultation.png?raw=true" width="600">
+
+-   **Physiotherapists:** Muestra los fisioterapeutas que se encuentras registrados en la aplicación.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/physiotherapisProfile.png?raw=true" width="600">
+
+- **Physiotherapists-profile:** Muestra la información que el fisioterapeuta ha registrado en su perfil.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/physiotherapistList.png?raw=true" width="600">
+
+- **You don't have therapies:**  La sección que muestra que actualmente no tienes terapias registradas o disponibles en tu perfil.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/Youdon'thavetherapies.png?raw=true" width="600">
+
+- **Therapy View:** Podrás acceder a la vista de terapia. Aquí encontrarás información detallada sobre tu tratamiento actual, incluyendo los detalles específicos de la terapia, la duración, los ejercicios recomendados y cualquier otra información relevante.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/therapyView.png?raw=true" width="600">
+
+- **Appointment Fisio Standar:**  La sección que muestra las consultas médicas estándar con tu fisioterapeuta. Aquí podrás acceder a la información de tus citas médicas regulares, incluyendo fechas, horas y detalles relacionados con tus consultas .
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/WebTheraphyPhotos/appointmentFisioStandar.png?raw=true" width="600">
+
+Se presentan screenshots del desarrollo de la aplicacion móvil:
+
+- **Patient Profile:** Se podra acceder al perfil del paciente. Aquí encontrarás información personal y detalles relevantes, de su historial médico.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/patientProfile.png?raw=true" width="600">
+
+- **Treatment creation:**  Aquí podrás diseñar y personalizar tratamientos específicos según las necesidades médicas de tu paciente.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Treatment%20creation.png?raw=true" width="600">
+
+- **Book Consultation:**  La sección de creación de terapias. Aquí podrás diseñar y personalizar terapias específicas según las necesidades médicas de tu paciente.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Theraphy%20creation.png?raw=true" width="600">
+
+-   **Physiotherapist home:**  Podrás acceder al inicio de la página de inicio del fisioterapeuta. Aquí encontrarás información y recursos destinados a los fisioterapeutas registrados en la plataforma.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true" width="600">
+
+- **Patients List:**  podrás acceder a la lista de pacientes. Aquí encontrarás información detallada sobre los pacientes que un fisioterapeuta atiende o gestiona.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/PatientsList.png?raw=true" width="600">
+
+- **Appointment or Treatment Creation:**  Podrás acceder a la sección donde puedes programar una cita médica para un paciente o crear un nuevo tratamiento.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Appointment%20or%20Treatment%20Creation.png?raw=true" width="600">
+
+Link video de demostración: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e705_upc_edu_pe/EWJKf9eQ6y5NnWfwas095EkBkBM6k4GdFNaPkPGetlRkVw?e=PJBKB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+##### 6.2.2.6 Services Documentation Evidence for Sprint Review
+
+En este Sprint 2 se ha desarrollado únicamente el Front-end. Por lo tanto, no se han realizado operaciones con la API. Sin embargo, se ha utilizado una fake-API, con la que hemos implementado la aplicación web. Además, utilizamos la plataforma My Json Server para publicar esta fake-API. A continuación, se mostrarán los endpoints desarrollados en este sprint.
+
+| **Endpoint**   | **HTTP Verb**   | **Action**   |
+| --- | --- | --- |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/available-hours](https://api-iotheraphy-production-909e.up.railway.app/api/v1)/available-hours |  GET  | Obtiene las horas disponibles de los fisioterapeutas. |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/consultations](https://api-iotheraphy-production-909e.up.railway.app/api/v1)/consultations    | GET  | Obtiene todas las consultas del fisioterapeuta. |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1/therapies)/activeTherapyByPatientId |  GET  | Obtiene las terapias iniciadas por el paciente. |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production.up.railway.app/api/v1)/medical-histories    | GET  | Obtiene todo el historial médico del paciente. |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production.up.railway.app/api/v1)/diagnoses |  GET  | Obtiene el último diagnóstico que tuvo el paciente. |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1)/iotDevice    | GET  | Obtiene los datos del dispositivo IoT que se usa en la terapia |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1/available-hours)    | POST  | Crea las horas disponibles de los fisioterapeutas |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1/consultations) | POST | Crea las consultas del fisioterapeuta |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1/therapies)   | POST  | Crea las terapias iniciadas por el paciente. |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production.up.railway.app/api/v1/medical-histories) | POST | Crea el historial médico del paciente. |
+| [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1/iotDevice) | POST | Genera la información dispositivo IoT que se usa en la terapia |
+
