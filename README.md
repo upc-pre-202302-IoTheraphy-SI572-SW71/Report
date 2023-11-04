@@ -883,27 +883,27 @@ Se presentan screenshots del desarrollo de la aplicacion móvil:
 
 - **Patient Profile:** Se podra acceder al perfil del paciente. Aquí encontrarás información personal y detalles relevantes, de su historial médico.
 
-<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/patientProfile.png?raw=true" width="600">
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/patientProfile.png?raw=true" width="280">
 
 - **Treatment creation:**  Aquí podrás diseñar y personalizar tratamientos específicos según las necesidades médicas de tu paciente.
 
-<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Treatment%20creation.png?raw=true" width="600">
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Treatment%20creation.png?raw=true" width="280">
 
 - **Book Consultation:**  La sección de creación de terapias. Aquí podrás diseñar y personalizar terapias específicas según las necesidades médicas de tu paciente.
 
-<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Theraphy%20creation.png?raw=true" width="600">
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Theraphy%20creation.png?raw=true" width="280">
 
 -   **Physiotherapist home:**  Podrás acceder al inicio de la página de inicio del fisioterapeuta. Aquí encontrarás información y recursos destinados a los fisioterapeutas registrados en la plataforma.
 
-<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true" width="600">
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true" width="280">
 
 - **Patients List:**  podrás acceder a la lista de pacientes. Aquí encontrarás información detallada sobre los pacientes que un fisioterapeuta atiende o gestiona.
 
-<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/PatientsList.png?raw=true" width="600">
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/PatientsList.png?raw=true" width="280">
 
 - **Appointment or Treatment Creation:**  Podrás acceder a la sección donde puedes programar una cita médica para un paciente o crear un nuevo tratamiento.
 
-<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Appointment%20or%20Treatment%20Creation.png?raw=true" width="600">
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Appointment%20or%20Treatment%20Creation.png?raw=true" width="280">
 
 Link video de demostración: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e705_upc_edu_pe/EWJKf9eQ6y5NnWfwas095EkBkBM6k4GdFNaPkPGetlRkVw?e=PJBKB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
@@ -924,4 +924,34 @@ En este Sprint 2 se ha desarrollado únicamente el Front-end. Por lo tanto, no s
 | [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1/therapies)   | POST  | Crea las terapias iniciadas por el paciente. |
 | [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production.up.railway.app/api/v1/medical-histories) | POST | Crea el historial médico del paciente. |
 | [https://api-iotheraphy-production-909e.up.railway.app/api/v1/](https://api-iotheraphy-production-909e.up.railway.app/api/v1/iotDevice) | POST | Genera la información dispositivo IoT que se usa en la terapia |
+
+
+##### 6.2.2.7 Software Deployment Evidence for Sprint Review
+
+Para el despliegue de la aplicación web utilizamos la plataforma Firebase.
+
+Link de la web application desplegada: (https://theraphy-2b472.web.app/login)
+
+Para el despliegue de la API utilizada empleamos el servicio de Railway; sin embargo, como este no soporta SDK 20, tuvimos que cambiarlo a JDK 17 para ente entregable.
+
+Link de la API desplegada: (https://api-iotheraphy-production-909e.up.railway.app/)
+
+##### 6.2.2.8 Team Collaboration Insights during Sprint
+
+Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra aplicación web.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/colaborationTB2/FrontendColaboration.png?raw=true" width="600">
+
+Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra Web Services.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/colaborationTB2/backendColaboration.png?raw=true" width="600">
+
+Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra aplicación móvil.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/colaborationTB2/mobileColaboration.png?raw=true" width="600">
+
+
+
+
+
 
