@@ -733,3 +733,69 @@ A continuación se presenta el Sprint Planning realizado para esta iteración.<b
 | Sum of Story Points                   | 19 story points                    |
 
 <br><br>
+##### 6.2.2.2 Sprint backlog 2
+
+| Sprint # | Sprint 2 | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story | Work-item/Task | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Id | Tittle | Id | Tittle | Description | Estimation (Hours) | Assigned To | Status (To-do /In-Process /To-Review /Done) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183109786  | HU15: Visualización del perfil de los pacientes  | TA01  | Mostrar datos del paciente  | Se mostrará el nombre de los pacientes, asimismo las características ingresadas por este mismo.  | 2 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Abrir foto  | Se dispondrá de una foto referencial del paciente elegido. Esta deberá expandirse para una mejor visualización.  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Controlar historial médico  | Añadir opción que permite editar la información presentada del apciente  | 3 | Luis Pineda   | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183109788  | HU14: Control de solicitudes de consultas médicas  | TA01  | Añadir cards para cada consulta  | Serán agregadas cards con información importante de cada consulta que se le ha solicitado al fisioterapeuta.  | 2 |  Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir foto  | Se añadirá la foto del paciente que ha solicitado la cita médica en cada card.  | 3 |  Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir caja de búsqueda  | Se permitirá ingresar en un input el nombre de un paciente para que su cita aparezca de manera inmediata.  | 3 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA04  | Concretar cita  | Se añadirá la opción de concretar cita médica para que el fiisoterapeuta ingrese un diagnístico y esta figure como hecha.  | 4 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- |
+| #183109794  | HU13: Reservación de consulta médica  | TA01  | Añadir botón de agendar cita  | Dentro de la terapia de un paciente se dispondrá de un botón de añadir cita cuando el día seleccionado no tenga contenido.  | 2 |   Jose Del Carpio | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir inputs   | Se añadirá la hora de inicio dela cita médica en un textfield.  | 2 | Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Mostrar cita  | Cambiará la vista de la terpa en el dia designado a mostrar la cita médica agendada.  | 2 |  Leonardo Arrieta | Done   |
+| --- | --- | --- | --- | --- | --- |
+| #183136085  | HU18: Visualización de horario de consultas  | TA01  | Añadir cajas de horas  | Se añadirán las horas en las que estarán disponibles los fisioterapeutas en una caja.  | 1 |  María Ahuanari | Done   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir botón de editar  | Se añadirá un botón que permita editar los horarios fijados.  | 2 |  María Ahuanari | Done   |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir Dialog   | Aparecerá un Dialog que contenga un formulario de edición de horas.  | 1 |  María Ahuanari | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183136086  | HU12: Visualización del perfil de los fisioterapeutas  | TA01  | Añadir foto   | Se añadirá una foto expandible del fisioterapetua  | 1 |  María Ahuanari | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir información | Se presentará los datos generales ingresados por el doctor.  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+|     |     | TA03  | Añadir botón de edición  | Se añadirá el botón que permita editar.  | 1 |  Cristhian Gómez | Done  |
+| --- | --- | --- | --- | --- | --- |
+| #183136088  | HU08:  Visualización de ejercicios   | TA01  | Agregar sección para la visualización de las sesiones de ejercicios  | Se añadirá una sección que presente los videos de ejercicios a realizar para cada tratamiento.  | 2  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02   | Añadir video de la sesión   | Se añadirá el video que contenga los ejercicios a realizar en la sesión que se ha seleccionado.   | 1  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir botones de cambio de sesión  | Se añadirán los botones que permitan movilizarse a una siguiente sesión o a una anterior.  | 3  | Leonardo Arrieta  | Done  |
+| #183136089 | HU09: Publicación de videos de ejercicios   | TA01  | Añadir sección para la publicación de un nuevo video de ejercicios  | Se agregará una sección que presenta el formulario para la publicación de un video de ejercicios  | 2  | Cristhian Gómez   | To-do  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183136090 | HU07: Búsqueda de tratamientos     | TA01  | Añadir sección de tratamientos  | Se añadirá una sección que presentará la lista de tratamientos publicados en la aplicación   | 2  | Jose Del Carpio  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir caja de búsqueda | Se añadirá un input que permita ingresar el nombre de un tratamiento | 2  | Jose Del Carpio  | Done  |
+|     |     | TA03  | Agregar lista de resultados por coincidencia  | Se enlistarán cada uno de los tratamientos que coincidan con el nombre ingresado en la barra de búsqueda  | 3  | Jose Del Carpio  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183136092 | HU19: Envío de diagnóstico y recomendaciones     | TA01  | Añadir botón de nuevo diagnóstico  | Se añadirá un botón en la vista de una cita médica que permita iniciar el proceso de envío de diagnóstico a un paciente.  | 2  | Luis Pineda  | Done |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02 | Añadir caja de texto | Se añadirá input para ingresar el diagnóstico que se le brindará al paciente | 2  | Luis Pineda  | Done  |
+| #183136093 | HU20: Visualización de los resultados de la consulta   | TA01  | Agregar botón | Se añadirá un botón que permita al usuario direccionarse a la vista de resultados de consultas médicas  | 2  | Leonardo Arrieta  | Done |
+|     |     | TA02  | Añadir vista de los resultados de las consultas médicas  | Se añadirá una sección que presentará los resultados de cada consulta médica realizada.  | 3  | Leonardo Arrieta  | Done |
+| #183109753  | HU01: Registro de cuenta  | TA01  | Añadir título  | Añadir título que indique que se encuentra en el registro en  dispositivo móvil.  | 1  | Luis Pineda  | Done  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     | TA02  | Añadir Input de nombre  | Añadir Input que permita ingresar el nombre con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA03  | Añadir Input de apellido  | Añadir Input que permita ingresar el apellido con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA04  | Añadir Input cumpleaños  | Añadir Input que permita ingresar el cumpleaños con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA05  | Añadir Input de rol  | Añadir Input que permita ingresar el rol con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA06  | Añadir Input email  | Añadir Input que permita ingresar el email con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA07  | Añadir Input de contraseña  | Añadir Input que permita ingresar la contraseña con sus validaciones  | 2  | Luis Pineda  | Done  |
+|     |     | TA08  | Añadir botón de registro  | Añadir botón que permita el registro y vuelva al login  | 1  | Luis Pineda  | Done  |
+|   |   |   |   |   |   |   |   |   |
