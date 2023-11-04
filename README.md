@@ -709,3 +709,27 @@ En este gráfico se puede visualizar el número de clonaciones que se le ha real
 
 En la presente imagen se muestran las ramas que se desprenden de nuestra rama principal. Asimismo, se puede visualizar los features realizados en cada respectivo commit.
 
+
+#### 6.2.2 Sprint 2
+##### 6.2.2.1 Sprint Planning 2.
+A continuación se presenta el Sprint Planning realizado para esta iteración.<br><br>
+
+| Sprint #                              | Sprint 2                           |
+|---------------------------------------|-----------------------------------|
+| Sprint Planning Background             |                                   |
+| Date                                  | 2023-10-07                        |
+| Time                                  | 11:30 am                          |
+| Location                              | Reunión virtual por Discord       |
+| Prepared By                           | Luis Pineda, Cristhian Gómez      |
+| Attendees (to planning meeting)       |                                   |
+| - Arrieta Huaman Leonardo Santos      | - Pineda Ugás, Luis Alberto       |
+| - Gómez De la Cruz, Cristhian Gabriel | - Ahuanari Murayari, Maria Alexandra |
+| - Del Carpio Lopez, José Fabricio Jared  |    |
+| Sprint 1 Review Summary               | Se concretó correctamenta la implementación del FrontEnd y BackEnd de Therapy                         |
+| Sprint 1 Retrospective Summary        | Por la intensidad del trabajo, las horas de sueño del equipo de desarrollo se vieron afectadas. Por ello, la carga para el siguiente Sprint será menor. |
+| Sprint Goal & User Stories            |                                   |
+| Sprint 2 Goal                         | Durante este sprint el equipo se encargará de desarrollar las User Stories establecidas para la Aplicación Móvil y construir dispositivo IoT |
+| Sprint 2 Velocity                     | 20 story points                    |
+| Sum of Story Points                   | 19 story points                    |
+
+<br><br>
