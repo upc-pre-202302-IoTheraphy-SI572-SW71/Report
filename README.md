@@ -799,3 +799,36 @@ A continuación se presenta el Sprint Planning realizado para esta iteración.<b
 |     |     | TA07  | Añadir Input de contraseña  | Añadir Input que permita ingresar la contraseña con sus validaciones  | 2  | Luis Pineda  | Done  |
 |     |     | TA08  | Añadir botón de registro  | Añadir botón que permita el registro y vuelva al login  | 1  | Luis Pineda  | Done  |
 |   |   |   |   |   |   |   |   |   |
+
+##### 6.2.2.3 Development Evidence for Sprint Review
+
+Para este segundo sprint, conseguimos desarrollar y desplegar las siguientes secciones de nuestra aplicación web:  Treatments, Treatments-info, Treatments-sessions, Physiotherpists, Physiotherpist-profile, Schedule-appointment, Payment, Appointments, Log-in y Sign-up
+
+| **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+| --- | --- | --- | --- | --- | --- |
+|    https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/MobileApp-Theraphy | Feature/therapy  | 2c72c073b139b17835797d6263196f7db4decac2  | feat(therapy)  | added dates to every day of a therapy   | 20/10/2023 04:30 p.m     |
+|  | --- | --- | --- | --- | --- |
+|     | Feature/therapy  | 790d7e823f8bd88729dcfa9530b06e377139feeb   |            feat(treatment)       |                                                                                      added post of a treatment  | 20/10/2023 07:20 p.m    |
+|  | --- | --- | --- | --- |
+|   Feature/therapy  |     | 1f59ba0a92a86b5e3c30f41da6b878c36d5b6254  | feat(firebase)  | Added Firebase Config   | 21/10/2023 09:00 p.m     |
+|  | --- | --- | --- |
+|     | feature/security  | 4ccfe0f80a86413683f525db09bfd8048b6f968c  | feat(security)  | Views For Register and Loging   |  22/10/2023 09:10 p.m     |
+|  | --- | --- | --- |
+|     | feature/available-hour  | 46e84895e7a28b77c05b975f39d4ab484e7dae74  | feat(ProfilePhysiotherapist)  |   Added available hour in profile   | 25/20/2023 04:40 p.m  |
+|  | --- | --- | --- |
+|     |  Feature/patients-list   | 087248f3e2a3ce9c53ec905978980f9699b8f6e3  | feat(patients-list)   | created patients-list.dart  | 25/10/2023 06:10 p.m   |
+|     |     | c2917c76487526295ea8402aba94b6e4dfb28e87  | feat(patients)   | modified http helper  | 26/10/2023 06:50 p.m   |
+| --- | --- | --- | --- | --- | --- |
+|  https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Theraphy-Device   | main  | 08850c8cc59763eb1c3bc8adc23dd8a2f3e31888  | feat(IoT)  | Added IoT Device   | 26/10/2023 07:00 p.m   |
+|     |    | bc0a2e699f5faeef842ed2e98075c17f4b4ee7ac  | feat(IoT)  | Added description for therapy device  | 26/10/2023 09:00 p.m  |
+|      |   | ad863169160ed38ba6c74bdbb88a8a20bb24c692  | feat(IoT)  | added image arduino wokwi.  | 17/10/202317:20 PM  |
+|      |   | 26ac6d3171a92ee3d5e08656b824cacb1835ea16  | feat(IoT)  | added connetion to wifi with Esp32  | 15/10/2023 18:21 PM  |
+| --- | --- | --- | --- | --- | --- |
+|   https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/API-IoTheraphy   | Feature/IotDevice  | a2f210fc8df313228420902318ef4ad9150e5431  | feat(IoT) |  Repository and Service implementation for IoTDevice  | 16/10/2023 18:25 PM  |
+|      | Feature/available-hours  | a7e110deb6b77b0577efc45efc0240a14eb5ceba  | feat(AvailableHours) | added API Available Hour.  | 16/10/2023 18:35 PM  |
+|      | Feature/stripe  | b8cafcb227fb13697f77a9401cbd34078ad8bce2  | feat(Payment)  | added payment method with stripe  | 16/10/2023 18:50 PM  |
+|      | Feature/therapy   | 09b67dca96a15d559c27dfaaccb8111090cb2a5c  | feat(therapy) | added method to get active therapy  | 16/10/2023 20:04 PM  |
+|      |    | 6365f2264ae44ca6b6d096e54cf2797abfa7e22a  |  feat(therapy)) | added method to get treatment for a spceific day   | 16/10/2023 20:14 PM   |
+|      |    | db665ba536f875ae0a0897d5d0bdb0e48170a08a  |  feat(Update and Added) |  Update creation of Patient and Registered   | 16/10/2023 20:40 PM   |
+|      |    | 7be6ae84fdfb04d547eca4bc21d1ddd0511a0996  |  feat(therapy) | added method to get all appointments of a therapy  | 16/10/2023 20:48 PM   |
+| --- | --- | --- | --- | --- | --- |
