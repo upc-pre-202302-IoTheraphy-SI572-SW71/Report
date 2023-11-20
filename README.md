@@ -1029,15 +1029,10 @@ A continuación se presenta el Sprint Planning realizado para esta iteración.<b
 |     |     | TA02 | Añadir diagnósticos enviados | Se añadirá historial de diagnósticos por paciente en cada perfil de paciente. | 2 | Gabriel Gomez | Done |
 
 ##### 6.2.3.3 Development Evidence for Sprint Review 
+A continuación, se presenta la lista de commis realiados en los repositorios para este sprint 3.
+
 | **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
 | --- | --- | --- | --- | --- | --- |
-| [MobileApp-Theraphy](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/MobileApp-Theraphy) | Feature/therapy | abc123 | feat(therapy) | added dates to every day of a therapy | 17/11/2023 |
-|  | Feature/therapy | abc124 | feat(treatment) | added post of a treatment | 16/11/2023 |
-|  | Feature/therapy | abc125 | feat(firebase) | Added Firebase Config | 15/11/2023 |
-|  | feature/security | abc126 | feat(security) | Views For Register and Loging | 14/11/2023 |
-|  | feature/available-hour | abc127 | feat(ProfilePhysiotherapist) | Added available hour in profile | 14/11/2023 |
-|  | Feature/patients-list | abc128 | feat(patients-list) | created patients-list.dart | 14/11/2023 |
-|  | Feature/patients-list | abc129 | feat(patients) | modified http helper | 14/11/2023 |
 | [Theraphy-Device](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Theraphy-Device) | main | abc130 | feat(IoT) | Added IoT Device | 14/11/2023 |
 |  | main | abc131 | feat(IoT) | Added description for therapy device | 14/11/2023 |
 |  | main | abc132 | feat(IoT) | added image arduino wokwi. | 14/11/2023 |
@@ -1072,6 +1067,13 @@ A continuación se presenta el Sprint Planning realizado para esta iteración.<b
 |  | develop | abc170 | feat(home) | modified model for user | - | 14/11/2023 |
 |  | develop | abc171 | feat(home) | added model for a therapy | - | 14/11/2023 |
 
+##### 6.2.3.4 Testing Suite Evidence for Sprint Review 
+
+En esta sección, presentamos el conjunto de Acceptance Tests relacionados con las User Stories seleccionadas para el desarrollo del Sprint 3. Para estos criterios de aceptación, se utilizó el lenguaje Gherkin bajo el enfoque BDD.
+
+| **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+| --- | --- | --- | --- | --- | --- |
+| [Acceptance-Test](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Acceptance-Test) | main | abc172 | feat(testing) | Added acceptance criteria: HU15, HU14, HU13,HU18,HU12,HU08,HU07,HU20,HU01 | 17/11/2023 8:50 PM |
 
 
 ### 6.3. Validation Interviews.
