@@ -1161,6 +1161,31 @@ En este sprint, se avanzó significativamente en la implementación de diversas 
 Link video de demostración: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e705_upc_edu_pe/EaIxmctEFspBlv8CAinjAXQBovrI-cZMsvNQLaPt5YbX8w?e=IEmpm4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 
+##### 6.2.3.6 Services Documentation Evidence for Sprint Review
+
+En el Sprint 3, nos enfocamos en los servicios para el dispositivo IoT
+
+A continuación, se detallan los nuevos endpoints implementados y las operaciones asociadas:
+
+| **Endpoint**   | **HTTP Verb**   | **Action**   | **Descripción**   |
+| --- | --- | --- | --- |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice](https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice) | GET | Obtiene todas las lecturas de dispositivos IoT. | Devuelve una lista paginada de las lecturas de dispositivos IoT. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/byTherapyId/{therapyId}/Date/{date}](https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/byTherapyId/{therapyId}/Date/{date}) | GET | Obtiene las lecturas de dispositivos IoT por ID de terapia y fecha. | Devuelve una lista paginada de las lecturas de dispositivos IoT para una terapia y fecha específicas. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/{iotDeviceId}](https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/{iotDeviceId}) | GET | Obtiene la lectura de un dispositivo IoT por ID. | Devuelve los detalles de una lectura de dispositivo IoT específica. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/iotDevice/{temperature}](https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/iotDevice/{temperature}) | GET | Obtiene las lecturas de dispositivos IoT por temperatura. | Devuelve una lista paginada de las lecturas de dispositivos IoT para una temperatura específica. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice](https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice) | POST | Crea una nueva lectura de dispositivo IoT. | Registra una nueva lectura de dispositivo IoT en la base de datos. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/{iotDeviceId}](https://api-iotheraphy-production.up.railway.app/api/v1/iotDevice/{iotDeviceId}) | DELETE | Elimina una lectura de dispositivo IoT por ID. | Elimina una lectura de dispositivo IoT específica de la base de datos. |
+
+| **Endpoint**   | **HTTP Verb**   | **Action**   | **Descripción**   |
+| --- | --- | --- | --- |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotResult](https://api-iotheraphy-production.up.railway.app/api/v1/iotResult) | GET | Obtiene todas los resultados de dispositivos IoT. | Devuelve una lista paginada de los resultados de dispositivos IoT. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/{resultId}](https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/{resultId}) | GET | Obtiene el resultado de dispositivo IoT por ID. | Devuelve los detalles de un resultado de dispositivo IoT específico. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/byTherapyId/{therapyId}](https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/byTherapyId/{therapyId}) | GET | Obtiene el resultado de dispositivo IoT por ID de terapia. | Devuelve el resultado de dispositivo IoT para una terapia específica. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/byTherapyId/{therapyId}/Date/{date}](https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/byTherapyId/{therapyId}/Date/{date}) | GET | Obtiene los resultados de dispositivos IoT por ID de terapia y fecha. | Devuelve una lista paginada de los resultados de dispositivos IoT para una terapia y fecha específicas. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotResult](https://api-iotheraphy-production.up.railway.app/api/v1/iotResult) | POST | Crea un nuevo resultado de dispositivo IoT. | Registra un nuevo resultado de dispositivo IoT en la base de datos. |
+| [https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/{resultId}](https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/{resultId}) | DELETE | Elimina un resultado de dispositivo IoT por ID. | Elimina un resultado de dispositivo IoT específico de la base de datos. |
+
+
 ### 6.3. Validation Interviews.
 En esta sección mostraremos las entrevistas realizadas a los usuarios objetivos de Theraphy, estas tuvieron como objetivo el generar una interacción entra la aplicación y el público al que va dirigida para realizar su respectiva validación. 
 
@@ -1195,7 +1220,7 @@ Las entrevistas se realizaron para todos los segmentos objetivos de Theraphy; es
   - Como paciente, deseo visualizar mis propias citas médicas<br>
   <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/Userflows%20web/userflows/visualizar%20citas%20medicas.jpg" width="600"><br><br><br> 
 
-#### Theraph Mobile App
+#### Theraphy Mobile App
 
 •	Fisioterapeutas: 
   - Como usuario, deseo crear una cuenta para registrarme en la aplicación<br>
