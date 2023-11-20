@@ -950,6 +950,38 @@ Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics e
 
 <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/colaborationTB2/mobileColaboration.png?raw=true" width="600">
 
+
+#### 6.2.2 Sprint 3
+En la tercera iteración del proyecto, se planteó como meta el vincular el dispositivo IoT con las aplicaciones web y móvil a través de nuestro BackEnd.
+
+Repositorio Web App https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy   
+Repositorio BackEnd: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/API-IoTheraphy 
+Repositorio App Flutter: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/MobileApp-Theraphy 
+Repositorio IoTheraphy: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Theraphy-Device 
+
+
+##### 6.2.2.1 Sprint Planning 3.
+A continuación se presenta el Sprint Planning realizado para esta iteración.<br><br>
+
+| Sprint #                              | Sprint 2                           |
+|---------------------------------------|-----------------------------------|
+| Sprint Planning Background             |                                   |
+| Date                                  | 2023-10-21                        |
+| Time                                  | 11:30 am                          |
+| Location                              | Reunión virtual por Discord       |
+| Prepared By                           | Luis Pineda, Cristhian Gómez      |
+| Attendees (to planning meeting)       |                                   |
+| - Arrieta Huaman Leonardo Santos      | - Pineda Ugás, Luis Alberto       |
+| - Gómez De la Cruz, Cristhian Gabriel | - Ahuanari Murayari, Maria Alexandra |
+| - Del Carpio Lopez, José Fabricio Jared  |    |
+| Sprint 2 Review Summary               | Se concretó correctamenta la implementación del IoT y Mobile App de Therapy                         |
+| Sprint 2 Retrospective Summary        | Después de superar un período intenso de trabajo, el equipo de desarrollo ha restablecido su equilibrio y ha retomado su ritmo normal. Como resultado, la carga para el siguiente Sprint se ha ajustado para garantizar un mejor equilibrio entre productividad y bienestar del equipo. |
+| Sprint Goal & User Stories            |                                   |
+| Sprint 3 Goal                         | Durante este sprint el equipo se encargará de vincular las aplicaciones creadas y dar fundiones extras a los productos |
+| Sprint 3 Velocity                     | 20 story points                    |
+| Sum of Story Points                   | 19 story points                    |
+
+
 ### 6.3. Validation Interviews.
 En esta sección mostraremos las entrevistas realizadas a los usuarios objetivos de Theraphy, estas tuvieron como objetivo el generar una interacción entra la aplicación y el público al que va dirigida para realizar su respectiva validación. 
 
