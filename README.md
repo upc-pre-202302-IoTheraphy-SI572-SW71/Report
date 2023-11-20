@@ -951,19 +951,17 @@ Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics e
 <img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/colaborationTB2/mobileColaboration.png?raw=true" width="600">
 
 
-#### 6.2.2 Sprint 3
-En la tercera iteración del proyecto, se planteó como meta el vincular el dispositivo IoT con las aplicaciones web y móvil a través de nuestro BackEnd.
+#### 6.2.3 Sprint 3
+En la tercera iteración del proyecto, se planteó como meta el vincular el dispositivo IoT con las aplicaciones web y móvil a través de nuestro BackEnd.<br>
+Repositorio Web App https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy<br>
+Repositorio BackEnd: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/API-IoTheraphy<br>
+Repositorio App Flutter: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/MobileApp-Theraphy<br>
+Repositorio IoTheraphy: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Theraphy-Device<br> 
 
-Repositorio Web App https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Web-Theraphy   
-Repositorio BackEnd: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/API-IoTheraphy 
-Repositorio App Flutter: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/MobileApp-Theraphy 
-Repositorio IoTheraphy: https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Theraphy-Device 
-
-
-##### 6.2.2.1 Sprint Planning 3.
+##### 6.2.3.1 Sprint Planning 3.
 A continuación se presenta el Sprint Planning realizado para esta iteración.<br><br>
 
-| Sprint #                              | Sprint 2                           |
+| Sprint #                              | Sprint 3                           |
 |---------------------------------------|-----------------------------------|
 | Sprint Planning Background             |                                   |
 | Date                                  | 2023-10-21                        |
@@ -980,6 +978,55 @@ A continuación se presenta el Sprint Planning realizado para esta iteración.<b
 | Sprint 3 Goal                         | Durante este sprint el equipo se encargará de vincular las aplicaciones creadas y dar fundiones extras a los productos |
 | Sprint 3 Velocity                     | 20 story points                    |
 | Sum of Story Points                   | 19 story points                    |
+
+<br><br>
+##### 6.2.2.3 Sprint Backlog 3
+
+| Sprint # | Sprint 3 | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story | Work-item/Task | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| #183136069 | Registro de cuenta | TA01 | Añadir vista de registro para móvil | Se programará la vista diseñada en Figma para el registro de usuarios en la aplicación móvil. | 3 | Jose del Carpio | Done |
+|     |     | TA02 | Validar rol de usuario | Se dispondrá de la elección del rol dentro de la aplicación para validar las acciones que pueda realizar. | 1 | Jose del Carpio | Done |
+|     |     | TA03 | Validar campos ingresados | Validar que los datos son los que se solicitan en el Backend | 3 | Jose del Carpio | Done |
+| #183109782 | Inicio de sesión | TA01 | Añadir vista de inicio de sesión para móvil | Se programará la vista diseñada en Figma para el inicio de sesión de usuarios en la aplicación móvil. | 3 | Jose del Carpio | Done |
+|     |     | TA02 | Validar rol de usuario | Se leerá el rol que cumple el usuario dentro de la aplicación cuando inicie sesión | 1 | Jose del Carpio | Done |
+|     |     | TA03 | Validar datos ingresados | Se validará si los datos ingresados pertenecen a una cuenta ya creada o no. | 2 | Jose del Carpio | Done |
+| #183136069 | Visualización del registro de progreso | TA01 | Se añadirá vista de lectura de IoT | Se añadirá una vista en la aplicación móvil diseñada exclusivamente para móvil. | 1 | Gabriel Gomez | Done |
+|     |     | TA02 | Se añadirá gráfico de MAP | Se leerá del backend los datos de Muscular Action Potential y se mostrará en un gráfico de líneas en la vista. | 4 | Gabriel Gomez | Done |
+|     |     | TA03 | Se añadirá gráfico de BPM | Se leerá del backend los datos de Heartbeat y se mostrará en un corazón con el promedio del pulso. | 2 | Gabriel Gomez | Done |
+|     |     | TA04 | Se añadirá gráfico de temperatura | Se leerá del backend los datos de temperatura y se mostrará en un termómetro con el promedio de temperatura. | 2 | Gabriel Gomez | Done |
+|     |     | TA05 | Se añadirá gráfico de tiempo | Se leerá del backend los intervalos de tiempo de duración de cada MAP y se mostrará en un gráfico de barras en la vista. | 4 | Gabriel Gomez | Done |
+|     |     | TA06 | Se añadirá gráfico de humedad | Se leerá del backend los datos de humedad y se mostrará en un círculo con el promedio de humedad. | 2 | Gabriel Gomez | Done |
+| #183109768 | Visualización del perfil | TA01 | Añadir vista de perfil de fisioterapeuta | Añadir vista de perfil propio del usuario ingresado en la aplicación móvil. | 1 | Leonardo Arrieta | Done |
+|     |     | TA02 | Mostrar datos del fisioterapeuta | Se mostrará datos como nombre, especialización, foto de perfil y correo. | 1 | Leonardo Arrieta | Done |
+| #183136121 | Selección de foto de perfil | TA01 | Abrir foto | Expandir la foto de perfil cuando se seleccione | 1 | Leonardo Arrieta | Done |
+|     |     | TA02 | Cambiar foto | Abrir biblioteca del móvil y subir la foto en firebase para que se guarde en la base de datos. | 3 | Jose del Carpio | Done |
+| #183136123 | Ingreso de historial médico | TA01 | Añadir formulario de ingreso | Se añadirá un formulario para ingresar los datos de género, estatura, peso, lugar de nacimiento, enfermedades hereditarias, historial no patológico e historial patológico para un paciente seleccionado. | 4 | Gabriel Gomez | Done |
+|     |     | TA02 | Visualización de datos | Se añadirán secciones desplegables en el perfil del paciente con los datos ingresados. | 2 | Gabriel Gomez | Done |
+| #183109753 | Visualización de ejercicios | TA01 | Añadir vista de terapia | Se añadirá vista de terapia actual para paciente en la web, mostrando el título de esta y su descripción. | 2 | Luis Pineda | Done |
+|     |     | TA02 | Añadir carousel de días | Se añadirá un carousel de días permitiendo seleccionar cada elemento para observar los tratamientos virtuales de cada día. | 3 | Luis Pineda | Done |
+|     |     | TA03 | Añadir card de video | Se leerá según el día elegido el tratamiento solicitado, mostrándose el video en cuestión junto a los datos de este en una card. | 3 | Luis Pineda | Done |
+| #183136090 | Publicación de videos de ejercicios | TA01 | Añadir vista de terapia | Se añadirá vista de terapia actual para el fisioterapeuta en la app móvil según el paciente elegido, mostrando el título de esta y su descripción. | 1 | Luis Pineda | Done |
+|     |     | TA02 | Añadir carousel de días | Se añadirá un carousel de días permitiendo seleccionar cada elemento para observar los tratamientos virtuales de cada día. | 3 | Luis Pineda | Done |
+|     |     | TA03 | Añadir card de video | Se leerá según el día elegido el tratamiento solicitado, mostrándose el video en cuestión junto a los datos de este en una card. | 3 | Luis Pineda | Done |
+|     |     | TA04 | Añadir formulario de ingreso | Se añadirá un formulario de ingreso de nuevo tratamiento en caso de que no haya uno para el día seleccionado, con los campos, nombre, descripción y la subida de archivo multimedia. | 5 | Luis Pineda | Done |
+| #183109755 | Control de solicitudes de consultas médica | TA01 | Añadir formulario de horario de atención | Añadir opción en el perfil de fisioterapeuta de editar horario de consultas, lo que abrirá un formulario de día y hora para mostrar su disponibilidad. | 4 | Leonardo Arrieta | Done |
+|     |     | TA02 | Añadir visualización de horas | Se mostrarán los datos ingresados en un carousel dentro del perfil. | 2 | Leonardo Arrieta | Done |
+|     |     | TA03 | Validar disponibilidad de fisioterapeuta | En la aplicación web se validará a la hora de agendar una cita con el fisioterapeuta si este está disponible en las horas seleccionadas. | 2 | Leonardo Arrieta | Done |
+| #183136092 | Visualización del perfil de los pacientes | TA01 | Añadir carousel de pacientes | Se añadirá atajos en el home con una lista horizontal de los pacientes de un fisioterapeuta. | 5 | Maria Ahuanari | Done |
+|     |     | TA02 | Añadir vista de lista de pacientes | Se añadirá la vista de Figma de lista de pacientes que permita filtrar de acuerdo a nombre, consultas y terapias. | 3 | Gabriel Gomez | Done |
+|     |     | TA03 | Añadir perfil del paciente | Se añadirá vista de perfil de paciente donde se muestren sus datos. | 2 | Gabriel Gomez | Done |
+| #183109758 | Comunicación entre fisioterapeutas y pacientes | TA01 | Añadir llamada al paciente | Se añadirá la opción de llamar al número registrado del paciente. | 2 | Luis Pineda | Done |
+|     |     | TA02 | Añadir ubicación en mapa | Se añadirá un mapa con el camino a la ubicación del paciente para la cita médica. | 7 | Luis Pineda | Done |
+| #183136099 | Registro de consultas médicas | TA01 | Se añadirá lista de últimas consultas | Añadir en el home una lista de últimas consultas separadas por pacientes. | 3 | Maria Ahuanari | Done |
+|     |     | TA02 | Se añadirá lista de últimas citas médicas | Añadir en el home una lista de últimas citas médicas separadas por fisioterapeutas. | 3 | Maria Ahuanari | Done |
+|     |     | TA03 | Se añadirá vista de historial de consultas y citas médicas | Añadir vista de lista de citas médicas permitiendo filtrar según paciente, y quien agendó. | 4 | Maria Ahuanari | Done |
+|     |     | TA04 | Se añadirá vista de historial de terapias | Se añadirá vista de lista de todas las terapias que ha designado un fisioterapeuta. | 4 | Maria Ahuanari | Done |
+| #183109775 | Envío de diagnóstico y recomendaciones | TA01 | Añadir formulario de ingreso de diagnóstico | Se añadirá vista que permita ingresar diagnóstico para el paciente seleccionado. | 2 | Luis Pineda | Done |
+|     |     | TA02 | Añadir diagnósticos enviados | Se añadirá historial de diagnósticos por paciente en cada perfil de paciente. | 2 | Gabriel Gomez | Done |
 
 
 ### 6.3. Validation Interviews.
