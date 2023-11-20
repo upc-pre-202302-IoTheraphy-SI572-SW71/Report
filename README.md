@@ -980,7 +980,7 @@ A continuación se presenta el Sprint Planning realizado para esta iteración.<b
 | Sum of Story Points                   | 19 story points                    |
 
 <br><br>
-##### 6.2.2.3 Sprint Backlog 3
+##### 6.2.2.2 Sprint Backlog 3
 
 | Sprint # | Sprint 3 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1027,6 +1027,51 @@ A continuación se presenta el Sprint Planning realizado para esta iteración.<b
 |     |     | TA04 | Se añadirá vista de historial de terapias | Se añadirá vista de lista de todas las terapias que ha designado un fisioterapeuta. | 4 | Maria Ahuanari | Done |
 | #183109775 | Envío de diagnóstico y recomendaciones | TA01 | Añadir formulario de ingreso de diagnóstico | Se añadirá vista que permita ingresar diagnóstico para el paciente seleccionado. | 2 | Luis Pineda | Done |
 |     |     | TA02 | Añadir diagnósticos enviados | Se añadirá historial de diagnósticos por paciente en cada perfil de paciente. | 2 | Gabriel Gomez | Done |
+
+##### 6.2.3.3 Development Evidence for Sprint Review 
+| **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+| --- | --- | --- | --- | --- | --- |
+| [MobileApp-Theraphy](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/MobileApp-Theraphy) | Feature/therapy | abc123 | feat(therapy) | added dates to every day of a therapy | 17/11/2023 |
+|  | Feature/therapy | abc124 | feat(treatment) | added post of a treatment | 16/11/2023 |
+|  | Feature/therapy | abc125 | feat(firebase) | Added Firebase Config | 15/11/2023 |
+|  | feature/security | abc126 | feat(security) | Views For Register and Loging | 14/11/2023 |
+|  | feature/available-hour | abc127 | feat(ProfilePhysiotherapist) | Added available hour in profile | 14/11/2023 |
+|  | Feature/patients-list | abc128 | feat(patients-list) | created patients-list.dart | 14/11/2023 |
+|  | Feature/patients-list | abc129 | feat(patients) | modified http helper | 14/11/2023 |
+| [Theraphy-Device](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Theraphy-Device) | main | abc130 | feat(IoT) | Added IoT Device | 14/11/2023 |
+|  | main | abc131 | feat(IoT) | Added description for therapy device | 14/11/2023 |
+|  | main | abc132 | feat(IoT) | added image arduino wokwi. | 14/11/2023 |
+|  | main | abc133 | feat(IoT) | added connetion to wifi with Esp32 | 14/11/2023 |
+| [API-IoTheraphy](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/API-IoTheraphy) | Feature/IotDevice | abc134 | feat(IoT) | Repository and Service implementation for IoTDevice | 14/11/2023 |
+|  | Feature/available-hours | abc135 | feat(AvailableHours) | added API Available Hour. | 14/11/2023 |
+|  | Feature/stripe | abc136 | feat(Payment) | added payment method with stripe | 14/11/2023 |
+|  | Feature/therapy | abc137 | feat(therapy) | added method to get active therapy | 14/11/2023 |
+|  | Feature/therapy | abc138 | feat(therapy) | added method to get treatment for a specific day | 14/11/2023 |
+|  | Feature/therapy | abc139 | feat(Update and Added) | Update creation of Patient and Registered | 14/11/2023 |
+|  | Feature/therapy | abc140 | feat(therapy) | added method to get all appointments of a therapy | 14/11/2023 |
+| [MobileApp-Theraphy](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/MobileApp-Theraphy) | develop | abc150 | fix: android version fixxed | - | 14/11/2023 |
+|  | develop | abc151 | feat(direction) | added address and distance of points | - | 14/11/2023 |
+|  | develop | abc152 | fix: changed zoom | - | 14/11/2023 |
+|  | develop | abc153 | feat(map) | added way in maps to your patient | - | 14/11/2023 |
+|  | develop | abc154 | feat: Update Phone Calls for android | - | 14/11/2023 |
+|  | develop | abc155 | fix: autoplay removed | - | 14/11/2023 |
+|  | develop | abc156 | fix: fixed sidebox card | - | 14/11/2023 |
+|  | develop | abc157 | feat(diagnosis) | added diagnosis updating | - | 14/11/2023 |
+|  | develop | abc158 | feat(appointment) | added cell phone button | - | 14/11/2023 |
+|  | develop | abc159 | fix: appointment card changed | - | 14/11/2023 |
+|  | develop | abc160 | fix: fixed all | - | 14/11/2023 |
+|  | develop | abc161 | fix: fixed everything | - | 14/11/2023 |
+|  | develop | abc162 | fix: fixed upload video | - | 14/11/2023 |
+|  | develop | abc163 | fix:fixed http helper | - | 14/11/2023 |
+|  | develop | abc164 | feat(home) | home widget | - | 14/11/2023 |
+|  | develop | abc165 | feat(home) | modified login widget | - | 14/11/2023 |
+|  | develop | abc166 | feat(home) | modified main for home widget | - | 14/11/2023 |
+|  | develop | abc167 | feat(home) | modified pubspec yaml and lock | - | 14/11/2023 |
+|  | develop | abc168 | feat(home) | added home widget | - | 14/11/2023 |
+|  | develop | abc169 | feat(home) | modified and added methods in httphelper | - | 14/11/2023 |
+|  | develop | abc170 | feat(home) | modified model for user | - | 14/11/2023 |
+|  | develop | abc171 | feat(home) | added model for a therapy | - | 14/11/2023 |
+
 
 
 ### 6.3. Validation Interviews.
