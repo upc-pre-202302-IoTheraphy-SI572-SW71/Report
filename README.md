@@ -1084,31 +1084,31 @@ En este sprint, se avanzó significativamente en la implementación de diversas 
 
 - **Vista de registro para móvil:**
   - Se desarrolló la vista de registro para usuarios en la aplicación móvil, permitiendo a los usuarios ingresar sus datos.
-  - ![Registro de cuenta - Vista de registro para móvil](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/patientProfile.png?raw=true)
+  - ![Registro de cuenta - Vista de registro para móvil](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Register-User-Section_Mobile.jpeg?raw=true)
 
 ### Inicio de sesión
 
 - **Vista de inicio de sesión para móvil:**
   - La aplicación ahora cuenta con una vista de inicio de sesión que permite a los usuarios acceder a sus cuentas.
-  - ![Inicio de sesión - Vista de inicio de sesión para móvil](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true)
+  - ![Inicio de sesión - Vista de inicio de sesión para móvil](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Log-in_Mobile.jpeg?raw=true)
 
 ### Visualización del registro de progreso
 
 - **Vista de lectura de IoT:**
   - Se implementó una nueva vista que permite a los usuarios visualizar el progreso registrado a través de IoT.
-  - ![Visualización del registro de progreso - Vista de lectura de IoT](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/PatientsList.png?raw=true)
+  - ![Visualización del registro de progreso - Vista de lectura de IoT](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/IoT-Results-Section_Mobile.jpeg?raw=true)
 
 ### Visualización del perfil
 
 - **Vista de perfil del paciente:**
   - Se añadió una vista que muestra información detallada del perfil del paciente, incluyendo historial médico y otros detalles relevantes.
-  - ![Visualización del perfil - Vista de perfil del paciente](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/patientProfile.png?raw=true)
+  - ![Visualización del perfil - Vista de perfil del paciente](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Patient-Profile-Section_Mobile.jpeg?raw=true)
 
 ### Selección de foto de perfil
 
 - **Vista de selección de foto de perfil:**
   - Ahora los usuarios pueden seleccionar o cambiar su foto de perfil mediante una interfaz fácil de usar.
-  - ![Selección de foto de perfil - Vista de selección de foto](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true)
+  - ![Selección de foto de perfil - Vista de selección de foto](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Update-Photo-Section-Mobile.jpeg?raw=true)
 
 ### Ingreso de historial médico
 
@@ -1120,43 +1120,42 @@ En este sprint, se avanzó significativamente en la implementación de diversas 
 
 - **Vista de terapia actual para paciente:**
   - Los usuarios ahora pueden acceder a una vista que muestra información detallada sobre su tratamiento actual y los ejercicios recomendados.
-  - ![Visualización de ejercicios - Vista de terapia actual](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true)
+  - ![Visualización de ejercicios - Vista de terapia actual](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Theraphy-Section_Mobile.jpeg?raw=true)
 
 ### Publicación de videos de ejercicios
 
 - **Vista de terapia actual para fisioterapeuta:**
   - Se implementó una vista que permite a los fisioterapeutas publicar videos de ejercicios para sus pacientes.
-  - ![Publicación de videos de ejercicios - Vista de terapia para fisioterapeuta](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/PatientsList.png?raw=true)
+  - ![Publicación de videos de ejercicios - Vista de terapia para fisioterapeuta](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Create-Theraphy_Mobile.jpeg?raw=true)
 
 ### Control de solicitudes de consultas médicas
 
 - **Formulario de horario de atención:**
   - Se añadió una opción para que los fisioterapeutas editen su horario de consultas, facilitando la gestión de citas médicas.
-  - ![Control de solicitudes de consultas médicas - Formulario de horario de atención](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Appointment%20or%20Treatment%20Creation.png?raw=true)
-
+  - ![Control de solicitudes de consultas médicas - Formulario de horario de atención](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/My-Available-Hours_Mobile.jpeg?raw=true)
 ### Visualización del perfil de los pacientes
 
 - **Carousel de pacientes:**
   - Se implementó un carousel en la página de inicio con una lista de pacientes del fisioterapeuta.
-  - ![Visualización del perfil de los pacientes - Carousel de pacientes](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true)
+  - ![Visualización del perfil de los pacientes - Carousel de pacientes](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Home-Section_Mobile.jpeg?raw=true)
 
 ### Comunicación entre fisioterapeutas y pacientes
 
 - **Llamada al paciente:**
   - Se añadió la opción de realizar llamadas al número registrado del paciente, facilitando la comunicación.
-  - ![Comunicación entre fisioterapeutas y pacientes - Llamada al paciente](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Physiotherapist%20home.png?raw=true)
+  - ![Comunicación entre fisioterapeutas y pacientes - Llamada al paciente](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Make-Call-Section_Mobile.jpeg?raw=true)
 
 ### Registro de consultas médicas
 
 - **Lista de últimas consultas:**
   - Se agregó una lista en la página principal con las últimas consultas, proporcionando una visión rápida de la actividad reciente.
-  - ![Registro de consultas médicas - Lista de últimas consultas](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/Appointment%20or%20Treatment%20Creation.png?raw=true)
+  - ![Registro de consultas médicas - Lista de últimas consultas](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/My-Consultations-List_Mobile.jpeg?raw=true)
 
 ### Envío de diagnóstico y recomendaciones
 
 - **Formulario de ingreso de diagnóstico:**
   - Se desarrolló una vista que permite a los fisioterapeutas ingresar diagnósticos para los pacientes seleccionados.
-  - ![Envío de diagnóstico y recomendaciones - Formulario de ingreso de diagnóstico](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/mobileTheraphyPhotos/PatientsList.png?raw=true)
+  - ![Envío de diagnóstico y recomendaciones - Formulario de ingreso de diagnóstico](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Mobile-Photos/Add-Diagnostic-Section_Mobile.jpeg?raw=true)
 
 Link video de demostración: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e705_upc_edu_pe/EaIxmctEFspBlv8CAinjAXQBovrI-cZMsvNQLaPt5YbX8w?e=IEmpm4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
