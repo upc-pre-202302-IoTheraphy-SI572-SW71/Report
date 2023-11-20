@@ -1186,6 +1186,29 @@ A continuación, se detallan los nuevos endpoints implementados y las operacione
 | [https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/{resultId}](https://api-iotheraphy-production.up.railway.app/api/v1/iotResult/{resultId}) | DELETE | Elimina un resultado de dispositivo IoT por ID. | Elimina un resultado de dispositivo IoT específico de la base de datos. |
 
 
+##### 6.2.3.7 Software Deployment Evidence for Sprint Review
+
+Para el despliegue del Landing Page utiilizamos GitPages
+
+Link del Landing Page desplegado: (https://upc-pre-202302-iotheraphy-si572-sw71.github.io/IoTheraphy-LandingPage/)
+
+Para el despliegue de la aplicación web utilizamos la plataforma Firebase.
+
+Link de la web application desplegada: (theraphyweb-e2dc7.web.app/)
+
+Para el despliegue de la API utilizada empleamos el servicio de Railway
+
+Link de la API desplegada: (htpps://api-iotheraphy-production.up.railway.app)
+
+Para el despliegue de la Mobile App empleamos Firebase
+
+Link de la Mobile App desplegada: ()
+
+Para el dispositivo IoT utilizamos Wokwi
+
+Link de la dispositivo IoT: ()
+
+
 ### 6.3. Validation Interviews.
 En esta sección mostraremos las entrevistas realizadas a los usuarios objetivos de Theraphy, estas tuvieron como objetivo el generar una interacción entra la aplicación y el público al que va dirigida para realizar su respectiva validación. 
 
