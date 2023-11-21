@@ -1461,5 +1461,5 @@ Imagen del video:
 
 <img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/ATP.png" width="600"><br><br>
 
-Link: https://upcedupe-my.sharepoint.com/personal/u20201a836_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201a836_upc_edu_pe%2FDocuments%2Fabout%20the%20product%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020239_upc_edu_pe/EeNIA4Ld6G9Fp17zrusUVj8BLMqWfGEfO8B07Wb3FrJ6cA?e=6lPkp8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
