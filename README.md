@@ -1208,6 +1208,20 @@ Para el dispositivo IoT utilizamos Wokwi
 
 Link de la dispositivo IoT: ()
 
+##### 6.2.3.8 Team Collaboration Insights during Sprint
+
+Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestro iot device.
+
+<img src="https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/insights%20sprint%204/iot.png" width="600">
+
+Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra Web Services.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/insights%20sprint%204/iot.png?raw=true" width="600">
+
+Para evidenciar la colaboración de todos integrantes del equipo DigitAlholics en el desarrollo del presente sprint, mostramos a continuación la sección Insights del repositorio donde se encuentra almacenada nuestra aplicación móvil.
+
+<img src="https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/insights%20sprint%204/mobile.png?raw=true" width="600">
+
 
 ### 6.3. Validation Interviews.
 En esta sección mostraremos las entrevistas realizadas a los usuarios objetivos de Theraphy, estas tuvieron como objetivo el generar una interacción entra la aplicación y el público al que va dirigida para realizar su respectiva validación. 
