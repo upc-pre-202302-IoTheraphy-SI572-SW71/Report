@@ -1194,7 +1194,7 @@ Link del Landing Page desplegado: (https://upc-pre-202302-iotheraphy-si572-sw71.
 
 Para el despliegue de la aplicación web utilizamos la plataforma Firebase.
 
-Link de la web application desplegada: (https://theraphyweb-e2dc7.web.app/)
+Link de la web application desplegada: (https://theraphy-2b472.web.app/)
 
 Para el despliegue de la API utilizada empleamos el servicio de Railway
 
