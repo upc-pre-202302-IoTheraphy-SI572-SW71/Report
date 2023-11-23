@@ -1206,7 +1206,7 @@ Link de la Mobile App desplegada: ()
 
 Para el dispositivo IoT utilizamos Wokwi
 
-Link de la dispositivo IoT: ()
+Link de la dispositivo IoT: (https://wokwi.com/projects/382163503781624833)
 
 ##### 6.2.3.8 Team Collaboration Insights during Sprint
 
