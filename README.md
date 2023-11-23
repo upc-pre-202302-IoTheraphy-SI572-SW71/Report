@@ -85,6 +85,13 @@ A continuación presentamos las estadísticas dentro de la sección Pulse de los
 Seguidamente presentamos las estadísticas de la sección Contributors, que evidencia la cantidad de adiciones y eliminaciones realizadas al reporte situado en nuestra rama main.<br>
 ![Insight Contributors](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InsightsTP/Insights_contributors.jpg)<br><br>
 
+### TF
+A continuación presentamos las estadísticas dentro de la sección Pulse de los Insights del presente repositorio. Estas estadísticas presentan la cantidad de commits que los integrantes han realizado al reporte del trabajo final<br>
+![Insight Pulse](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/blob/main/Inside-SpringBoot3.PNG?raw=true)<br><br>
+
+Seguidamente presentamos las estadísticas de la sección Contributors, que evidencia la cantidad de adiciones y eliminaciones realizadas al reporte situado en nuestra rama main.<br>
+![Insight Contributors](https://raw.githubusercontent.com/upc-pre-202302-IoTheraphy-SI572-SW71/ReportAssets/main/InsightsTP/Insights_contributors.jpg)<br><br>
+
 ## Contenido
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Student Outcome](https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71/Report/tree/Student-Outcome#readme)
